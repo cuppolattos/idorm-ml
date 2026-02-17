@@ -1,0 +1,501 @@
+nama_kos,harga,luas_kamar,jarak_ke_bca,tipe_kos,is_ac,is_km_dalam,is_water_heater,is_furnished,is_internet,is_listrik_free,is_parkir_mobil,is_mesin_cuci
+Kost Cikini Cozy Coliving Exclusive Hoek Menteng Jakarta Pusat,4500000,12.0,2.223149335473699,campur,1,1,1,1,1,0,1,1
+Kost Singgahsini Cut Nyak Dien Residence Tipe A Menteng Jakarta Pusat,3025000,12.0,1.503731384184104,campur,1,1,1,1,1,1,1,1
+Kost Singgahsini Shankee Sudirman Tipe B Setiabudi Jakarta Selatan,4525000,15.0,1.83976705221471,campur,1,1,1,1,1,1,1,0
+Kost Apik Perintis 5 Karet Kuningan Tipe D Setiabudi Jakarta Selatan,1155000,6.0,1.8631268679075528,campur,1,0,0,1,1,0,1,0
+Kost Singgahsini Kramat Kwitang 30 Tipe B Senen Jakarta Pusat,1495000,4.620000000000001,2.274749329662275,putra,1,0,0,1,1,1,0,0
+Kost Singgahsini Sofia Thamrin Tipe B Tanah Abang Jakarta Pusat,2925000,9.45,1.2501563013515236,campur,1,1,0,1,1,0,1,0
+Kost Apik Kebon Kacang Tipe B Tanah Abang Jakarta Pusat,1725000,10.5,0.8790486024058662,putri,1,0,0,1,1,0,0,0
+Kost Apik Aipda Petamburan Tipe D Tanah Abang Jakarta Pusat,1100000,9.0,1.899072351722906,putri,1,0,0,1,1,1,0,0
+Kost Cikini Cozy Coliving Deluxe Menteng Jakarta Pusat,3750000,12.0,2.223149335473699,campur,1,1,1,1,1,0,1,1
+Kost Alivio Suites Setiabudi Jakarta Selatan,6500000,16.0,1.379685234105042,campur,1,1,1,0,1,1,1,1
+Kost Singgahsini Vanela 15 Tipe B Menteng Jakarta Pusat,3095000,10.5,0.6359608282121956,campur,1,1,1,1,1,0,0,1
+Kost Singgahsini Tanah Abang Tipe A Jakarta Pusat,1825000,14.0,0.8397280094251451,putri,1,1,0,1,1,1,1,0
+Kost Singgahsini Kramat Kwitang 30 Tipe A Senen Jakarta Pusat,1805000,11.61,2.274749329662275,putra,1,1,0,1,1,1,0,0
+Kost Apik Perintis 5 Karet Kuningan Tipe C Setiabudi Jakarta Selatan,1365000,9.0,1.8631268679075528,campur,1,0,0,1,1,0,1,0
+Kost Singgahsini Nayan Setiabudi Tipe A Kuningan Jakarta Selatan,2425000,8.7,1.347869483427353,campur,1,1,1,1,1,0,1,1
+Kost Cikini Cozy Coliving Exclusive Menteng Jakarta Pusat,4250000,12.0,2.223149335473699,campur,1,1,1,1,1,0,1,1
+Kost Apik 89G Kwitang Tipe B Senen Jakarta Pusat,1125000,4.41,2.4301106002282213,putri,1,0,0,1,1,1,0,0
+Kost Singgahsini Vanela 8 Benhil Tipe A Tanah Abang Jakarta Pusat,3000000,9.0,2.2062293152073176,campur,1,1,1,1,1,0,0,0
+Kost Singgahsini Alaya Pejompongan Tipe A Tanah Abang Jakarta Pusat,1995000,12.96,1.9564920156865104,campur,1,1,0,1,1,0,1,0
+Kost Singgahsini Guntur 42 Tipe A Setiabudi Jakarta Selatan,3525000,18.0,2.026267866332726,campur,1,1,1,1,1,1,1,0
+Kost Singgahsini W One Kebon Kacang Tipe B Tanah Abang Jakarta Pusat,3225000,12.6,0.6495285941453699,campur,1,1,1,1,1,0,0,0
+Kost Singgahsini Sofia Thamrin Tipe C Tanah Abang Jakarta Pusat,2525000,9.45,1.2501563013515236,campur,1,1,0,1,1,0,1,0
+Kost Singgahsini Greenhome Tipe A Bendungan Hilir Jakarta Pusat,3625000,15.75,2.287347565026893,campur,1,1,1,1,1,0,1,0
+Kost Singgahsini Anisa Kebon Kacang 6 Tipe D Tanah Abang Jakarta Pusat,2525000,7.5,1.0264755958832252,putri,1,1,0,1,1,0,1,0
+Kost Singgahsini Rumah 5111 Tipe B Setiabudi Jakarta Selatan,2925000,10.56,1.3670835809155355,campur,1,1,0,1,1,0,1,1
+Kost Singgahsini Miracle Petamburan II Tipe B Tanah Abang Jakarta Pusat,1825000,6.0,1.8123435508656107,putri,1,1,0,1,1,0,1,0
+Kost Apik Kebon Kacang Tipe A Tanah Abang Jakarta Pusat,1475000,8.959999999999999,0.8790486024058662,putri,1,0,0,1,1,1,0,0
+Kost Singgahsini Vanela 15 Tipe C Menteng Jakarta Pusat,2875000,10.5,0.6359608282121956,campur,1,1,1,1,1,0,0,1
+Kost Apik Perintis 5 Karet Kuningan Tipe B Setiabudi Jakarta Selatan,1675000,12.0,1.8631268679075528,campur,1,0,0,1,1,0,1,0
+Kost Singgahsini Vanela 15 Tipe A Menteng Jakarta Pusat,3205000,10.5,0.6359608282121956,campur,1,1,1,1,1,0,0,1
+Kost Singgahsini Greenhome Tipe C Bendungan Hilir Jakarta Pusat,2975000,9.0,2.287347565026893,campur,1,1,1,1,1,0,1,0
+Kost Singgahsini Guntur 40 Tipe B Setiabudi Jakarta Selatan,2975000,8.100000000000001,2.02810943283584,campur,1,1,1,1,1,0,1,0
+Kost Singgahsini Miracle Petamburan II Tipe A Tanah Abang Jakarta Pusat,1725000,6.0,1.8123435508656107,putri,1,1,0,1,1,0,1,0
+Kost Singgahsini Anisa Kebon Kacang 6 Tipe E Tanah Abang Jakarta Pusat,2425000,7.5,1.0264755958832252,putri,1,1,0,1,1,0,1,0
+Kost Singgahsini Yulimar Petamburan 5 Tipe A Tanah Abang Jakarta Pusat,1375000,7.5,1.7405976166238288,putri,1,0,0,1,1,0,0,0
+Kost Singgahsini Sofia Thamrin Tipe D Tanah Abang Jakarta Pusat,2025000,9.0,1.2501563013515236,campur,1,1,0,1,1,0,1,0
+Kost Singgahsini Greenhome Tipe B Bendungan Hilir Jakarta Pusat,3375000,12.0,2.287347565026893,campur,1,1,1,1,1,0,1,0
+Kost Apik 89G Kwitang Tipe C Senen Jakarta Pusat,1025000,5.04,2.427799738259192,putri,1,0,0,1,1,1,0,0
+Kost Singgahsini Alaya Pejompongan Tipe B Tanah Abang Jakarta Pusat,1465000,5.25,1.9564920156865104,campur,1,0,0,1,1,0,1,0
+Kost Singgahsini Hygge Hus Kampung Bali Tipe B Tanah Abang Jakarta Pusat,2325000,8.0,1.2670305663529162,campur,1,1,0,1,1,0,1,0
+Kost Singgahsini Rumah 5111 Tipe A Setiabudi Jakarta Selatan,3105000,12.21,1.3670835809155355,campur,1,1,0,1,1,0,1,1
+Kost Singgahsini Guntur 40 Tipe A Setiabudi Jakarta Selatan,3375000,12.47,2.02810943283584,campur,1,1,1,1,1,0,1,0
+Kost Singgahsini AOS Home Tipe A Setiabudi Jakarta Selatan,2625000,9.0,1.8927971955658367,campur,1,1,0,1,1,1,1,0
+Kost Singgahsini Bendungan Hilir 95 Tipe A Tanah Abang Jakarta Pusat,1525000,12.25,2.176158187559801,campur,1,0,0,1,1,0,0,0
+Kost Apik Kebon Kacang Tipe C Tanah Abang Jakarta Pusat,2025000,13.5,0.8790486024058662,putri,1,1,0,1,1,0,0,0
+Kost Cikini Cozy Coliving Deluxe Window Menteng Jakarta Pusat,4000000,12.0,2.223149335473699,campur,1,1,1,1,1,0,1,1
+Kost Singgahsini Vanela 8 Benhil Tipe B Tanah Abang Jakarta Pusat,2875000,7.5,2.2062293152073176,campur,1,1,1,1,1,0,0,0
+Kost Singgahsini SB Living Tipe B Menteng Jakarta Pusat,2000000,7.290000000000001,2.1664281516531925,campur,1,1,0,1,1,0,1,0
+Kost Singgahsini W One Kebon Kacang Tipe A Tanah Abang Jakarta Pusat,4725000,22.200000000000003,0.6495285941453699,campur,1,1,1,1,1,0,0,0
+Kost Apik 89G Kwitang Tipe A Senen Jakarta Pusat,1175000,5.670000000000001,2.431753839642328,putri,1,0,0,1,1,1,0,0
+Kost Adisa Tipe B Tanah Abang Jakarta Pusat,850000,7.5,1.6580695209364844,putra,1,0,0,1,1,1,0,1
+Kost Apik Aipda Petamburan Tipe A Tanah Abang Jakarta Pusat,1500000,9.0,1.899072351722906,putri,1,0,0,1,1,1,0,0
+Kost Singgahsini Hygge Hus Kampung Bali Tipe A Tanah Abang Jakarta Pusat,2425000,16.0,1.2670305663529162,campur,1,1,0,1,1,0,1,0
+Kost Singgahsini Anisa Kebon Kacang 6 Tipe B Tanah Abang Jakarta Pusat,2825000,19.25,1.0264755958832252,putri,1,1,0,1,1,0,1,0
+Kost Adisa 1 Tipe B Tanah Abang Jakarta Pusat,1000000,4.0,1.6775566337371135,putra,1,0,0,1,1,1,0,0
+Kost Singgahsini W One Kebon Kacang 12 Tipe A Tanah Abang Jakarta Pusat,2525000,8.4,0.7541592744666701,campur,1,1,0,1,1,0,0,0
+Kost Singgahsini Tanah Abang Tipe B Jakarta Pusat,1725000,12.0,0.8397280094251451,putri,1,1,0,1,1,1,1,0
+Kost Apik Aura Kwitang Tipe A Senen Jakarta Pusat,1525000,5.0,2.4113552135553844,putra,1,0,0,1,1,1,0,0
+Kost Menteng Latuharhary Menteng Jakarta Pusat,3500000,30.0,1.1443153661727583,putri,1,1,0,1,1,1,1,1
+Kost Katelia Tanpoliang Senen Jakarta Pusat,2300000,16.0,2.4802806968009623,campur,1,1,0,1,1,0,0,0
+Kost Yosi Perdana Tipe A Setiabudi Jakarta Selatan,1300000,6.25,1.7806170296606192,putra,1,0,0,1,1,1,0,0
+Kost Md 2 Gedung Baru Vip Black Room J Gambir Jakarta Pusat,1900000,9.0,2.231093196097472,putri,1,0,0,1,1,0,0,0
+Kost Singgahsini Nest Cikini Tipe A Menteng Jakarta Pusat,2525000,8.64,1.7990672908583194,campur,1,0,0,1,1,0,0,0
+Kost Singgahsini Anisa Kebon Kacang 6 Tipe A Tanah Abang Jakarta Pusat,3025000,43.2,1.0264755958832252,putri,1,1,0,1,1,0,1,0
+Kost Apik Perintis 5 Karet Kuningan Tipe A Setiabudi Jakarta Selatan,1985000,15.0,1.8631268679075528,campur,1,0,0,1,1,0,1,0
+Kost Amarrylis Tipe Executive Gambir Jakarta Pusat,1800000,9.0,2.397411394799385,putri,1,0,0,1,1,1,0,0
+Kost Singgahsini Miracle Petamburan II Tipe C Tanah Abang Jakarta Pusat,1875000,12.0,1.8123435508656107,putri,1,1,0,1,1,0,1,0
+Kost Singgahsini Sofia Thamrin Tipe A Tanah Abang Jakarta Pusat,3275000,12.15,1.2501563013515236,campur,1,1,0,1,1,0,1,0
+Kost Singgahsini AOS Home Tipe B Setiabudi Jakarta Selatan,2125000,9.0,1.8927971955658367,campur,1,0,0,1,1,1,1,0
+Kost Singgahsini Dinor Living Tipe B Bendungan Hilir Jakarta Pusat,3125000,7.279999999999999,2.064397030429653,putri,1,1,1,1,1,0,0,1
+Kost KIF37 Tipe A Senen Jakarta Pusat,1750000,6.0,2.3087161344175704,putri,1,0,1,1,1,0,0,0
+Kost Singgahsini Anisa Kebon Kacang 6 Tipe F Tanah Abang Jakarta Pusat,2225000,12.0,1.0264755958832252,putri,1,0,0,1,1,0,1,0
+Kost Apik Aipda Petamburan Tipe B Tanah Abang Jakarta Pusat,1300000,10.8,1.899072351722906,putri,1,1,0,1,1,1,0,0
+Kost Green Palmerah Jakarta Barat,800000,6.0,2.088512326523377,campur,1,0,0,1,1,0,0,1
+Kost Apik Aipda Petamburan Tipe C Tanah Abang Jakarta Pusat,1300000,9.0,1.899072351722906,putri,1,1,0,1,1,1,0,0
+Kost Katelia Tipe A Senen Jakarta Pusat,2300000,16.0,2.4802806968009623,campur,1,1,0,1,1,0,0,1
+Kost Singgahsini SB Living Tipe A Menteng Jakarta Pusat,2089000,7.290000000000001,2.1664281516531925,campur,1,1,0,1,1,0,1,0
+Kost Singgahsini Anisa Kebon Kacang 6 Tipe G Tanah Abang Jakarta Pusat,2425000,12.0,1.0264755958832252,putri,1,0,0,1,1,0,1,0
+Kost Singgahsini Shankee Sudirman Tipe A Setiabudi Jakarta Selatan,5525000,15.0,1.83976705221471,campur,1,1,1,1,1,1,1,0
+Kost Singgahsini Tanah Abang Tipe C Jakarta Pusat,1625000,12.0,0.8397280094251451,putri,1,1,0,1,1,1,1,0
+Kost Yosi Perdana Tipe C Setiabudi Jakarta Selatan,1800000,6.25,1.7806170296612691,putra,1,1,0,1,1,1,0,0
+Kost LeGreen Suite Penjernihan II Tanah Abang Jakarta Pusat,4000000,16.0,1.7262474027249726,campur,1,1,1,1,1,0,1,1
+Kost Singgahsini Nest Cikini Tipe B Menteng Jakarta Pusat,2025000,7.5,1.7990672908583194,campur,1,0,0,1,1,0,0,0
+Kost Singgahsini Anisa Kebon Kacang 6 Tipe C Tanah Abang Jakarta Pusat,2675000,10.5,1.0264755958832252,putri,1,1,0,1,1,0,1,0
+Kost Kangaroom Benhil Tanah Abang Jakarta Pusat,5500000,14.4,1.9284029447299484,campur,1,1,1,1,1,0,1,1
+Kost Wahyu Agung Sari Tanah Abang Jakarta Pusat,2000000,9.0,2.406776090591045,putra,1,0,0,1,1,1,0,0
+Kost Singgahsini Dinor Living Tipe A Bendungan Hilir Jakarta Pusat,3325000,12.21,2.0629575846900527,putri,1,1,1,1,1,0,0,1
+Kost Icorner Residence Std Tipe A Tanah Abang Jakarta Pusat,3200000,11.2,0.5798715998918891,campur,1,1,1,1,1,1,1,1
+Kost The Terraza Setiabudi Jakarta Selatan,2250000,9.0,2.036508611436292,campur,1,0,0,1,1,0,0,0
+Kost Kampung Bali 10 Tipe A Tanah Abang Jakarta Pusat,1600000,12.0,1.315440618426644,putra,1,0,0,1,1,0,0,0
+Kost Ibu Regina Tipe C Menteng Jakarta Pusat,2250000,9.0,1.261664191904817,campur,1,1,0,1,1,1,1,1
+Kost YCSL Tanah Abang Jakarta Pusat,1100000,6.0,2.181099558940547,putri,1,0,0,1,1,0,0,0
+Kost Sabang 40 Tipe A Plus Menteng Jakarta Pusat,3300000,18.0,1.23976930307215,campur,1,1,1,1,1,0,0,1
+Kost Kxiv Exclusive 01 Tanah Abang Jakarta Pusat,3000000,8.0,0.687019394181124,campur,1,0,0,1,1,1,0,1
+Kost Singgahsini Dinor Living Tipe C Bendungan Hilir Jakarta Pusat,3025000,7.279999999999999,2.0647449015350667,putri,1,1,0,1,1,0,0,1
+Kost Amarrylis Tipe B2 Gambir Jakarta Pusat,2500000,21.0,2.363712798791972,putri,1,1,0,1,1,1,0,0
+Kost Bunda Tipe Vip Palmerah Jakarta Barat,2100000,12.0,2.5015299798056496,campur,1,1,0,1,1,0,0,0
+Kost Koze Benhill 7A Tanah Abang Jakarta Pusat,2200000,6.0,2.239111289146606,putri,1,0,1,0,1,0,0,0
+Kost Tangkuban Perahu Setiabudi Jakarta Selatan,2900000,21.0,1.9049193284115669,putri,1,1,0,1,1,1,0,0
+Kost Reggy Kalipasir Good Menteng Jakarta Pusat,1550000,12.0,2.08810401563017,putri,1,1,0,1,1,0,0,0
+Kost Kebon Kacang 15 Standard Tanah Abang Jakarta Pusat,1050000,5.0,0.7047181326819728,putra,1,0,0,1,1,1,0,0
+Kost Monokost Kebon Sirih Menteng Jakarta Pusat,4200000,16.0,2.129637346900002,campur,1,1,0,1,1,0,0,1
+Kost Singgahsini W One Kebon Kacang 12 Tipe B Tanah Abang Jakarta Pusat,1725000,4.9,0.7541592744666701,campur,1,0,0,1,1,0,0,0
+Kost Deloza Tipe Double Setiabudi Jakarta Selatan,2500000,10.89,1.320769016006328,putri,1,1,0,0,1,1,1,0
+Kost Daffa Tipe B Bendungan Hilir Tanah Abang Jakarta Pusat,2000000,13.5,1.928143946978309,campur,1,1,0,1,1,0,0,0
+Kost Garden V Executive Room Tanah Abang Jakarta Pusat,2500000,20.0,0.9806019502373896,campur,1,1,0,1,1,0,0,0
+Kost Bunda Hj Tuti Tipe A Menteng Jakarta Pusat,850000,12.0,1.4312321653553803,putri,1,0,0,1,1,1,1,0
+Kost Kebon Kacang 14 Tanah Abang Jakarta Pusat,1600000,9.0,0.6972831311042281,campur,1,1,0,1,1,1,0,1
+Kost Kuningan Village Tipe A Setiabudi Jakarta Selatan,3400000,12.0,2.069586572161925,campur,1,1,1,1,1,1,1,0
+Kost Karoo Residence Setia Budi Jakarta Selatan,4100000,16.0,1.683601832798295,campur,1,1,1,1,1,0,1,1
+Kost Singgahsini Vanela 8 Benhil Tipe C Tanah Abang Jakarta Pusat,2525000,6.25,2.2062293152073176,campur,1,1,1,1,1,0,0,0
+Kost Vine Koi Residence Tanah Abang Jakarta Pusat,2700000,12.0,1.2515098724452964,campur,1,1,0,1,1,0,0,0
+Kost Robert Chandra Tipe Standart Tanah Abang Jakarta Pusat,1300000,4.0,0.5647120447325769,putri,1,0,0,1,1,0,0,0
+Kost Baik 2 Pam Suites Tanah Abang Jakarta Pusat,2400000,9.0,1.9409384768459168,campur,1,1,1,1,1,0,0,1
+Kost JKP Setiabudi Jakarta Selatan,2600000,12.6,1.5636970290852903,campur,1,1,1,1,1,0,0,1
+Kost Tirta Royal Residence Benhill Tanah Abang Jakarta Pusat,2199999,9.0,2.149164631479737,campur,1,1,0,1,1,0,0,0
+Kost Kevin Tipe Non Ac Setiabudi Jakarta Selatan,1299999,4.4,2.238147735731133,campur,1,1,0,1,1,1,0,0
+Kost Deloza Tipe Single Setiabudi Jakarta Selatan,2450000,10.89,1.320769016006328,putri,1,1,1,1,1,1,1,1
+Kost Jambi House Setiabudi Jakarta Selatan,3000000,8.100000000000001,1.3068929247157688,campur,1,1,1,1,1,0,0,1
+Kost Gokostel W3 Standart Menteng Jakarta Pusat,3500000,12.0,0.6086840234397372,campur,1,1,1,1,1,0,0,1
+Kost Chrysant Home Thamrin 1 Gambir Jakarta Pusat,1400000,4.0,2.1741316592283098,campur,1,0,0,1,1,1,0,1
+Kost Griya 47 Deluxe Menteng Jakarta Pusat,1000000,9.0,2.274439984686417,campur,1,0,0,1,1,1,0,0
+Kost Ungaran Setiabudi Jakarta Selatan,2000000,9.0,1.9418787523170205,campur,1,1,1,1,1,0,1,0
+Kost Wanda 2 Tipe Standard Setiabudi Jakarta Selatan,850000,9.0,1.907728439493447,putra,1,0,0,1,1,0,0,0
+Kost Bapak Sudi Senen Jakarta Pusat,800000,9.0,2.4734766023339314,putri,1,0,0,1,1,0,0,0
+Kost Rosnaningsih Palmerah Jakarta Barat,700000,24.0,2.1339402173465385,putri,1,0,0,0,1,1,0,0
+Kost Mama Linda Tanah Abang Jakarta Pusat,2800000,15.0,2.0522672238729496,putri,1,1,1,1,1,1,0,0
+Kost Kebon Kacang Kampung Bali XIII Tanah Abang Jakarta Pusat,2499999,12.0,1.2188912598417976,putri,1,1,1,1,1,0,1,0
+Kost Jl Tembok No 9 Tipe A Menteng Jakarta Pusat,3000000,12.0,2.028310229071101,campur,1,1,1,1,1,1,1,0
+Kost Under The Starfruit Tree Tipe B Tanahabang Jakarta Pusat,3500000,14.0,0.7490293792389683,campur,1,1,0,1,1,0,0,1
+Kost Buyan 53 Bendungan Hilir Tanah Abang Jakarta Pusat,3200000,12.25,2.0322961200740868,campur,1,1,1,1,1,0,0,1
+Kost Adisa Tipe A Tanah Abang Jakarta Pusat,1200000,11.4,1.665520690149008,putri,1,0,0,1,1,1,0,0
+Kost Nines Residences Tipe Deluxe Room Setiabudi Jakarta Selatan,4500000,12.0,2.6638102796892977,campur,1,1,1,1,1,0,1,0
+Kost Aster II Tipe A Tanah Abang Jakarta Pusat,3000000,14.0,1.9482478465333928,campur,1,1,1,1,1,0,1,1
+Kost Sakura Terrace 2 Setiabudi Jakarta Selatan,8029999,12.0,1.5182916079153648,campur,1,1,1,1,1,1,1,1
+Kost Kebon Kacang 38 Tipe 3 Tanah Abang Jakarta Pusat,1700000,6.0,0.5008009908458949,campur,1,1,0,1,1,0,0,0
+Kost The Podhouse Tipe D Setiabudi Jakarta Selatan,4000000,12.0,1.8145897380223728,campur,1,1,1,1,1,1,0,1
+Kost Vera Benhil Tanah Abang Jakarta Pusat,2250000,9.0,2.215068243529072,putra,1,1,0,1,1,0,0,1
+Kost Garden 19 Tipe A Tanah Abang Jakarta Pusat,2000000,16.0,0.8891887788667738,campur,1,1,0,1,1,0,0,0
+Kost Kebon Kacang Residence Tipe Standard Tanah Abang Jakarta Pusat,2150000,7.5,0.4741141414840218,campur,1,1,1,1,1,1,0,0
+Kost Magnolia Mansion Setiabudi Jakarta Selatan,3300000,24.0,2.085669127034688,campur,1,0,1,0,1,0,1,0
+Kost Blessing 1 Setiabudi Jakarta Selatan,2000000,12.0,2.076963365644872,campur,1,0,0,1,1,0,0,1
+Kost Raisa Kebon Kacang Tanah Abang Jakarta Pusat,2000000,16.0,0.8137776945492994,campur,1,1,0,1,1,0,0,1
+Kost Eleven Garden Tipe B Tanah Abang Jakarta Pusat,1600000,12.0,0.918810703818974,campur,1,0,0,1,1,0,0,0
+Kost De 2nd Home Tipe B Tanah Abang Jakarta Pusat,3700000,12.0,1.865398735053746,campur,1,1,1,1,1,1,0,1
+Kost Benhil Annapurna Tipe B1 Tanah Abang Jakarta Pusat,2430000,9.0,2.0364178455900714,campur,1,1,1,1,1,0,0,1
+Kost The Agora Benhil Tipe A Tanah Abang Jakarta Pusat,4500000,16.0,1.879012612350806,putri,1,1,1,1,1,0,1,1
+Kost Anthonius Menteng Jakarta Pusat,900000,6.0,1.4470265808427378,campur,1,0,0,1,1,1,0,1
+Kost Penjernihan 31 Executive Tanah Abang Jakarta Pusat,2500000,12.0,1.361341430752068,putri,1,1,1,1,1,0,1,1
+Kost E16 Residence Tipe Suite Setiabudi Jakarta Selatan,4000000,12.0,1.53595626259164,campur,1,1,1,1,1,0,1,1
+Kost Kebon Kacang 1 Tanah Abang Jakarta Pusat,1999999,12.0,0.7213817858642948,campur,1,1,1,1,1,0,0,1
+Kost Wisma Yusida Tanah Abang Jakarta Pusat,2500000,16.0,0.6143183557164686,campur,1,1,0,1,1,0,0,0
+Kost The Agora Pejompongan Tipe Suites Tanah Abang Jakarta Pusat,4500000,15.75,2.0944802888482714,putri,1,1,1,1,1,0,1,1
+Kost Heirs Residence Setiabudi Jakarta Selatan,3300000,12.0,2.149159811016399,campur,1,1,1,1,1,0,0,1
+Kost Ogura Benhil Tipe Deluxe Room Tanah Abang Jakarta Pusat,3700000,15.0,1.8808890746327245,campur,1,1,1,1,1,0,0,1
+Kost Dedy Tipe A Senen Jakarta Pusat,1600000,9.0,2.509009629689733,campur,1,1,0,1,1,1,0,1
+Kost DENLI Tanah Abang Jakarta Pusat,3650000,16.0,0.6948605533713063,campur,1,1,1,1,1,1,1,1
+Kost Eyang Palmerah Jakarta Barat,1700000,9.0,2.3254579738709125,campur,1,0,0,1,1,0,0,1
+Kost Ogura Benhil Budget Tanah Abang Jakarta Pusat,3300000,12.5,1.8808890746327245,campur,1,1,1,1,1,0,0,1
+Kost Icorner Residence Std Tipe C Tanah Abang Jakarta Pusat,2600000,11.2,0.5798715998918891,campur,1,1,1,1,1,1,1,1
+Kost Under The Starfruit Tree Tipe A Kebon Kacang Tanah Abang Jakarta Pusat,4300000,24.0,0.7490293792389683,campur,1,1,0,1,1,1,0,1
+Kost Rumah 19 Tipe B Setiabudi Jakarta Selatan,2200000,12.0,1.44055172781421,putri,1,0,0,0,1,1,0,1
+Kost 37 1 Tipe D Tanah Abang Jakarta Pusat,2200000,12.0,0.5100699605402017,putri,1,1,0,1,1,1,0,1
+Kost Twin Benhil 7 Tanah Abang Jakarta Pusat,1400000,12.0,2.2623987598123403,campur,1,1,0,1,1,1,0,0
+Kost City Cabin Tipe Deluxe Tanah Abang Jakarta Pusat,3300000,9.0,2.129851196037225,campur,1,1,1,1,1,0,0,1
+Kost Adiraca Jaya Abadi Tanah Abang Jakarta Pusat,1200000,12.0,1.846695263813784,putra,1,0,0,1,1,1,0,0
+Kost Rumah 19 Tipe A Setiabudi Jakarta Selatan,2000000,7.5,1.44055172781421,putri,1,0,0,1,1,1,0,1
+Kost Kobam Tipe A Palmerah Jakarta Barat,1100000,15.75,1.9965218470847144,putri,1,1,0,0,1,1,0,0
+Kost Ika AC Menteng Jakarta Pusat,2000000,9.0,1.989708222765036,putri,1,0,0,1,1,1,0,0
+Kost Rumah 19 Tipe 2 Setiabudi Jakarta Selatan,2700000,15.75,1.4405517278270192,putri,1,1,0,1,1,1,0,1
+Kost Dina Tanah Abang Jakarta Pusat,750000,9.0,1.6998845088420262,campur,1,0,0,1,1,1,0,0
+Kost Cendana 9 Executive 1 Tanah Abang Jakarta Pusat,1600000,4.0,1.391517696884826,putri,1,1,0,1,1,0,0,0
+Kost Premiere Residence Tipe Executive Tanah Abang Jakarta Pusat,2700000,9.0,1.0511948771033388,campur,1,1,1,1,1,0,0,1
+Kost The One Residence Premier Single Tanah Abang Jakarta Pusat,3500000,12.0,0.9853236076043947,campur,1,1,1,1,1,1,0,0
+Kost Karbela Karet Setiabudi Jakarta Selatan,2900000,9.0,2.013080780953915,campur,1,1,1,1,1,0,0,0
+Kost Amore Tipe Ac Standard Tanah Abang Jakarta Pusat,2000000,9.0,0.9146772120955228,putri,1,0,0,1,1,0,0,1
+Kost Pati 32 Menteng Jakarta Pusat,2800000,10.5,0.5702340847048091,campur,1,1,1,1,1,0,0,1
+Kost 37 18 Non Ac Tanah Abang Jakarta Pusat,1900000,12.0,0.5551275735436744,putri,1,1,0,1,1,1,0,1
+Kost Win Residence Standard Lantai 1 Tanah Abang Jakarta Pusat,2700000,12.0,0.6259895632883209,campur,1,1,1,1,1,0,0,0
+Kost Merlyn Setiabudi Jakarta Selatan,2350000,9.0,1.484547694848107,campur,1,1,1,1,1,0,0,1
+Kost DE Lorre Setiabudi Jakarta Selatan,2300000,9.0,2.1630034796087783,putri,1,1,0,1,1,0,0,0
+Kost Tino Cikini Standard Double Menteng Jakarta Pusat,3350000,9.0,1.9490581714574653,campur,1,1,1,1,1,0,0,1
+Kost Elju Deluxe Palmerah Jakarta Barat,2500000,8.88,2.900464225635437,campur,1,1,0,1,1,0,1,1
+Kost Rubi Tipe AC Tanah Abang Jakarta Pusat,1800000,9.0,0.8753699914198243,campur,1,1,0,1,1,1,0,1
+Kost Anggrek Tipe D Setiabudi Jakarta Selatan,1650000,12.0,2.1798076576676246,putri,1,1,0,1,1,1,0,0
+Kost Menteng Guest House Single Bed Menteng Jakarta Pusat,3750000,13.5,1.4801727940824614,campur,1,1,1,1,1,1,1,1
+Kost Ceniza Kebon Kacang Tipe A Tanah Abang Jakarta Pusat,1400000,9.0,0.518080293334019,putri,1,1,0,1,1,1,0,0
+Kost Zhafira Tipe C Senen Jakarta Pusat,1400000,12.0,2.579311060392916,campur,1,1,0,1,1,0,0,1
+Kost Bu Nunung Tanah Abang Jakarta Pusat,850000,9.0,2.037107099917253,putra,1,0,0,0,1,1,0,0
+Kost Wisma Cemara 1 Palmerah Jakarta Barat,1700000,12.0,2.37689813606018,putri,1,1,1,1,1,0,0,1
+Kost Toma Haus Tipe 2 Setiabudi Jakarta Selatan,1800000,7.5,2.049954336792416,putri,1,0,0,1,1,1,1,0
+Kost Aurora Tipe A Tanah Abang Jakarta Pusat,2600000,12.0,2.247198031082972,campur,1,1,1,1,1,0,0,1
+Kost Eleven Garden Tipe A Tanah Abang Jakarta Pusat,2000000,12.0,0.9277679700242566,campur,1,1,0,1,1,0,0,0
+Kost Anggrek 3 Tipe Vip Setiabudi Jakarta Selatan,2800000,15.0,1.4707486568792685,campur,1,1,1,1,1,0,0,1
+Kost Rumah 19 B4 Setiabudi Jakarta Selatan,2200000,12.0,1.4405517278270192,putri,1,0,0,0,1,1,0,1
+Kost Karbela Raya 3 Tipe Ac Setiabudi Jakarta Selatan,2100000,20.0,2.096376964589895,campur,1,0,0,1,1,1,0,1
+Kost Aghniya Pomee Tipe B Tanah Abang Jakarta Pusat,3500000,12.0,1.9005140823687887,campur,1,1,1,1,1,0,0,0
+Kost Cideng Cozy Home Mezzanine Gambir Jakarta Pusat,2700000,12.0,2.384467095774837,campur,1,1,1,1,1,0,0,0
+Kost Le Green Suite Sudirman Setiabudi Jakarta,5000000,16.0,1.4059816885080838,campur,1,1,1,1,1,1,0,1
+Kost Zhafira Tipe A Senen Jakarta Pusat,1000000,6.0,2.544989889986028,campur,1,0,0,1,1,0,0,1
+Kost Ibu Indri Tipe VIP Tanah Abang Jakarta Pusat,2300000,16.0,0.8920395992320695,campur,1,1,0,1,1,0,0,0
+Rumah Kontrakan Yori 1 Setiabudi Jakarta Selatan,1600000,14.0,2.465400135867158,campur,1,1,0,0,1,0,0,0
+Kost Bendungan Hilir Tanah Abang Jakarta Pusat,4300000,16.0,2.234201331424841,campur,1,1,1,1,1,1,1,1
+Kost Yellow Tipe A Tanah Abang Jakarta Pusat,1000000,9.0,0.9874004255167416,putri,1,1,0,0,1,0,0,0
+Kost Cemara21A Menteng Near Gondangdia Station Jakarta Pusat,3500000,12.0,1.180022028486127,campur,1,1,0,1,1,1,1,1
+Kost Under The Starfruit Tree Tipe C Tanahabang Jakarta Pusat,3700000,16.0,0.7490293792389683,campur,1,1,0,1,1,0,0,1
+Kost Ibu Sri Danau Sekawi Benhil Tipe A Tanah Abang Jakarta Pusat,2000000,12.0,2.3704623436302508,campur,1,1,1,0,1,0,0,1
+Kost Mama Tipe A Palmerah Jakarta Barat,1700000,9.0,2.078151031141735,putri,1,1,0,1,1,1,0,0
+Kost Elju Tipe A1 Palmerah Jakarta Barat,2225000,10.35,2.900464225635437,campur,1,1,0,0,1,0,1,1
+Kost Brantas Standard Gambir Jakarta Pusat,2000000,16.0,2.266574728325497,campur,1,1,1,1,1,0,0,1
+Kost Kosongan Delimaa Petamburan Vvip Tanah Abang Jakarta Pusat,2200000,30.0,1.6303655596342037,campur,1,1,0,0,1,0,0,0
+Kost Daftara Tipe C Tanah Abang Jakarta Pusat,2000000,15.0,1.88121416413768,campur,1,1,0,1,1,1,1,0
+Kost Safina Tanah Abang Jakarta Pusat,800000,12.0,1.686054757970303,putri,1,0,0,1,1,1,0,0
+Kost Zhafira Tipe B Senen Jakarta Pusat,1300000,12.0,2.579311060166065,campur,1,0,0,1,1,0,0,1
+Kost Makmur Tipe A Tanah Abang Jakarta Pusat,1800000,9.0,0.998664580530122,campur,1,1,0,1,1,1,0,1
+Kost Tembok 8 Tipe I Menteng Jakarta Pusat,1800000,12.0,1.9848681920021387,putri,1,0,0,1,1,1,0,0
+Kost Bee Tipe A Palmerah Jakarta Barat,1900000,9.0,2.07612108128312,putra,1,1,0,1,1,0,0,1
+Kost Griya Indah 11 Setiabudi Jakarta Selatan,5500000,9.0,1.5558585590401182,campur,1,1,0,1,1,1,0,1
+Kost Dharmawan Pdm Tipe A Tanah Abang Jakarta Pusat,1650000,9.0,2.178126239152357,campur,1,1,0,1,1,1,0,0
+Kost Evimeria 25 Tipe B Setiabudi Jakarta Selatan,1300000,7.5,2.079220655971415,putra,1,0,0,0,1,1,0,1
+Kost Pamz Tipe A Tanah Abang Jakarta Pusat,3200000,15.0,2.1853767941213698,putri,1,1,0,1,1,1,0,1
+Kost Amarrylis Tipe E Gambir Jakarta Pusat,1300000,9.0,2.397411394799385,putri,1,0,0,1,1,1,0,0
+Kost IU Homestay Menteng Jakarta Pusat,3100000,9.0,0.6297535661770941,campur,1,1,1,1,1,1,1,1
+Kost Kamerliving 2 Tipe A Setiabudi Jakarta Selatan,1500000,12.0,2.268294809804156,campur,1,0,0,0,1,0,0,0
+Kost Karbela Raya 3 Tipe A Setiabudi Jakarta Selatan,1350000,20.0,2.096376964589895,campur,1,0,0,1,1,1,0,1
+Kost Ibu Vvip Palmerah Jakarta Barat,2300000,12.0,2.43613784277788,campur,1,1,0,1,1,0,0,0
+Kost Sabangan Tipe A Gambir Jakarta Pusat,1500000,12.0,2.241824538771183,campur,1,1,0,1,1,0,0,1
+Kost Rubi Tipe Kipas Tanah Abang Jakarta Pusat,1400000,9.0,0.8753699914198243,campur,1,1,0,1,1,1,0,1
+Kost Baik 2 Maninjau Suite Tipe C Tanah Abang Jakarta Pusat,3000000,15.400000000000002,1.844234809951976,campur,1,1,1,1,1,0,1,1
+Kost Bawor Tipe B Palmerah Jakarta Barat,800000,8.75,2.162250282763442,putri,1,0,0,1,1,1,0,0
+Kost LeGreen Suite Senayan Tanah Abang Jakarta Pusat,4000000,16.0,2.031479323722734,campur,1,1,1,1,1,0,1,1
+Kost Dahlia Deluxe Tanah Abang Jakarta Pusat,1200000,6.0,1.0287538238083538,putri,1,0,0,1,1,0,0,0
+Kost Elju Tipe B Palmerah Jakarta Barat,2050000,7.700000000000001,2.900464225635437,campur,1,1,0,0,1,0,1,1
+Kost Choska Luxury Residence Deluxe Tanah Abang Jakarta Pusat,7900000,9.0,0.657242360818598,campur,1,1,1,1,1,0,1,1
+Kost Sakura Terrace Sudirman 1 Jakarta Jakarta Selatan,7651500,16.0,1.1434770623389552,campur,1,1,1,1,1,0,0,1
+Kost Acostay Toba 10 Tipe Penthouse Tanah Abang Jakarta Pusat,7500000,28.0,1.9236897843763896,campur,1,1,1,1,1,0,1,0
+Kost Choska Luxury Residence Superior Tanah Abang Jakarta Pusat,7000000,12.0,0.657242360818598,campur,1,1,1,1,1,0,1,1
+Kost The Cube Tipe E Setiabudi Jakarta Selatan,6000000,126.0,1.7827455409892967,campur,1,1,1,1,1,0,1,0
+Kost The Kholes Setiabudi Jakarta Selatan,6000000,20.0,1.2551212143908752,campur,1,1,1,1,1,0,1,1
+Kost 28 Residence Tipe Studio Setiabudi Jakarta Selatan,6000000,40.0,1.3446922079953456,campur,1,1,1,1,1,0,1,0
+Kost Konko Tipe Premium Suite Kebon Sirih Jakarta Pusat,6000000,16.0,1.894768791904709,campur,1,1,1,0,1,1,1,1
+Kost Jegez Bagaz Tipe Loft Setiabudi Jakarta Selatan,5900000,48.75,2.529752595362799,campur,1,1,1,1,1,0,1,0
+Kost The Pakis Setiabudi Jakarta Selatan,5550000,20.0,1.29187820611981,campur,1,1,1,1,1,0,1,0
+Kost Paviliun Benhil Tipe A Tanah Abang Jakarta Pusat,7000000,80.0,2.319460977168576,campur,1,1,0,1,1,0,1,1
+Kost Sakura Terrace Superior Tanah Abang Jakarta Pusat,6599999,16.0,1.9792457442878808,campur,1,1,1,1,1,0,1,1
+Kost Ruang 16 Deluxe Menteng Jakarta Pusat,6516800,12.0,1.857079218851282,campur,1,1,1,1,1,0,1,1
+Kost Marrakesh Deluxe Tanah Abang Jakarta Pusat,6500000,12.0,2.025885280611491,campur,1,1,1,1,1,1,1,1
+Kost Mendjangan Suites Benhil Jakarta Pusat,6300000,17.86,2.3053564202667616,campur,1,1,1,1,1,0,1,1
+Kost Choska Luxury Residence Standard Plus Tanah Abang Jakarta Pusat,6179000,9.0,0.657242360818598,campur,1,1,1,1,1,0,1,1
+Kost 37 Deluxe Tanah Abang Jakarta Pusat,6000000,24.0,0.5105715198662997,campur,1,1,1,1,1,1,0,0
+Kost Senayan Grand Suite Tipe A Tanah Abang Jakarta Pusat,5500000,24.0,2.2812782421907816,campur,1,1,1,1,1,0,1,1
+Kost The Loji Setiabudi Jakarta Selatan,5500000,16.0,1.2314050039418505,campur,1,1,1,1,1,1,1,1
+Kost Andara Home Setiabudi Jakarta Selatan,5500000,16.0,1.1828509911408545,campur,1,1,1,1,1,0,1,0
+Kost Heeza Home Tipe Executive Tanah Abang Jakarta Pusat,5500000,18.0,1.935168664085155,campur,1,1,1,1,1,1,1,1
+Kost Tengah Tengah Setiabudi Jakarta Selatan,5500000,16.0,1.5058620305203685,campur,1,1,1,0,1,1,0,0
+Kost Tango Residencen Tanah Abang Jakarta Pusat,5500000,12.0,2.2588302384371057,campur,1,1,1,1,1,1,1,0
+Kost Kramat II Senen Jakarta Pusat,5400000,12.25,2.575279423760283,campur,1,1,0,1,1,0,0,1
+Kost R Pavilion Taman Tipe Cja Setiabudi Jakarta Selatan,5000000,12.0,1.4202322880086888,campur,1,1,1,1,1,0,1,0
+Kost Gokostel W3 Suite Menteng Jakarta Pusat,5000000,20.0,0.6086840234397372,campur,1,1,1,1,1,0,0,1
+Kost Towuti 26 Mezzanine Tanah Abang Jakarta Pusat,5500000,14.0,2.1596849956597213,campur,1,1,1,1,1,0,0,0
+Kost Jl Bendungan Hilir Tipe A Tanah Abang Jakarta Pusat,5500000,16.0,2.234201331424841,campur,1,1,1,1,1,1,1,1
+Kost Marrakesh Standart Tanah Abang Jakarta Pusat,5500000,12.0,2.025885280611491,campur,1,1,1,1,1,1,1,1
+Kost Toba 10 Benhil Tanah Abang Jakarta Pusat,5500000,12.0,1.9339615303068247,campur,1,1,1,1,1,0,1,1
+Kost Menteng House Suite Room Menteng Jakarta Pusat,5500000,20.0,0.7178246067818439,campur,1,1,1,1,1,1,0,1
+Kost Paviliun Izhar Tipe B Jakarta Pusat Jakarta Pusat,5500000,50.0,1.888617854062756,campur,1,1,1,1,1,0,0,0
+Kost The Cube Tipe D Setiabudi Jakarta Selatan,5500000,20.0,1.7827455409892967,campur,1,1,1,1,1,0,1,0
+Kost 37 Superior 1 Tanah Abang Jakarta Pusat,5000000,20.0,0.5105715198794153,campur,1,1,1,1,1,1,0,0
+Kost Roesmora Residence Madrasah Cilandak Jakarta Selatan,5000000,12.0,0.7082724589352453,campur,1,1,0,0,1,0,1,0
+Kost Flambo 10 Executive Setiabudi Jakarta Selatan,5000000,24.0,2.053628574673989,campur,1,1,1,1,1,0,1,1
+Kost Eksklusif Jalan Yusuf Adiwinata Tipe A Menteng Jakarta Pusat,5000000,12.0,0.7697756098889733,campur,1,1,1,1,1,1,0,0
+Kost Greenplants Penjernihan Benhil Tipe C Tanah Abang Jakarta Pusat,5000000,20.0,2.319460977168576,campur,1,1,1,1,1,1,1,1
+Kost Griya Lestari 22 Setiabudi Jakarta Selatan,5000000,9.0,1.5475112526517465,campur,1,1,0,1,1,1,0,0
+Kost Ehouzz Tipe B Setiabudi Jakarta Selatan,5000000,16.0,1.3539481398344877,campur,1,1,1,1,1,1,1,1
+Kost Le Mansion Setiabudi Studio A Setiabudi Jakarta Selatan,5000000,24.0,1.646842097594417,campur,1,1,1,1,1,0,1,1
+Kost Konko Tipe Deluxe Suite Kebon Sirih Jakarta Pusat,5000000,9.0,1.8845140749742493,campur,1,1,1,0,1,1,1,1
+Kost Choska Luxury Residence Standard Tanah Abang Jakarta Pusat,5000000,9.0,0.657242360818598,campur,1,1,1,1,1,0,1,1
+Kost Konko Tipe Twin Bed Kebon Sirih Jakarta Pusat,5000000,9.0,1.8991949731257505,campur,1,1,1,0,1,1,1,1
+Kost Anggrek 23 Setiabudi Jakarta Selatan,5000000,9.0,1.5543506402150356,campur,1,1,0,1,1,1,0,1
+Rumah Kontrakan Pejompongan 1A Tanah Abang Jakarta Pusat,5000000,32.0,1.9839731058469725,campur,1,1,0,0,1,0,0,0
+Kost Griya Lestari Tipe A Setiabudi Jakarta Selatan,5000000,9.0,1.934485459626618,campur,1,0,0,1,1,1,0,1
+Kost Puri Indah 3 Setiabudi Jakarta Selatan,5000000,9.0,1.5554620214380437,campur,1,1,1,1,1,1,1,1
+Kost Puri Indah 18 Setiabudi Jakarta Selatan,5000000,9.0,1.5543506402150356,campur,1,0,1,1,1,0,0,1
+Kost Griya Lestari Tipe B Setiabudi Jakarta Selatan,5000000,9.0,1.5608948059524823,putra,1,1,0,1,1,1,1,1
+Kost Puri Indah No 3 Setiabudi Jakarta Selatan,5000000,9.0,1.5543506402150356,campur,1,1,1,1,1,1,1,1
+Kost Aghniya Pomee Tipe A Tanah Abang Jakarta Pusat,5000000,12.0,1.9005140823687887,campur,1,1,0,1,1,0,0,0
+Kost Augustine Exclusive Setiabudi Jakarta Selatan,5000000,13.5,1.1973809287485384,campur,1,1,1,1,1,0,0,0
+Kost Gokostel W3 VIP R140 Menteng Jakarta Pusat,4500000,15.0,0.6086840234397372,campur,1,1,1,1,1,0,0,1
+Kost Choska Luxury Residence Executive Tanah Abang Jakarta Pusat,15000000,24.0,0.657242360818598,campur,1,1,1,1,1,0,1,1
+Kost Maison Benhil Eksekutif Tanah Abang Jakarta Pusat,5000000,12.0,2.1018328272644227,campur,1,1,1,1,1,0,1,1
+Kost Acostay Toba 10 Tipe Superior Tanah Abang Jakarta Pusat,4999999,12.0,1.9334869628038616,campur,1,1,1,1,1,0,1,1
+Kost Graha Trisula Perwari Berempat Menteng Jakarta Pusat,4800000,12.0,1.9153133051861668,putri,1,0,0,1,1,1,1,0
+Kost Choska Luxury Residence Budget Tanah Abang Jakarta Pusat,4750000,6.0,0.657242360818598,campur,1,1,1,1,1,0,1,1
+Kost Menteng Guest House King Size Bed Menteng Jakarta Pusat,4700000,16.5,1.4801727940824614,campur,1,1,1,1,1,1,1,1
+Kost Lofte Benhil Exclusive Tanah Abang Jakarta Pusat,4600000,12.0,1.8661729995826928,campur,1,1,1,1,1,0,1,1
+Kost Lia Tipe B Setiabudi Jakarta Selatan,4500000,70.0,1.7827455409892967,campur,1,1,1,1,1,1,1,0
+Kost Legreen Suite Poso Tanah Abang Jakarta Pusat,4500000,16.0,2.182561142346373,campur,1,1,1,1,1,0,1,1
+Kost Menteng House Deluxe Room Menteng Jakarta Pusat,4500000,20.0,0.7178246067818439,campur,1,1,1,1,1,1,0,1
+Kost Eksklusif Jalan Yusuf Adiwinata No.38 Tipe B Menteng Jakarta Pusat,4500000,12.0,0.7697756098889733,campur,1,1,1,1,1,1,0,0
+Kost Pam Baru Pavilion Tanah Abang Jakarta Pusat,4500000,15.0,1.7487636081952425,campur,1,1,1,1,1,0,0,0
+Kost Studio One Kb Melati Tanah Abang Jakarta Pusat,4500000,16.0,0.536929041679574,campur,1,1,1,0,1,0,1,0
+Kost Sumbing 31 Residence Tipe C Setiabudi Jakarta Selatan,4500000,12.0,1.899612121461845,campur,1,1,1,1,1,0,1,1
+Kost Bu Iyang Tipe A Tanah Abang Jakarta Pusat,550000,9.0,1.7197131987956535,putra,1,0,0,1,1,0,0,0
+Kost Iwan Setiabudi Jakarta Selatan,1200000,12.0,2.7817540894690227,putra,1,1,0,1,1,0,0,0
+Kost Kael Setiabudi Jakarta Selatan,2000000,10.0,1.968402943330396,putra,1,1,0,1,1,1,0,1
+Kost Bu Haji Mun Tanah Abang Jakarta Pusat,1175000,9.0,0.7859659872797823,putra,1,0,0,1,1,0,0,1
+Kost Pak Alam Tipe A Setiabudi Jakarta Selatan,1200000,12.0,2.6976074786859305,putra,1,1,0,1,1,1,0,0
+Kost Argha Tipe A Setiabudi Jakarta Selatan,1700000,9.0,2.2290261845598227,putra,1,1,0,1,1,0,0,0
+Kost Yellow House Tipe A Tanah Abang Jakarta Pusat,1600000,12.0,1.3449210968975445,putra,1,0,0,1,1,0,0,0
+Kost Bu Iik Setiabudi Jakarta Selatan,850000,9.0,2.6853169196557185,putra,1,0,0,1,1,1,0,0
+Kost Bendhil Tipe A Tanah Abang Jakarta Pusat,1600000,9.0,1.7859378667086103,putra,1,0,0,1,1,1,1,0
+Kost Benhil Barokah Tipe A Tanah Abang Jakarta Pusat,2400000,9.0,2.3621388540793307,putra,1,1,0,1,1,0,0,0
+Kost D Corner Kebon Kacang Tipe A Tanah Abang Jakarta Pusat,1400000,9.0,0.5969915258245517,putra,1,0,0,1,1,0,0,0
+Kost Benhil 7 Tipe A1 Tanah Abang Jakarta Pusat,1900000,12.0,2.233078761770621,putra,1,0,1,1,1,0,0,0
+Kost Blimbi 37 Executive Setiabudi Jakarta Selatan,2400000,13.6,2.768965662224041,putra,1,1,0,1,1,0,0,0
+Kost Ibu Andri 2 Tipe A Senen Jakarta Pusat,700000,9.0,2.571429586434854,putra,1,0,0,1,1,1,0,0
+Kost Benhil 7 Tipe C Tanah Abang Jakarta Pusat,1750000,12.0,2.233078761521715,putra,1,0,1,1,1,0,0,0
+Kost Endi Fasenda Tipe Standard Tanah Abang Jakarta Pusat,800000,6.0,0.8294904298657046,putra,1,0,0,1,1,1,0,1
+Kost Ungu Jalan Listrik 5 Senen Jakarta Pusat,1700000,7.5,2.435034057459046,putra,1,1,0,1,1,0,0,1
+Kost Merah Tanah Abang Jakarta Pusat,1200000,12.0,2.055514485391196,putra,1,1,0,1,1,0,0,0
+Kost Benhil 7 Tipe B Tanah Abang Jakarta Pusat,1800000,9.0,2.233078761521715,putra,1,0,1,1,1,0,0,0
+Kost Komando 329 Tipe B Setiabudi Jakarta Selatan,1600000,9.0,2.079220655971415,putra,1,0,0,1,1,0,0,1
+Kost Esbeka Setiabudi Jakarta Selatan,850000,9.0,1.7976651704858426,putra,1,0,0,1,1,1,0,1
+Kost Merah Asahan 3 Tanah Abang Jakarta Pusat,1700000,12.0,2.337943894304949,putra,1,1,0,1,1,0,0,0
+Kost Blimbi 37 Standart Room Setiabudi Jakarta Selatan,1850000,6.8,2.771065846551978,putra,1,1,0,0,1,0,0,0
+Kost Sepi Setiabudi Jakarta Selatan,1650000,9.0,1.8037474347274791,putra,1,0,0,0,1,1,0,0
+Kost Ibu Elin Tipe A Tanah Abang Jakarta Pusat,1700000,10.0,1.7940116865795177,putra,1,1,0,1,1,0,0,0
+Kost Evimeria Tipe A Setiabudi Jakarta Selatan,2150000,9.0,2.1052248612259103,putra,1,1,0,1,1,1,0,0
+Kost Hengky Tipe A Tanah Abang Jakarta Pusat,800000,9.0,1.3621401273332774,putra,1,0,0,1,1,1,0,0
+Kost Griya Baitunafi II Tanah Abang Jakarta Pusat,2000000,10.0,1.9007821926375563,putra,1,1,0,1,1,0,0,0
+Kost Ubai Tipe Large Tanah Abang Jakarta Pusat,1200000,16.0,1.4422919428268524,putra,1,0,0,1,1,0,0,0
+Kost Rumah Ku Tanah Abang Jakarta Pusat,1000000,12.0,1.4899961210560368,putra,1,0,0,1,1,0,0,0
+Kost Bu Iyang Tipe D Tanah Abang Jakarta Pusat,650000,9.0,1.7197131987956535,putra,1,0,0,0,1,0,0,0
+Kost Benhil Barokah Tipe C Tanah Abang Jakarta Pusat,1900000,8.0,2.3621388540793307,putra,1,0,0,1,1,0,0,0
+Kost Bugenvil 2 Setiabudi Jakarta Selatan,750000,9.0,2.552251344507157,putra,1,0,0,1,1,1,0,0
+Kost D Corner Kebon Kacang Tipe VIP Tanah Abang Jakarta Pusat,2200000,12.0,0.5969915258245517,putra,1,1,1,1,1,0,0,1
+Kost Benhil Barokah Tipe E Tanah Abang Jakarta Pusat,1400000,6.0,2.3621388540793307,putra,1,1,0,1,1,1,0,0
+Kost 23 Tipe Non Ac Tanah Abang Jakarta Pusat,1350000,12.0,0.7618146224091709,putra,1,0,0,1,1,1,0,0
+Kost Bagas Arista 1 Tipe A Setiabudi Jakarta Selatan,1500000,9.0,2.46655788845341,putra,1,0,0,1,1,0,0,1
+Kost Ubai Tipe Medium Tanah Abang Jakarta Pusat,1000000,9.0,1.4472193723353983,putra,1,0,0,1,1,0,0,0
+Kost 23 Tanah Abang Jakarta Pusat,1850000,12.0,0.761814622323843,putra,1,1,0,1,1,1,0,0
+Kost Kebon Kacang Tanah Abang Jakarta Pusat,1500000,12.0,1.0277306078631707,putra,1,1,0,1,1,1,0,0
+Kost Bu Iyang Tipe B Tanah Abang Jakarta Pusat,900000,12.0,1.7197131987956535,putra,1,0,0,1,1,1,0,0
+Kost Benhil Barokah Tipe B Tanah Abang Jakarta Pusat,2200000,6.0,2.3621388540793307,putra,1,1,0,1,1,0,0,0
+Kost Benhil Barokah Tipe D Tanah Abang Jakarta Pusat,1600000,6.0,2.3621388540793307,putra,1,1,0,1,1,1,0,0
+Kost Karbela 3 14 Setiabudi Jakarta Selatan,1200000,5.4,2.0424902338552395,putra,1,0,0,1,1,1,0,1
+Kost Bu Iyang Tipe C Tanah Abang Jakarta Pusat,800000,12.0,1.7197131987956535,putra,1,0,0,1,1,0,0,0
+Kost Eretan Menteng Jakarta Pusat,1300000,9.0,2.2072326090568573,putra,1,0,0,1,1,1,0,0
+Kost Uni Dian Gambir Jakarta Pusat,850000,12.0,2.16571312248673,putra,1,1,0,1,1,1,0,1
+Kost Ar Royan Tipe A Setiabudi Jakarta Selatan,2750000,12.0,1.4455515865977857,putra,1,1,0,1,1,1,0,1
+Kost Iwan Kepong Senen Jakarta Pusat,800000,9.0,2.25279033866885,putra,1,0,0,1,1,1,0,0
+Kost Mess 7 Tanah Abang Jakarta Pusat,900000,9.0,1.1585815992718858,putra,1,0,0,0,1,1,0,0
+Kost Setiabudi Barat 22 Tipe B Setiabudi Jakarta Selatan,2900000,12.0,1.0809321284106712,putra,1,1,0,1,1,1,1,1
+Kost TJP Tanah Abang Jakarta Pusat,1700000,12.0,1.8795595088056027,putra,1,1,0,0,1,0,0,0
+Kost Aqila Benhil Tipe A Tanah Abang Jakarta Pusat,1700000,12.0,2.459990520187258,putra,1,1,0,1,1,1,1,1
+Kost Abdat Jalan Kebon Tanah Abang Jakarta Pusat,750000,9.0,2.112067865865905,putra,1,0,0,1,1,0,0,1
+Kost SR57 Tipe A Tanah Abang Jakarta Pusat,1950000,0.0,1.0031152065316389,putra,1,1,0,1,1,1,0,0
+Kost Al Arofah Tipe A Jakarta Jakarta Selatan,750000,6.4,2.937050365612725,putra,1,0,0,1,1,1,0,0
+Kost Kamboja 3A Setiabudi Jakarta Selatan,900000,12.0,1.89335011754894,putra,1,0,0,1,1,1,0,0
+Kost Kwitang Enjoyer Non Smoking Senen Jakarta Pusat,1700000,9.0,2.5464709191965174,putra,1,1,0,1,1,1,0,1
+Kost Bunda Kembang III Senen Jakarta Pusat,2000000,12.0,2.204381428890344,putra,1,1,0,1,1,1,0,1
+Kost Ibu Latifah Standart Tanah Abang Jakarta Pusat,600000,7.5,1.888871899696156,putra,1,0,0,1,1,1,0,0
+Kost Damai Tipe A Palmerah Jakarta Barat,1300000,12.0,2.300694278591155,putra,1,1,0,1,1,0,0,0
+Kost Ibu Lisa Cikini Menteng Jakarta Pusat,1000000,12.0,2.0989200245422235,putra,1,0,0,1,1,0,0,0
+Kost Hijau Setiabudi Jakarta Selatan,2600000,9.0,1.3946761168217536,putra,1,1,0,1,1,0,0,1
+Kost SR57 Tipe E Tanah Abang Jakarta Pusat,1850000,0.0,1.0031152065316389,putra,1,1,0,0,1,1,0,0
+Kost Depot 99 Tipe Standart Menteng Jakarta Pusat,800000,12.0,2.146374913883036,putra,1,0,0,1,1,0,0,0
+Kost Desrina Setiabudi Jakarta Selatan,1450000,9.0,1.9026833234891187,putra,1,0,0,1,1,1,0,0
+Kost B5 Small Room Tanah Abang Jakarta Pusat,2200000,6.0,2.191887009627571,putra,1,0,0,1,1,1,0,1
+Kost Ibu Latifah Tipe A Tanah Abang Jakarta Pusat,700000,7.5,1.8833850830906664,putra,1,0,0,1,1,1,0,0
+Kost Rumah Setiabudi Jakarta Selatan,3300000,12.0,1.0473012910749868,putra,1,1,0,1,1,1,1,1
+Kost White Banyan Tipe A Tanah Abang Jakarta Pusat,3200000,12.0,2.0048820453924705,putra,1,1,1,0,1,1,0,0
+Kost Benhil Tipe 3 Tanah Abang Jakarta Pusat,3000000,15.0,1.7562857085869112,putra,1,1,0,1,1,1,1,0
+Kost Manohara 3 Tipe A Menteng Jakarta Pusat,900000,6.6000000000000005,2.0471980459445867,putra,1,0,0,1,1,1,0,1
+Kost Ar Royan Tipe Z Setiabudi Jakarta Selatan,3000000,10.5,1.4644913059545472,putra,1,1,0,1,1,1,0,1
+Kost Rumah Mila Tipe A Palmerah Jakarta Barat,1999999,12.0,2.371612144788054,putra,1,1,0,1,1,1,1,0
+Kost Jameela'shouse Palmerah Jakarta Barat,2000000,12.0,2.3251757712657404,putra,1,1,0,1,1,0,1,1
+Kost Benhil Tipe 2 Tanah Abang Jakarta Pusat,1200000,6.0,1.7568135083115597,putra,1,0,0,1,1,1,1,0
+Kost Tante Leo Tipe A Tanah Abang Jakarta Pusat,1500000,9.0,1.9121701769153847,putra,1,0,0,1,1,1,0,0
+Kost Ismail Marzuki Tipe A Tanah Abang Jakarta Pusat,850000,10.5,1.2268141629964873,putra,1,0,0,0,1,1,0,0
+Kost House of Sekawan Bendungan Hilir Jakarta Pusat,2300000,9.0,1.7750341175669977,putra,1,1,0,1,1,0,1,1
+Kost Vibes 21 Tipe A Tanah Abang Jakarta Pusat,1200000,12.0,2.1372771706290847,putra,1,0,0,1,1,1,1,0
+Kost Bapak Andri Senen Jakarta Pusat,800000,9.0,2.1713156708483266,putra,1,0,0,1,1,1,0,0
+Kost Kopi Greget Tanah Abang Jakarta Pusat,1300000,9.0,2.252842838740001,putra,1,0,0,1,1,1,0,0
+Kost Mamake Tipe 2 Setiabudi Jakarta Selatan,1500000,9.0,1.8323907602152905,putra,1,1,0,1,1,0,0,0
+Kost Dekat Benhil Tanah Abang Jakarta Pusat,1500000,9.0,1.9753369311446656,putra,1,0,0,1,1,1,0,0
+Kost Petamburan 54 Tanah Abang Jakarta Pusat,650000,7.5,1.869102461830308,putra,1,0,0,1,1,1,0,0
+Kost Kampung Bali X Tipe A Executive Tanah Abang Jakarta Pusat,2400000,6.0,1.338415296075339,putra,1,1,0,1,1,0,1,0
+Kost Kebon Kacang Tipe B Tanah Abang Jakarta Pusat,2300000,7.0,0.6014090108515914,putra,1,1,0,1,1,1,0,0
+Kost Baru Tanah Abang Jakarta Pusat,1300000,9.0,1.6391752763354317,putra,1,0,0,1,1,0,0,1
+Kost KS Tubun Residence Palmerah Jakarta Barat,2000000,7.800000000000001,1.9542455212338088,putra,1,0,1,1,1,0,0,0
+Kost Muria 56 Setiabudi Jakarta Selatan,750000,7.5,2.3263747732622773,putra,1,0,0,1,1,1,0,0
+Kost Jhon Tipe C Menteng Jakarta Pusat,800000,9.0,2.2591408152333825,putra,1,0,0,1,1,1,0,0
+Kost Thamrin Grand Ind Jakarta Pusat,1050000,12.0,0.6891584207893522,putra,1,0,0,1,1,1,0,0
+Kost 44 Tanah Abang Jakarta Pusat,1800000,10.240000000000002,0.7254385888327373,putra,1,0,0,1,1,0,0,0
+Kost Karbella 1 Setia Budi Jakarta Selatan,1600000,9.0,2.04503869352785,putra,1,1,0,1,1,1,0,0
+Kost Kebon Kacang Tipe C1 Tanah Abang Jakarta Pusat,2300000,8.75,0.6014090108515914,putra,1,1,0,1,1,1,0,0
+Kost Swiss Tipe B Tanah Abang Jakarta Pusat,1300000,6.0,0.5625352379398084,putra,1,0,0,1,1,1,0,0
+Kost Nasrulsyah Tipe A Tanah Abang Jakarta Pusat,1000000,6.0,1.1958946639833157,putra,1,0,0,1,1,1,0,1
+Kost Kausar Tipe B Tanah Abang Jakarta Pusat,1350000,12.0,0.6899595974832365,putra,1,0,0,1,1,1,0,0
+Kost Jl Karet Karya Setiabudi Jakarta Selatan,1800000,9.0,1.784074062146104,putra,1,1,0,1,1,1,0,1
+Kost White Banyan Tipe C Tanah Abang Jakarta Pusat,3200000,9.0,2.0048820453924705,putra,1,1,1,0,1,1,0,0
+Kost Valerie Tipe Non Ac 3 Setiabudi Jakarta Selatan,700000,12.0,2.301991604791857,putra,1,0,0,1,1,1,0,0
+Kost Kebon Kacang 2 Tanah Abang Jakarta Pusat,2000000,9.0,0.9517067779405948,putra,1,1,0,1,1,1,0,0
+Kost Hann Tipe A Senen Jakarta Pusat,1400000,12.0,2.2105749850310152,putra,1,1,0,0,1,0,0,0
+Kost Kramat Kwitang Tipe B Senen Jakarta Pusat,1200000,16.0,2.666245247668928,putra,1,0,0,1,1,1,0,0
+Kost Cyber Tanah Abang Jakarta Pusat,2000000,12.0,2.0158348224594502,putra,1,1,0,1,1,1,0,0
+Kost Dona Muliaa Tanah Abang Jakarta Pusat,850000,12.0,1.831156213128279,putra,1,1,0,1,1,1,0,0
+Kost Apik 89G Kwitang Tipe D Senen Jakarta Pusat,925000,4.5,2.427799738259192,putri,1,0,0,1,1,1,0,0
+Kost Jhon Tipe A Menteng Jakarta Pusat,900000,9.0,2.2591408152333825,putra,1,0,0,1,1,1,0,0
+Kost Amore Tipe Deluxe Plus Tanah Abang Jakarta Pusat,3300000,12.0,0.9146772120955228,putri,1,1,1,1,1,0,0,1
+Kost Kampung Bali X Tipe B Tanah Abang Jakarta Pusat,2300000,12.0,1.31239790975882,putra,1,1,0,1,1,0,1,0
+Kost Mami Lena Executive Gambir Jakarta Pusat,800000,12.0,2.454838550829844,putra,1,0,0,1,1,1,0,0
+Kost IIR Setiabudi Jakarta Selatan,1100000,12.0,1.7937171579135132,putra,1,1,0,1,1,0,0,0
+Kost Syafrina khusus PRIA Palmerah Jakarta Barat,600000,12.0,2.2392809316309554,putra,1,0,0,0,1,1,0,0
+Kost Assalam Tipe A Senen Jakarta Pusat,1700000,9.0,2.5676929419794674,putra,1,0,0,1,1,1,0,1
+Kost Joshua Homestay Tipe A Setiabudi Jakarta Selatan,2500000,12.0,1.3171447525135211,putra,1,1,0,1,1,0,1,1
+Kost Amore Tipe Superior Tanah Abang Jakarta Pusat,2300000,9.0,0.9146772120955228,putri,1,1,1,1,1,0,0,1
+Kost Annisa Rusfiana Tipe B Menteng Jakarta Pusat,1100000,6.0,1.639899258213067,putri,1,0,0,1,1,1,0,0
+Kost Kebon Kacang 6 Tanah Abang Jakarta Pusat,800000,4.5,0.9958723840366748,putri,1,0,0,1,1,1,0,0
+Kost Yuks Tipe B Tanah Abang Jakarta Pusat,2500000,16.0,1.4865632375838491,putri,1,0,0,1,1,1,0,1
+Kost Rumah 19 Tipe B3 Setiabudi Jakarta Selatan,2200000,12.0,1.4405517278270192,putri,1,0,0,0,1,1,0,1
+Kost Nur Tanah Abang Jakarta Pusat,1000000,9.0,1.2183998785506551,putri,1,0,0,1,1,0,0,1
+Kost Orange 76 Tanah Abang Jakarta Pusat,1500000,9.0,0.9356007681712406,putri,1,0,0,1,1,1,0,1
+Kost Hsn 12 Mansion Tipe A1 Setiabudi Jakarta Selatan,1800000,7.5,2.265743075735951,putri,1,1,0,1,1,0,0,0
+Kost Pak Anang Tipe E Menteng Jakarta Pusat,2000000,12.0,1.991978070489715,putri,1,0,0,1,1,1,0,0
+Kost Griya Fikarda Benhil Mahogany Room Tanah Abang Jakarta Pusat,3600000,18.0,1.9221683102430247,putri,1,1,1,1,1,0,0,0
+Kost Purihandayani 36 Tipe A Setiabudi Jakarta Selatan,1800000,12.0,1.5639030890887498,putri,1,1,0,1,1,1,0,0
+Kost Tanah Abang Residence Gambir Jakarta Pusat,2300000,12.0,2.050440280326901,putri,1,1,1,1,1,1,1,1
+Kost Purihandayani 12 Setiabudi Jakarta Selatan,2200000,9.0,1.361179231348291,putri,1,1,0,1,1,1,0,1
+Kost Rumah Kolonial Menteng Jakarta Pusat,2000000,9.0,1.062399612518599,putri,1,0,0,1,1,1,0,0
+Kost Kencana 1 Setiabudi Jakarta Selatan,1800000,9.0,2.175614299051761,putri,1,0,0,1,1,0,0,0
+Kost Hsn 12 Mansion Executive Setiabudi Jakarta Selatan,1800000,7.5,2.265743075735951,putri,1,1,0,1,1,0,0,0
+Kost KK6 Tanah Abang Jakarta Pusat,1800000,9.0,0.8104390083775626,putri,1,0,0,1,1,1,0,0
+Kost Grey House Karet Tipe B Setiabudi Jakarta Selatan,1450000,9.0,1.8854365575113992,putri,1,0,0,1,1,1,0,1
+Kost Tembok 8 Tipe A1 Menteng Jakarta Pusat,2000000,10.5,1.993987341855409,putri,1,0,0,1,1,1,0,0
+Kost Pak Anang Tipe D1 Menteng Jakarta Pusat,2000000,8.75,1.991978070489715,putri,1,0,0,1,1,1,0,0
+Kost Room 90 Tipe Chamber Tanah Abang Jakarta Pusat,2600000,12.0,2.085729096960108,putri,1,1,1,1,1,0,1,1
+Kost 37 18 Ac Tanah Abang Jakarta Pusat,2100000,12.0,0.5551275735436744,putri,1,1,0,1,1,1,0,1
+Kost KKB Tanah Abang Jakarta Pusat,900000,9.0,1.5835357468778717,putri,1,1,0,1,1,0,0,0
+Kost Griya Fikarda Benhil Oak Room Tanah Abang Jakarta Pusat,3000000,10.5,1.9221683102430247,putri,1,1,1,1,1,0,0,0
+Kost Toma Haus Tipe 1 Setiabudi Jakarta Selatan,2300000,12.0,2.049954336792416,putri,1,1,0,1,1,1,1,0
+Kost Eksklusif Menteng Jakarta Pusat,2200000,9.0,2.060569135880815,putra,1,1,0,1,1,0,0,1
+Kost Jempang Residence Tanah Abang Jakarta Pusat,2300000,7.5,2.3064727875124,putri,1,1,1,1,1,0,1,1
+Kost 37 1 Tipe C Tanah Abang Jakarta Pusat,2400000,12.0,0.5100699605402017,putri,1,1,0,1,1,1,0,1
+Kost Pamz Tipe B Tanah Abang Jakarta Pusat,2400000,9.0,2.195102802299297,putri,1,1,0,1,1,1,0,1
+Kost Tembok 8 Ac Menteng Jakarta Pusat,1675000,4.0,1.993987341855409,putri,1,0,0,1,1,1,0,0
+Kost Salman Gang 9 Gambir Jakarta Pusat,950000,9.0,2.092966856564372,putri,1,0,0,1,1,1,0,0
+Kost Bundaran HI Tipe A Tanah Abang Jakarta Pusat,825000,4.0,0.653353374090219,putri,1,0,0,1,1,1,0,0
+Kost Blimbi 37 Vip Setiabudi Jakarta Selatan,2400000,13.6,2.769809274002429,putra,1,1,1,0,1,0,0,0
+Kost Tembok 8 Tipe B Menteng Jakarta Pusat,2000000,12.0,1.993974102361174,putri,1,1,0,1,1,1,0,0
+Kost Tembok 8 Type A Menteng Jakarta Pusat,2000000,8.75,1.9848681920021387,putri,1,1,0,1,1,1,0,0
+Kost Tembok 8 Tipe F Menteng Jakarta Pusat,2000000,12.0,1.9848681920021387,putri,1,1,0,1,1,1,0,0
+Kost Pilgrim Kebon Kacang Tipe 2 Tanah Abang Jakarta Pusat,2700000,12.0,0.981325946147942,putri,1,1,0,1,1,0,1,0
+Kost Aura Tanah Abang Jakarta Pusat,2000000,12.0,0.5540179618686453,putri,1,1,0,1,1,1,0,1
+Kost Tembok 8 Tipe H Menteng Jakarta Pusat,1850000,10.5,1.9937064413072845,putri,1,0,0,1,1,1,0,0
+Kost Ibu Kris Kali Pasir Tipe A Menteng Jakarta Pusat,750000,6.0,2.03164944018594,putri,1,0,0,1,1,0,0,0
+Kost Blimbi 37 Deluxe Setiabudi Jakarta Selatan,1750000,12.0,2.769383877409305,putra,1,1,0,1,1,0,0,0
+Kost Jl Sukabumi Tipe B Menteng Jakarta Pusat,2200000,12.0,2.2949699100955065,putri,1,1,1,1,1,1,1,1
+Kost Batik Tipe A Bendungan Hilir Jakarta Pusat,2400000,9.0,2.181398384235532,putri,1,1,0,1,1,0,1,1
+Kost Room 90 Tipe Jingga Tanah Abang Jakarta Pusat,1800000,9.0,2.085729096960108,putri,1,1,1,1,1,0,1,1
+Kost Toma Haus Tipe 3 Setiabudi Jakarta Selatan,1250000,7.5,2.049954336792416,putri,1,0,0,1,1,1,1,0
+Kost Bu Sum Senen Jakarta Pusat,850000,6.25,2.293296992176149,putri,1,0,0,1,1,1,0,0
+Kost Tembok 8 Tipe C Menteng Jakarta Pusat,2000000,7.5,1.995975278087434,putri,1,1,0,1,1,1,0,0
+Kost Tembok 8 Tipe Non Ac Menteng Jakarta Pusat,1100000,6.25,1.993974102361174,putri,1,0,0,1,1,1,0,0
+Kost Bundaran Hi Tipe B Tanah Abang Jakarta Pusat,650000,3.0,0.6405158318840141,putri,1,0,0,1,1,1,0,0
+Kost Blimbi 37 Tipe Super Cozy Setiabudi Jakarta Selatan,1750000,7.0,2.769383877409305,putra,1,1,0,1,1,0,0,0
+Kost Delimaa Vvip Tanah Abang Jakarta Pusat,800000,9.0,1.6529593619618494,putri,1,0,0,1,1,1,0,0
+Kost Endi Fasenda Tipe A Tanah Abang Jakarta Pusat,1100000,6.0,2.3427147993573905,putri,1,0,0,1,1,1,0,1
+Kost Yosi Perdana Tipe B Setia Budi Jakarta Selatan,1600000,6.25,1.7806170296612691,putra,1,0,0,1,1,1,0,0
+Kost Graha Trisula Perwari Sendiri Menteng Jakarta Pusat,3000000,12.0,1.9153133051861668,putri,1,0,0,1,1,1,1,0
+Kost Kebon Kacang V Tanah Abang Jakarta Pusat,2150000,12.0,0.861114734588907,putri,1,1,0,1,1,1,0,1
+Kost Tembok 8 Tipe D Menteng Jakarta Pusat,2100000,12.0,1.9855787375101304,putri,1,1,0,1,1,1,0,0
+Kost Kebon Kacang 29 Tipe B Tanah Abang Jakarta Pusat,850000,9.0,0.6505570030871,putri,1,0,0,1,1,1,0,0
+Kost Safina 2 Tipe B Tanah Abang Jakarta Pusat,800000,7.5,1.595311668773475,putri,1,0,0,1,1,1,0,0
+Kost Room 90 Tipe Tropis Tanah Abang Jakarta Pusat,1850000,6.0,2.085729096960108,putri,1,0,1,1,1,0,1,1
+Kost Pak Anang Tipe A Menteng Jakarta Pusat,950000,5.4,1.9848681920021387,putri,1,0,0,1,1,1,0,0
+Kost Ibu Kris Tipe A Menteng Jakarta Pusat,1400000,12.0,1.9373867509829223,putri,1,0,0,1,1,0,0,0
+Kost House Of Blessing Tipe A Setiabudi Jakarta Selatan,2300000,12.0,2.726357672943153,putri,1,1,0,1,1,0,0,0
+Kost Kebon Kacang 29 Tipe C Tanah Abang Jakarta Pusat,850000,9.0,0.6505070959751178,putri,1,0,0,1,1,1,0,0
+Kost Batik Tipe C Tanah Abang Jakarta Pusat,1700000,9.0,2.181398384235532,putri,1,1,0,1,1,0,1,1
+Kost Mama Tipe D Palmerah Jakarta Barat,1100000,12.0,2.078151031141735,putri,1,0,0,1,1,1,0,0
+Kost Sweet Home 26 Tipe B1 Setiabudi Jakarta Selatan,1300000,6.25,2.794013434117915,putra,1,1,0,1,1,0,0,0
+Kost Ibu Hj Sri Beben Tipe B Senen Jakarta Pusat,700000,12.0,2.49387224815228,putri,1,0,0,1,1,0,0,0
+Kost Yuks Tanah Abang Jakarta Pusat,3000000,16.0,1.4874383423820456,putri,1,1,0,1,1,1,0,1
+Kost Bougenville Tipe A Tanah Abang Jakarta Pusat,1500000,7.5,1.8647877082525508,putri,1,0,0,1,1,1,0,0
+Kost Room 90 Tipe Sejuk Tanah Abang Jakarta Pusat,1800000,9.0,2.085713074101492,putri,1,0,1,1,1,0,1,1
+Kost Wisma LMJ Tipe B Jakarta Pusat,2400000,9.0,0.9393778484001788,putri,1,1,0,1,1,1,0,1
+Kost Pak Anang Tipe D Menteng Jakarta Pusat,2000000,9.0,1.991978070489715,putri,1,0,0,1,1,1,0,0
+Kost Jl Sukabumi Tipe A Menteng Jakarta Pusat,2000000,9.0,2.286701429008726,putri,1,1,1,1,1,1,1,1
+Kost Ika Non AC Menteng Jakarta Pusat,950000,7.5,1.989708222765036,putri,1,0,0,1,1,1,0,0
+Kost Evimeria Tipe B Setiabudi Jakarta Selatan,2000000,9.0,2.0147012805650104,putra,1,1,0,0,1,1,0,1
+Kost Rumah 19 Tipe Big Setiabudi Jakarta Selatan,3000000,15.75,1.44055172781421,putri,1,1,0,1,1,1,0,1
+Kost Blimbi 37 Tipe C Setiabudi Jakarta Selatan,1800000,12.0,2.769815288638505,putra,1,1,0,1,1,0,0,0
+Kost Tembok 8 Tipe AC Menteng Jakarta Pusat,1750000,9.0,1.993987341853108,putri,1,0,0,1,1,1,0,0
+Kost Eterna Residence Tipe Kamar Mandi Luar Setiabudi Jakarta Selatan,2000000,7.0,1.208732854401564,putri,1,0,0,1,1,0,1,0
+Kost Mira Tipe A Senen Jakarta Pusat,1700000,9.0,2.336899130068816,putri,1,0,0,1,1,1,0,0
+Kost Amore Tipe VIP Balkon Tanah Abang Jakarta Pusat,3200000,13.5,0.9146772120955228,putri,1,1,1,1,1,0,0,1
+Kost Cideng Tipe A Gambir Jakarta Pusat,1800000,6.0,2.49289191921964,putri,1,0,0,1,1,1,0,1
+Kost Tembok 8 Tipe J Menteng Jakarta Pusat,1750000,5.0,1.993987341855409,putri,1,0,0,1,1,1,0,0
+Kost Bendungan Jatiluhur Boarding Tanah Abang Jakarta Pusat,2000000,9.0,2.231803335138121,putri,1,1,1,1,1,0,0,1

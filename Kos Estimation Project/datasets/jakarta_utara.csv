@@ -1,0 +1,501 @@
+nama_kos,harga,luas_kamar,jarak_ke_bca,tipe_kos,is_ac,is_km_dalam,is_water_heater,is_furnished,is_internet,is_listrik_free,is_parkir_mobil,is_mesin_cuci
+Kost Singgahsini Malale Residence 1 Tipe A Kelapa Gading Jakarta Utara,2775000,14.1,1.935779439401332,campur,1,1,0,1,1,0,1,1
+Kost Tpi C10 Kelapa Gading Jakarta Utara,2000000,12.0,1.7709246898551996,campur,1,1,1,1,1,0,1,0
+Kost Singgahsini Kelapa Sawit Raya 7 Tipe B Kelapa Gading Jakarta Utara,1550000,7.5,1.811713061097852,campur,1,1,0,1,1,0,0,1
+Kost Singgahsini Maxtim Tipe A Kelapa Gading Jakarta Utara,1125000,6.0,1.370618737317796,putri,1,0,1,1,1,0,0,0
+Kost Singgahsini Maxtim Tipe B Kelapa Gading Jakarta Utara,1575000,10.5,1.370618737317796,putri,1,0,1,1,1,0,0,0
+Kost Singgahsini Serenity Living Tipe B Kelapa Gading Jakarta Utara,1375000,6.0,1.4458725766551472,campur,1,0,1,1,1,0,1,0
+Kost Harpa Place Tipe B Kelapa Gading Jakarta Utara,2200000,10.5,1.6562806688919016,campur,1,1,1,1,1,1,1,0
+Kost Gading Elok Residence II Single Bedroom Kelapa Gading Jakarta Utara,2200000,9.0,1.0397677825525735,campur,1,1,1,1,1,0,1,1
+Kost Lestari Vip Kelapa Gading Jakarta Utara,1700000,9.0,0.6923112293248873,campur,1,0,1,0,1,1,0,0
+Kost Singgahsini Indri Taska 35 Tipe B Kelapa Gading Jakarta Utara,1675000,8.75,1.2197557282702092,putri,1,0,1,1,1,0,0,0
+Kost Singgahsini Jeje Tipe A Kelapa Gading Jakarta Utara,1875000,6.0,0.6217407349039126,campur,1,1,0,1,1,0,0,0
+Kost Singgahsini Taska 33 Tipe A Kelapa Gading Jakarta Utara,1925000,6.72,1.2402816885071295,campur,1,1,0,1,1,0,0,1
+Kost Singgahsini Summagung Tipe A Kelapa Gading Jakarta Utara,1825000,8.75,1.2393379013188806,campur,1,1,1,1,1,0,0,0
+Kost Singgahsini Dahlia I Tipe D Kelapa Gading Jakarta Utara,1525000,5.76,1.9804713137088548,putri,1,0,0,1,1,0,1,0
+Kost Singgahsini Dahlia I Tipe C Kelapa Gading Jakarta Utara,1625000,6.300000000000001,1.9804713137088548,putri,1,0,0,1,1,0,1,0
+Kost Singgahsini Dahlia I Tipe A Kelapa Gading Jakarta Utara,2025000,9.0,1.9804713137088548,putri,1,1,0,1,1,0,1,0
+Kost Singgahsini Dahlia I Tipe B Kelapa Gading Jakarta Utara,1875000,7.199999999999999,1.9804713137088548,putri,1,1,0,1,1,0,1,0
+Kost Singgahsini Rumah Kedua Tipe B Kelapa Gading Jakarta Utara,2275000,11.840000000000002,1.9424176198812888,campur,1,1,1,1,1,0,1,1
+Kost Singgahsini 3L Residence Tipe C Kelapa Gading Jakarta Utara,1725000,6.9,1.1164529891674255,campur,1,0,1,1,1,0,0,0
+Kost Singgahsini Victory Tipe B Kelapa Gading Jakarta Utara,2300000,10.240000000000002,0.8246056260469747,putri,1,1,1,1,1,0,1,0
+Kost Singgahsini Rumah Kedua Tipe C Kelapa Gading Jakarta Utara,2125000,10.240000000000002,1.9424176198812888,campur,1,1,1,1,1,0,1,1
+Kost Singgahsini 3L Residence Tipe B Kelapa Gading Jakarta Utara,1875000,9.0,1.1164529891674255,campur,1,0,1,1,1,0,0,0
+Kost Singgahsini Serenity Living Tipe A Kelapa Gading Jakarta Utara,1575000,6.0,1.4458725766551472,campur,1,0,1,1,1,0,1,0
+Kost Singgahsini T18A Pegangsaan Dua Tipe A Kelapa Gading Jakarta Utara,1690000,8.399999999999999,1.5452153619898832,putri,1,0,0,1,1,0,0,0
+Kost Molek Tipe D Kelapa Gading Jakarta Utara,1600000,6.0,1.4829394541859453,campur,1,0,0,1,1,1,0,1
+Kost Puan Kelapa Gading Jakarta Utara,1900000,12.0,0.4832386731568447,putri,1,0,1,1,1,1,1,1
+Kost Pintu Hijau Tipe A Kelapa Gading Jakarta Utara,2500000,12.0,0.698553339528965,putri,1,1,1,1,1,0,1,1
+Kost Nias Kelapa Gading Jakarta Utara,1900000,9.0,1.0393082761368206,campur,1,1,0,1,1,1,1,1
+Kost Singgahsini Cantika Tipe C Kelapa Gading Jakarta Utara,2000000,7.199999999999999,0.5284056450228984,putri,1,0,1,1,1,0,0,0
+Kost Singgahsini Serenity Living Tipe C Kelapa Gading Jakarta Utara,1225000,4.0,1.4458725766551472,campur,1,0,1,1,1,0,1,0
+Kost Singgahsini Pintu Merah Tipe B Kelapa Gading Jakarta Utara,1800000,8.75,1.1616218918824637,campur,1,0,0,1,1,1,0,0
+Kost Singgahsini Maxtim Tipe C Kelapa Gading Jakarta Utara,1775000,16.5,1.370618737317796,putri,1,1,1,1,1,0,0,0
+Kost Singgahsini Indri Taska 35 Tipe A Kelapa Gading Jakarta Utara,1775000,10.5,1.2197557282702092,putri,1,0,1,1,1,0,0,0
+Kost Molek Tipe B Kelapa Gading Jakarta Utara,1550000,12.0,1.4679504367361085,campur,1,0,0,1,1,1,0,1
+Kost Singgahsini Maxtim Tipe D Kelapa Gading Jakarta Utara,2025000,20.0,1.370618737317796,putri,1,1,1,1,1,0,0,0
+Kost Singgahsini Pintu Merah Tipe C Kelapa Gading Jakarta Utara,2200000,8.75,1.1616218918824637,campur,1,0,0,1,1,1,0,0
+Kost Ville Kelapa Gading Jakarta Utara,2200000,12.0,1.518147503235684,campur,1,1,1,1,1,0,0,0
+Kost Sweet Home 1 Tipe B Kelapa Gading Jakarta Utara,2150000,16.0,1.2603320896878325,campur,1,1,0,1,1,0,0,1
+Kost Singgahsini Rumah Kedua Tipe A Kelapa Gading Jakarta Utara,2325000,10.240000000000002,1.9424176198812888,campur,1,1,1,1,1,0,1,1
+Kost Singgahsini Charita Tipe A Kelapa Gading Jakarta Utara,1925000,7.5,1.6601497188062015,campur,1,1,0,1,1,0,0,0
+Kost Singgahsini Cantika Tipe B Kelapa Gading Jakarta Utara,2100000,9.86,0.5284056450228984,putri,1,0,1,1,1,0,0,0
+Kost Kelapa Puan Timur Tipe N Kelapa Gading Jakarta Utara,695000,5.0,1.0646564329865371,putri,1,0,0,1,1,1,0,1
+Kost Singgahsini Kelapa Sawit Raya 7 Tipe D Kelapa Gading Jakarta Utara,1050000,5.0,1.811713061097852,campur,1,0,0,1,1,0,0,1
+Kost Molek Tipe A Kelapa Gading Jakarta Utara,1500000,6.0,1.4679504367361085,campur,1,0,0,1,1,1,0,1
+Kost Nali House Tipe A Kelapa Gading Jakarta Utara,1500000,8.0,1.570900507052266,putri,1,0,0,1,1,0,0,0
+Kost Pondok Cengkir Tipe AC Kelapa Gading Jakarta Utara,1450000,7.040000000000001,0.4493144318923843,putri,1,0,0,1,1,0,0,1
+Kost Living Kelapa Gading Jakarta Utara,2200000,9.0,1.3646074875799417,putri,1,1,0,1,1,0,0,0
+Kost Singgahsini Pintu Merah Tipe A Kelapa Gading Jakarta Utara,1850000,8.75,1.1616218918824637,campur,1,0,0,1,1,1,0,0
+Kost Gading Elok 722 Tipe A Kelapa Gading Jakarta Utara,1800000,11.25,1.104347414034011,putri,1,1,1,1,1,1,0,1
+Kost Singgahsini Charita Tipe B Kelapa Gading Jakarta Utara,1725000,5.4,1.6601497188062015,campur,1,0,0,1,1,0,0,0
+Kost Kelapa Gading Timur Tipe A Kelapa Gading Jakarta Utara,1800000,7.290000000000001,0.82128577892181,campur,1,1,0,1,1,1,1,1
+Kost Singgahsini T18A Pegangsaan Dua Tipe B Kelapa Gading Jakarta Utara,1510000,8.399999999999999,1.5452153619898832,putri,1,0,0,1,1,0,0,0
+Kost Beo Grand Orchard Kelapa Gading Sukapura Jakarta Utara,1950000,12.0,2.143566937307665,putri,1,1,1,1,1,1,1,1
+Kost Singgahsini Jeje Tipe B Kelapa Gading Jakarta Utara,1775000,6.0,0.6217407349039126,campur,1,1,0,1,1,0,0,0
+Kost Singgahsini Charita Tipe C Kelapa Gading Jakarta Utara,1525000,5.0,1.6601497188062015,campur,1,0,0,1,1,0,0,0
+Kost Gesefa Kelapa Gading Jakarta Utara,1700000,7.800000000000001,0.7933989257950028,putri,1,1,0,1,1,0,0,1
+Kost Raya Permai Tipe Kamar Mandi Dalam Kelapa Gading Jakarta Utara,1600000,12.0,1.6544106270731065,campur,1,1,0,1,1,0,1,1
+Kost Singgahsini 3L Residence Tipe A Kelapa Gading Jakarta Utara,2025000,10.5,1.1164529891674255,campur,1,0,1,1,1,0,0,0
+Kost Ultra Residence VVIP Kelapa Gading Jakarta Utara,1750000,9.0,0.7992886161629813,putra,1,1,0,1,1,0,0,1
+Kost Singgahsini Indri Taska 35 Tipe D Kelapa Gading Jakarta Utara,1625000,6.25,1.2197557282702092,putri,1,0,1,1,1,0,0,0
+Kost Singgahsini Mandolin Tipe A Kelapa Gading Jakarta Utara,2025000,9.52,1.833362816039738,putra,1,1,1,1,1,0,0,1
+Kost CherryHomeStay Tipe A Kelapa Gading Jakarta Utara,2550000,9.1,0.6901179103147732,putri,1,0,0,1,1,1,0,1
+Kost Griya Pratama III Kelapa Gading Jakarta Utara,1600000,9.0,1.8459851784798813,putri,1,1,0,1,1,0,0,0
+Kost Qing House KG VVIP Room Kelapa Gading Jakarta Utara,3500000,12.0,1.5726315256660337,putri,1,0,1,1,1,0,1,1
+Kost Ibu Simbolon Kelapa Gading Jakarta Utara,800000,10.5,0.7943785459631411,putri,1,0,0,1,1,0,0,0
+Kost LY House 1 Single Kelapa Gading North Jakarta,1750000,8.100000000000001,0.9102536820541788,putri,1,0,0,1,1,0,0,1
+Kost Singgahsini Kelapa Sawit Raya 7 Tipe A Kelapa Gading Jakarta Utara,1750000,9.0,1.811713061097852,campur,1,1,0,1,1,0,0,1
+Kost CherryHomeStay Tipe B Kelapa Gading Jakarta Utara,2350000,14.43,0.6228484829399757,putri,1,0,0,1,1,0,0,1
+Kost Janur Kuning Diamond Kelapa Gading Jakarta Utara,1500000,16.0,0.5492687743333675,campur,1,0,0,0,1,0,1,1
+Kost Singgahsini Tressa Tipe A Kelapa Gading Jakarta Utara,2005000,10.5,1.273361955017155,putri,1,1,1,1,1,0,0,1
+Kost Nali House Tipe C2 Kelapa Gading Jakarta Utara,1200000,4.5,1.570900507052266,putri,1,0,0,1,1,0,0,0
+Kost Bintang Gading Kelapa Gading Jakarta Utara,2000000,6.25,0.8788774197490318,campur,1,1,1,1,1,0,0,1
+Kost Joy Living Zion Kg Standard Kelapa Gading Jakarta Utara,2500000,9.0,1.604369898219843,campur,1,1,1,1,1,0,1,1
+Kost Taman Pegangsaan Indah Tipe A Kelapa Gading Jakarta Utara,1250000,9.0,1.6914627841754557,putri,1,0,0,1,1,0,0,1
+Kost Gaudensia Tipe 2 Kelapa Gading Jakarta Utara,1000000,5.1,1.2439567050685167,putri,1,0,0,1,1,0,0,0
+Kost Nino Tipe C Kelapa Gading Jakarta Utara,1400000,6.0,1.828739793050728,putra,1,1,1,0,1,0,0,0
+Kost Kopyor Raya Tipe Fleksi Plus Kelapa Gading Jakarta Utara,1650000,7.5,1.2982070439239863,putri,1,0,0,1,1,0,0,1
+Kost Griya Flamboyan Tipe A Kelapa Gading Jakarta Utara,1900000,12.0,1.335308269797475,campur,1,1,1,1,1,0,1,1
+Kost Chrysant Home Tipe D Kelapa Gading Jakarta Utara,1650000,9.0,1.5675887887183275,campur,1,0,0,1,1,0,0,1
+Kost Kuda Lumping Blok W Kelapa Gading Jakarta Utara,1850000,12.0,1.5107717950491335,putri,1,1,0,1,1,1,1,1
+Kost Singgahsini Kelapa Sawit Raya 7 Tipe C Kelapa Gading Jakarta Utara,1250000,5.0,1.811713061097852,campur,1,0,0,1,1,0,0,1
+Kost Gading Elok Kelapa Gading Jakarta Utara,1500000,7.5,1.0197789441714191,campur,1,0,0,1,1,0,0,1
+Kost Zam Zam Life Kelapa Gading Jakarta Utara,1800000,9.0,1.4929862054193672,putri,1,1,0,1,1,0,1,0
+Kost Mami Anna Kelapa Gading Jakarta Utara,2000000,9.0,0.4320481050666597,campur,1,1,1,1,1,0,1,1
+Kost Gading Pavillion Tipe A Kelapa Gading Jakarta Utara,2100000,12.0,1.023006918854571,putri,1,1,1,1,1,0,0,1
+Kost Sawit Residence Kelapa Gading Jakarta Utara,1700000,9.0,1.699014675896056,campur,1,1,0,0,1,0,0,0
+Kost Joyo Premium Tipe B Kelapa Gading Jakarta Utara,2250000,9.0,1.5999162163339558,campur,1,1,1,1,1,0,1,1
+Kost Asya Tipe A Kelapa Gading Jakarta Utara,1550000,6.0,0.7377938084738008,campur,1,0,1,1,1,0,0,0
+Kost Blessing Tipe A Kelapa Gading Jakarta Utara,1550000,9.0,0.5350842370716431,putri,1,1,1,1,1,0,0,0
+Kost Chrysant Home BQ Tipe A Kelapa Gading Jakarta Utara,1649000,6.0,1.2063904483365904,campur,1,0,0,1,1,0,0,1
+Kost Chrysant Home BQ Tipe B1 Kelapa Gading Jakarta Utara,1100000,6.25,1.2028551050547125,campur,1,0,0,1,1,0,0,1
+Kost Singgahsini Victory Tipe A Kelapa Gading Jakarta Utara,2500000,10.240000000000002,0.8246056260469747,putri,1,1,1,1,1,0,1,0
+Kost Premium Gading Putih Tipe 1 Kelapa Gading Jakarta Utara,2100000,11.61,1.5731559686524317,campur,1,1,1,1,1,0,0,1
+Kost Kelapa Puan Timur Tipe B Kelapa Gading Jakarta Utara,695000,5.0,1.0610482502859753,putri,1,0,0,1,1,1,0,1
+Kost Chrysant Home BR1 Tipe A Kelapa Gading Jakarta Utara,1000000,4.0,1.3317461053473618,campur,1,0,0,1,1,0,0,1
+Kost Renata Tipe A Kelapa Gading Jakarta Utara,2500000,16.0,0.9534932919550214,campur,1,1,1,1,1,0,1,1
+Kost Chrysant Home Tipe A Kelapa Gading Jakarta Utara,950000,4.0,1.7898717912263615,campur,1,0,0,1,1,0,0,1
+Kost Chrysant Home BQ Tipe D Kelapa Gading Jakarta Utara,1000000,4.0,1.211691244017684,campur,1,0,0,1,1,0,0,1
+Kost Chrysant Home BQ Tipe B Kelapa Gading Jakarta Utara,1200000,9.0,1.240622338444608,campur,1,0,0,1,1,0,0,1
+Kost Asya Tipe B Kelapa Gading Jakarta Utara,1650000,9.0,0.7377938084738008,campur,1,0,1,1,1,0,0,0
+Kost Nyaman Kelapa Gading Jakarta Utara,1499999,9.0,1.915264829667697,campur,1,1,0,1,1,1,0,1
+Kost Singgahsini Summagung Tipe B Kelapa Gading Jakarta Utara,1645000,8.75,1.2393379013188806,campur,1,1,1,1,1,0,0,0
+Kost Janur Kuning Silver Kelapa Gading Jakarta Utara,1350000,9.0,0.5492687743333675,campur,1,0,0,1,1,0,1,1
+Kost Gading Boulevard Tipe C Kelapa Gading Jakarta Utara,1050000,5.0,0.6939055524596456,campur,1,0,0,1,1,1,1,1
+Kost V 1 Sunter Standard Plus Tanjung Priok Jakarta Utara,1800000,12.5,2.6911733256430392,campur,1,0,0,1,1,0,1,1
+Kost Gading Boulevard Tipe B Kelapa Gading Jakarta Utara,1475000,7.5,1.1261966863217872,campur,1,0,0,1,1,1,1,1
+Kost Kelapa Puan Timur Tipe Colorful Kelapa Gading Jakarta Utara,695000,5.0,1.0646564331835884,putri,1,0,0,1,1,1,0,1
+Kost Kelapa Puan Timur Tipe C Kelapa Gading Jakarta Utara,695000,5.0,1.0646564329865371,putri,1,0,0,1,1,1,0,1
+Kost Musik Raya Tipe D Kelapa Gading Jakarta Utara,900000,6.0,1.5642585239721936,campur,1,0,0,1,1,1,0,0
+Kost Eksekutif Nyaman Tipe B Kelapa Gading Jakarta Utara,1500000,9.0,1.0126127991383052,campur,1,1,0,1,1,0,0,1
+Kost Pandawa Lima Tipe B Kelapa Gading Jakarta Utara,1650000,9.0,1.5936576707813517,campur,1,1,0,1,1,1,1,0
+Kost Kelapa Puan Timur Tipe Harmony Kelapa Gading Jakarta Utara,695000,4.0,1.0646564331835884,putri,1,0,0,1,1,1,0,1
+Kost Premium Gading Putih Tipe 3 Kelapa Gading Jakarta Utara,1500000,5.75,1.5731559686524317,campur,1,0,1,1,1,0,0,1
+Kost Permata Biru Kelapa Gading Jakarta Utara,2000000,12.0,1.3341943721190956,campur,1,1,1,1,1,0,0,0
+Kost Oma Ida Tipe B Kelapa Gading Jakarta Utara,1300000,9.0,0.3657737767293451,campur,1,0,0,1,1,1,1,1
+Kost Gading Surya Tipe Nice Room Kelapa Gading Jakarta Utara,850000,5.0,0.9715020715256908,campur,1,0,0,0,1,1,0,0
+Kost Mimi Tipe D kelapa Gading Jakarta Utara,1900000,9.0,1.6996831466953453,putri,1,0,1,1,1,0,1,0
+Kost Diva Tipe B Pulo Gadung Jakarta Timur,1100000,9.0,2.625188495949493,campur,1,0,0,1,1,0,1,0
+Kost Gading Residence Tipe Executive Kelapa Gading Jakarta Utara,3500000,21.0,2.0721246741142187,campur,1,1,1,1,1,0,1,1
+Kost Gading Surya Tipe Complete Room Kelapa Gading Jakarta Utara,950000,6.0,0.9715020715256908,campur,1,0,0,1,1,1,0,0
+Kost Gading Molek Kelapa Gading Jakarta Utara,1400000,9.0,1.4197540466831111,campur,1,0,0,1,1,0,0,1
+Kost Cori Mori Tipe Besar Kelapa Gading Jakarta Utara,1750000,12.0,1.1269075442564775,putri,1,1,0,1,1,0,0,0
+Kost Pulomas IC 3 Tipe B Pulo Gadung Jakarta Timur,1500000,9.0,2.622912805173516,putri,1,0,0,1,1,1,0,0
+Kost Omah Ida Tipe A Kelapa Gading Jakarta Utara,1800000,12.0,0.3479732936059714,campur,1,0,0,1,1,1,1,1
+Kost Faith House Kelapa Gading Jakarta Utara,1650000,9.0,1.8474813785925688,putra,1,0,0,1,1,0,1,1
+Kost Gading Surya Tipe Twin Bed Kelapa Gading Jakarta Utara,950000,6.0,0.9715020715256908,campur,1,0,0,1,1,1,0,0
+Kost Mimi Tipe C Kelapa Gading Jakarta Utara,1900000,9.0,1.6893542313607188,putri,1,0,0,1,1,0,0,0
+Kost Mimi Kmr G Kelapa Gading Jakarta Utara,2000000,9.0,1.6893509730227465,putri,1,0,1,1,1,0,1,1
+Kost Diva Tipe A Pulo Gadung Jakarta Timur,1150000,9.0,2.625188495949493,campur,1,0,0,1,1,1,1,0
+Kost Rizky Kelapa Gading Jakarta Utara,1600000,8.0,1.5067249550496626,campur,1,1,0,1,1,1,0,0
+Kost Kompleks HII A13 Kelapa Gading Jakarta Utara,1800000,9.0,2.097584304757017,campur,1,1,0,1,1,0,0,0
+Kost Kelapa Puan Timur Tipe Warm Room Kelapa Gading Jakarta Utara,695000,5.0,1.0646564331835884,putri,1,0,0,1,1,1,0,1
+Kost Boulevard Kelapa Gading Jakarta Utara,2100000,12.0,0.6976030681843626,campur,1,1,1,1,1,0,1,1
+Kost Cori Mori Tipe Kecil Kelapa Gading Jakarta Utara,1250000,8.4,1.1269075442564775,putri,1,1,0,1,1,0,0,0
+Kost Gading Pavillion Tipe B Kelapa Gading Jakarta Utara,1600000,9.0,1.023006918854571,putri,1,0,1,1,1,0,0,1
+Kost Kelapa Puan Timur Tipe A Kelapa Gading Jakarta Utara,650000,5.0,1.0601970680948565,putri,1,0,0,1,1,1,0,1
+Kost De Alcatraz 2 Tipe Aranjuez Kelapa Gading Jakarta Utara,2700000,9.8,0.8023064944152195,campur,1,1,1,1,1,0,1,0
+Kost Musik Raya Tipe B Kelapa Gading Jakarta Utara,1000000,6.0,1.5678290688357015,campur,1,0,0,1,1,1,0,1
+Kost Chrysant Home BR 1 Tipe B Kelapa Gading Jakarta Utara,1100000,4.0,1.331746105347963,campur,1,0,0,1,1,0,0,1
+Kost Yudhistira Tipe A Kelapa Gading Jakarta Utara,1250000,9.0,1.5135145041984006,campur,1,0,0,1,1,1,1,1
+Kost The Good Living Tipe A Kelapa Gading Jakarta Utara,2100000,5.95,1.875865122244679,campur,1,1,1,1,1,0,1,0
+Kost Cengkir Kelapa Gading Jakarta Utara,1600000,9.0,0.5321414164264081,campur,1,0,0,1,1,0,1,1
+Kost Royale Tipe A Kelapa Gading Jakarta Utara,2800000,12.0,0.9081861481257244,campur,1,1,0,1,1,0,1,0
+Kost Gading Surya Tipe Clean Room Kelapa Gading Jakarta Utara,950000,5.0,0.9715020715256908,campur,1,0,0,1,1,1,0,0
+Kost Gading Surya Tipe B Kelapa Gading Jakarta Utara,850000,5.0,0.9715020715255296,campur,1,0,0,0,1,1,0,0
+Kost Kelapa Cengkir Barat Jakarta Utara,1850000,9.0,0.6986367809105125,campur,1,0,1,1,1,1,0,1
+Kost The Mansions Tipe B 1 Kelapa Gading Jakarta Utara,1850000,9.0,0.873925361470678,campur,1,1,1,1,1,0,0,1
+Kost Asya Tipe C Kelapa Gading Jakarta Utara,1850000,9.0,0.7377938084738008,campur,1,1,1,1,1,0,1,0
+Kost Royale Tipe Standart Kelapa Gading Jakarta Utara,1700000,6.0,0.9078864183734676,campur,1,1,0,1,1,0,1,0
+Kost Gambyong Tipe A Kelapa Gading Jakarta Utara,1600000,9.0,0.773063456077754,campur,1,1,0,1,1,0,0,0
+Kost Harpa Kelapa Gading Jakarta Utara,2000000,10.5,1.519328613747548,putri,1,1,0,1,1,0,0,1
+Kost Gading Boulevard Tipe A Kelapa Gading Jakarta Utara,1675000,12.0,0.6960508306960066,campur,1,0,0,1,1,1,1,1
+Kost Yudhistira Premium Eksekutif Premium Kelapa Gading Jakarta Utara,2300000,9.0,1.6915337939413064,campur,1,0,0,1,1,1,0,0
+Kost Gading Surya Tipe Cheerful Kelapa Gading Jakarta Utara,950000,6.0,0.9715020715256908,campur,1,0,0,1,1,1,0,0
+Kost Perintis Pulo Gadung Jakarta Timur,1800000,12.25,2.2183295334615707,campur,1,1,0,1,1,0,1,0
+Kost Merah Delima Kelapa Gading Jakarta Utara,1600000,10.5,0.9199969085528596,putri,1,0,0,1,1,0,0,0
+Kost Rumah Milanos Kelapa Gading Jakarta Utara,1500000,9.0,1.1727825278945294,campur,1,1,0,1,1,0,0,1
+Kost Gading Permai Kelapa Gading Jakarta Utara,2100000,12.0,1.4930124300493153,campur,1,1,1,0,1,0,1,0
+Kost Farida Kelapa Gading Jakarta Utara,1700000,6.25,1.6416039041817396,putri,1,0,0,1,1,1,0,1
+Kost Plaza Pasifik Kelapa Gading Jakarta Utara,1700000,9.0,1.4350645347239508,campur,1,0,0,1,1,1,1,0
+Kost Dedeh Kelapa Gading Jakarta Utara,2200000,15.0,0.7032182977965153,putri,1,1,0,1,1,1,1,1
+Kost Gading Surya Tipe A Kelapa Gading Jakarta Utara,850000,6.0,0.9775345465076186,campur,1,0,0,1,1,1,0,0
+Kost Kelapa Puan Timur Tipe E Kelapa Gading Jakarta Utara,695000,5.0,1.0646564329865371,putri,1,0,0,1,1,1,0,1
+Kost Gading Surya Tipe Sweet Room Kelapa Gading Jakarta Utara,950000,9.0,0.9715020715256908,campur,1,0,0,1,1,1,0,0
+Kost Kecak Asri Kelapa Gading Jakarta Utara,1500000,6.0,1.5205498778739517,campur,1,0,1,1,1,0,1,0
+Kost Premium Puan Kelapa Gading Jakarta Utara,2400000,24.0,0.4832386731568447,putri,1,0,1,1,1,1,1,1
+Kost Gading Residence Tipe Standart Kelapa Gading Jakarta Utara,3300000,7.5,2.0721246741142187,campur,1,0,0,1,1,1,1,1
+Kost Anaya Tipe A Kelapa Gading Jakarta Utara,2100000,6.0,1.7866090328267237,campur,1,1,1,1,1,1,1,1
+Kost Gading Kendang Kelapa Gading,1900000,12.0,1.4641866115047395,putri,1,1,0,1,1,1,0,1
+Kost Tiara House Single Room Ac Kelapa Gading Jakarta Utara,1400000,9.0,1.5742538333096658,campur,1,0,1,1,1,0,0,1
+Kost Gading Mas Kelapa Gading Jakarta Utara,1350000,12.0,0.998061435016441,putra,1,0,0,0,1,0,0,1
+Kost Kirana 2 Tipe A Kelapa Gading Jakarta Utara,900000,4.0,0.8261991957156211,campur,1,0,0,1,1,1,1,1
+Kost Gading Surya Tipe G Kelapa Gading Jakarta Utara,950000,5.0,0.9849113253933292,campur,1,0,0,1,1,1,0,0
+Kost Bu Elis Kelapa Gading Jakarta Utara,2300000,9.0,1.1602108729267302,putri,1,1,1,1,1,1,0,1
+Kost White House Tipe A Kelapa Gading Jakarta Utara,1450000,7.5,0.2006162507459695,campur,1,0,0,1,1,1,0,1
+Kost The Good Living Executive Kelapa Gading Jakarta Utara,1800000,6.0,1.875865122244679,campur,1,0,1,1,1,0,1,0
+Kost Kelapa Puan Timur Tipe Smart Room Kelapa Gading Jakarta Utara,650000,5.0,1.0646564331835884,putri,1,0,0,1,1,1,0,1
+Kost Maramba 11 Jakarta Kelapa Gading Jakarta Utara,850000,9.0,1.896291638580186,putri,1,0,0,1,1,1,1,0
+Kost Boulevard Smart Room Kelapa Gading Jakarta Utara,900000,5.0,0.6094118782899618,campur,1,0,0,1,1,1,0,1
+Kost Nali House Tipe C Kelapa Gading Jakarta Utara,1100000,6.0,1.570900507052266,putri,1,0,0,0,1,0,0,0
+Kost Oemah Kelapa Gading Jakarta Utara,1600000,12.0,1.6075269273512074,campur,1,1,0,1,1,1,0,0
+Kost Gading Residence Tipe Suite Kelapa Gading Jakarta Utara,4500000,30.0,2.0721246741142187,campur,1,1,1,1,1,0,1,1
+Kost Yoshi Kelapa Gading Jakarta Utara,1400000,9.0,1.3392098960237568,putri,1,0,0,1,1,1,0,1
+Kost Dede Kelapa Gading Jakarta Utara,1400000,9.0,0.3762399737133094,campur,1,0,0,1,1,1,1,1
+Kost Pintu Merah Residence Tipe B Kelapa Gading Jakarta Utara,1400000,12.0,1.163822073210097,campur,1,0,0,1,1,0,0,0
+Kost De Homey Kelapa Gading Tipe Single Room Kelapa Gading Jakarta Utara,1700000,12.0,1.2077177335922027,campur,1,0,0,1,1,0,0,0
+Kost V 1 Sunter Standard Tanjung Priok Jakarta Utara,1600000,10.0,2.6911733256430392,campur,1,0,0,1,1,0,1,1
+Kost The Kubik Dom Superior Doble Kelapa Gading Jakarta Utara,3500000,12.0,1.686726496435751,campur,1,1,1,1,1,0,1,1
+Kost Gading Mas Tipe B1 Kelapa Gading Jakarta Utara,1600000,12.0,1.1405181993770153,campur,1,1,0,1,1,0,1,1
+Kost Ibu Risdiana Tipe A Kelapa Gading Jakarta Utara,1350001,9.0,1.6225407171006625,putri,1,0,0,1,1,1,0,0
+Kost Pulomas IC 3 Tipe A Pulo Gadung Jakarta Timur,1500000,6.0,2.622912805173516,putri,1,1,0,1,1,1,0,0
+Kost Nali House Tipe B Kelapa Gading Jakarta Utara,1400000,9.0,1.570900507052266,putri,1,0,0,1,1,0,0,0
+Kost Pelepah Indah Tipe E Kelapa Gading Jakarta Utara,1500000,7.8,0.0927841087329384,campur,1,0,0,1,1,1,0,1
+Kost Kelapa Puan Timur Tipe P Kelapa Gading Jakarta Utara,695000,5.0,1.0646564329865371,putri,1,0,0,1,1,1,0,1
+Kost Omah Ida Tipe VVIP Kelapa Gading Jakarta Utara,3500000,30.0,0.3534144406238275,campur,1,1,1,1,1,0,1,1
+Kost Ceniza Astari Kelapa Gading Jakarta Utara,1300000,9.0,0.5135215758551253,putri,1,1,0,1,1,0,0,0
+Kost Diva Tipe C Pulo Gadung Jakarta Timur,1650000,16.0,2.625188495949493,campur,1,0,0,1,1,1,1,0
+Kost Rumah Teduh Kelapa Gading Jakarta Utara,1600000,9.0,1.1980637512932124,putri,1,1,0,1,1,0,0,1
+Kost Syantiek Tipe C Kelapa Gading Jakarta Utara,1450000,12.0,1.165380367033115,putri,1,0,0,1,1,0,0,1
+Kost Wisma Gading Permai Jakarta Utara,4000000,35.0,1.0491727872708194,campur,1,1,1,1,1,1,1,1
+Kost Sweet Home 1 Tipe A Kelapa Gading Jakarta Utara,1750000,9.0,1.2603320896878325,campur,1,1,0,1,1,0,0,1
+Kost Royal Sunter Tipe C1 Tanjung Priok Jakarta Utara,1700000,9.0,2.6729743388918927,campur,1,1,0,1,1,0,1,0
+Kost Pulomas Utara 3E Tipe A Pulo Gadung Jakarta Timur,2000000,12.0,2.7174944387013653,campur,1,0,0,1,1,0,0,1
+Kost Boulevard Tipe Divan Kelapa Gading Jakarta Utara,775000,5.0,0.6094118782899618,campur,1,0,0,1,1,1,0,1
+Kost Kelapa Puan Timur Sleepy Kelapa Gading Jakarta Utara,650000,5.0,1.0646564331835884,putri,1,0,0,1,1,1,0,1
+Kost Julian Tipe A Cilincing Jakarta Utara,1460000,15.0,2.5273749166873127,campur,1,1,0,0,1,0,0,0
+Kost Chrysant Home Tipe C Kelapa Gading Jakarta Utara,1300000,9.0,1.6476467483717787,campur,1,0,0,1,1,0,0,1
+Kost Boulevard Tipe Big Window Kelapa Gading Jakarta Utara,900000,5.0,0.6094118782899618,campur,1,0,0,1,1,1,0,1
+Kost Kelapa Puan Timur Tipe L Kelapa Gading Jakarta Utara,800000,5.0,1.0646564329865371,putri,1,0,0,1,1,1,0,0
+Kost Syantiek Tipe B Kelapa Gading Jakarta Utara,1850000,12.0,1.1653388669412263,putri,1,0,0,1,1,1,1,1
+Kost Kelapa Gading Tipe D Kelapa Gading Jakarta Utara,2500000,16.0,0.7550504949316461,campur,1,1,0,1,1,1,1,1
+Kost Boulevard Timur Mall Luxury Kelapa Gading Jakarta Utara,875000,7.0,0.6094118782899618,campur,1,0,0,1,1,1,1,1
+Kost Sweet Home 1 Tipe C Kelapa Gading Jakarta Utara,1950000,18.0,1.2603320896878325,campur,1,0,0,1,1,0,0,1
+Kost Gading Residence Deluxe Kelapa Gading Jakarta Utara,3000000,12.0,2.247172492675055,campur,1,1,1,1,1,0,1,0
+Kost Pondok Gading N 3 Tipe A Kelapa Gading Jakarta Utara,2200000,9.0,1.3921605299799091,campur,1,1,1,1,1,1,1,1
+Kost Ibu Nur Aboru Cilincing Jakarta Utara,1100000,9.0,1.88337117806492,putri,1,1,0,1,1,0,0,0
+Kost Coco Home Tipe A Kelapa Gading Jakarta Utara,2150000,9.0,1.0533387354291044,campur,1,1,0,1,1,0,1,1
+Kost Gading Surya Tipe Roomy Kelapa Gading Jakarta Utara,850000,6.0,0.9715020715256908,campur,1,0,0,1,1,1,0,0
+Kost Aras Lodge Standard Kelapa Gading Jakarta Utara,1850000,9.0,1.251808233598313,campur,1,1,0,1,1,0,1,1
+Kost Gading Surya Tipe AC Kelapa Gading Jakarta Utara,1500000,9.0,0.9715020715256908,campur,1,0,0,1,1,0,0,1
+Kost Green Gading Tipe A Kelapa Gading Jakarta Utara,1400000,9.0,1.5071149824425236,campur,1,0,0,1,1,0,0,1
+Kost De Homey Kelapa Gading Standard Room Kelapa Gading Jakarta Utara,2000000,12.0,1.2077177335922027,campur,1,1,0,1,1,0,0,0
+Kost Royal Sunter Tipe A Tanjung Priok Jakarta Utara,1600000,12.0,2.6729743388918927,campur,1,1,0,1,1,0,1,0
+Kost Gading Mas Tipe A1 Kelapa Gading Jakarta Utara,1400000,7.5,1.1405181993770153,campur,1,0,0,1,1,0,1,1
+Kost Primanota Kelapa Gading Jakarta Utara,1500000,7.5,1.1678179026321631,campur,1,0,0,1,1,0,0,1
+Kost Raya Residence Tipe A Kelapa Gading Jakarta Utara,2600000,12.0,1.2923546147910026,campur,1,1,1,1,1,0,0,1
+Kost Eksekutif Boulevard Kelapa Gading Jakarta Utara,3001500,16.0,0.8474748063866815,campur,1,1,1,1,1,1,1,1
+Kost Qing House KG Executive Kelapa Gading Jakarta Utara,2000000,12.0,1.5726315256660337,putri,1,0,1,1,1,0,1,1
+Kost Singgahsini Cantika Tipe D Kelapa Gading Jakarta Utara,1900000,6.4,0.5284056450228984,putri,1,0,1,1,1,0,0,0
+Kost Lenny Tipe B Kelapa Gading Jakarta Utara,2200000,12.0,0.6221555050726184,putra,1,1,1,1,1,0,0,0
+Kost Harpa Place Tipe C Kelapa Gading Jakarta Utara,2000000,9.0,1.655056431714049,campur,1,1,1,1,1,1,1,0
+Kost Joy Living Zion Kg Deluxe Kelapa Gading Jakarta Utara,3910000,12.0,1.604369898219843,campur,1,1,1,1,1,1,1,1
+Kost Joy Living Zion Kg Premium Deluxe Kelapa Gading Jakarta Utara,3910000,16.0,1.604369898219843,campur,1,1,1,1,1,0,1,1
+Kost HII Tipe A Kelapa Gading Jakarta Utara,750000,12.0,2.0392790271795658,putri,1,0,0,1,1,1,0,0
+Kost Ichi Tipe B Kelapa Gading Jakarta Utara,1500000,12.0,2.0922566302745498,putri,1,1,0,1,1,1,1,0
+Kost Ichi Tipe A Kelapa Gading Jakarta Utara,1500000,21.0,2.0922566302745498,putri,1,1,0,1,1,0,1,0
+Kost Little Bee Kelapa Gading Jakarta Utara,750000,9.0,1.348678365781329,putri,1,0,0,0,1,1,0,1
+Kost Harpa Place Tipe D Kelapa Gading Jakarta Utara,1800000,5.95,1.655056431795116,campur,1,1,1,1,1,0,1,0
+Kost Murah Kelapa Puan Timur Tipe Smart Room Kelapa Gading Jakarta Utara,750000,5.0,1.0760769335720417,campur,1,0,0,1,1,1,1,1
+Kost Vani Kelapa Gading Jakarta Utara,770000,9.0,1.8660707552218228,putri,1,0,0,1,1,1,0,0
+Kost Vani Tipe A Kelapa Gading Jakarta Utara,500000,9.0,1.868318583924627,putri,1,0,0,1,1,1,0,0
+Kost Mimemo Kelapa Gading Jakarta Utara,1550000,9.0,1.906827530618536,putri,1,1,0,0,1,1,0,1
+Kost Singgahsini Indri Taska 35 Tipe C Kelapa Gading Jakarta Utara,1775000,7.5,1.2197557282702092,putri,1,0,1,1,1,1,0,0
+Kost Sweet Home 1 Tipe D Kelapa Gading Jakarta Utara,2150000,9.0,1.2603320896878325,campur,1,1,0,1,1,1,0,1
+Kost Sweet Home 1 Tipe E Kelapa Gading Jakarta Utara,1350000,4.0,1.2603320896878325,campur,1,0,0,0,1,0,0,1
+Kost Sitepu Tipe B Kelapa Gading Jakarta Utara,2300000,16.0,0.706461312486726,putri,1,1,0,1,1,1,1,0
+Kost Gading Residence Tipe Vip Kelapa Gading Jakarta Utara,3500000,21.0,2.0721246741142187,campur,1,1,1,1,1,0,1,0
+Kost Gading Residence Suite Kelapa Gading Jakarta Utara,5000000,36.0,2.0721246741155723,campur,1,1,1,1,1,0,1,1
+Kost Ibu Risdiana Tipe B Kelapa Gading Jakarta Utara,1350001,15.0,1.6225591513921618,putri,1,0,0,1,1,1,0,1
+Kost Jl Beo Cilincing Jakarta Utara,650000,9.0,2.087348695521583,campur,1,0,0,0,1,1,0,0
+Kost Arif Annisa Kelapa Gading Jakarta Utara,800000,12.0,2.1528495472574694,campur,1,1,0,0,1,1,0,0
+Kost Sitepu Tipe A Kelapa Gading Jakarta Utara,1650000,12.0,0.706461312486726,putri,1,1,0,1,1,1,1,0
+Kost Ibu Estelita Kelapa Gading Jakarta Utara,650000,9.0,1.9288204834288265,campur,1,0,0,1,1,0,0,0
+Kost Bdn Lince Samosir Kelapa Gading Jakarta Utara,700000,9.0,1.9529231362353392,campur,1,0,0,1,1,1,0,0
+Kost Kuning Tua Kelapa Gading Jakarta Utara,725000,9.0,0.6869091307829226,putri,1,0,0,1,1,1,0,0
+Kost Kelapa Cengkir Kelapa Gading Jakarta Utara,1900000,9.0,1.0552789519814176,campur,1,0,1,1,1,0,0,0
+Kost Kelapa Cengkir Residence Kelapa Gading Jakarta Utara,1450000,12.0,0.4032060200076419,campur,1,0,0,1,1,0,0,1
+Kost Kelapa Cengkir 11 Res Kelapa Gading Jakarta Utara,3000000,12.0,0.8171482441415365,campur,1,1,1,1,1,0,1,1
+Kost Ekatina Tipe A Kelapa Gading Jakarta Utara,1200000,9.0,1.8115902191500648,putri,1,0,0,1,1,1,0,0
+Kost Gading Residence Tipe Superior Kelapa Gading Jakarta Utara,5000000,21.0,2.0721246741142187,campur,1,1,1,1,1,1,1,0
+Kost Gading Residence Tipe A Kelapa Gading Jakarta Utara,2200000,9.0,2.0721246741142187,campur,1,0,0,1,1,0,1,1
+Kost Singgahsini Cantika Tipe A Kelapa Gading Jakarta Utara,2150000,9.86,0.5284056450228984,putri,1,1,1,1,1,1,0,0
+Kost Kopyor Raya Tipe C Kelapa Gading Jakarta Utara,1700000,8.399999999999999,1.2982070439239863,putri,1,0,1,1,1,1,0,1
+Kost Kopyor Raya Tipe E Kelapa Gading Jakarta Utara,1700000,8.25,1.2982070439239863,putri,1,0,1,1,1,1,0,1
+Kost Kopyor Raya Tipe A Kelapa Gading Jakarta Utara,1750000,10.5,1.2982070439239863,putri,1,0,1,1,1,1,0,1
+Kost Aim Tipe Vvip Kelapa Gading Jakarta Utara,1300000,7.5,0.7669703130315049,putri,1,0,0,1,1,1,0,0
+Kost Banyo Raya A25 Tipe A Kelapa Gading Jakarta Utara,2500000,12.6,1.5225850639205918,campur,1,1,1,1,1,1,0,0
+Kost Banyo Raya A25 Tipe B Kelapa Gading Jakarta Utara,2000000,10.8,1.5225850639205918,campur,1,1,1,1,1,0,0,0
+Kost Banyo Raya A25 Tipe C Kelapa Gading Jakarta Utara,2250000,9.9,1.5225850639205918,campur,1,1,1,1,1,0,0,0
+Kost Anarvy Tipe VIP Kelapa Gading Jakarta Utara,1850000,7.199999999999999,1.3401466863376628,putri,1,0,0,1,1,1,0,1
+Kost Anarvy Tipe Pet Friendly Kelapa Gading Jakarta,1200000,9.0,1.348174830550736,putri,1,0,0,0,1,0,0,0
+Kost Anarvy Tipe B Kelapa Gading Jakarta Utara,1250000,7.199999999999999,1.3401466861775049,putri,1,0,0,1,1,0,0,1
+Kost Anarvy Tipe D Kelapa Gading Jakarta Utara,1250000,6.6000000000000005,1.3401466863376628,putri,1,0,0,1,1,0,0,1
+Kost Anarvy Tipe Dasar Kelapa Gading Jakarta Utara,1400000,6.25,1.3401466863376628,putri,1,0,0,1,1,0,0,1
+Kost Anarvy Tipe A Kelapa Gading Jakarta Utara,1850000,12.0,1.3401466863376628,putri,1,0,0,1,1,0,0,1
+Kost Kirana Kelapa Gading Jakarta Utara,2600000,9.0,1.5983099095411484,putri,1,1,1,1,1,1,1,1
+Kost Kirana 2 Tipe D Kelapa Gading Jakarta Utara,1400000,4.0,0.8285476573420106,campur,1,0,0,1,1,1,1,1
+Kost Kirana 2 Tipe B Kelapa Gading Jakarta Utara,1300000,4.0,0.8285476573420106,campur,1,0,0,1,1,1,1,1
+Kost Kirana 2 Tipe C Kelapa Gading Jakarta Utara,1300000,4.0,0.8285476573420106,campur,1,0,0,1,1,1,1,1
+Kost Kirana 2 Tipe E Kelapa Gading Jakarta Utara,1400000,4.0,0.8285476573420106,campur,1,0,0,1,1,1,1,1
+Kost Kirana 2 Tipe F Kelapa Gading Jakarta Utara,1400000,4.0,0.8285476573420106,campur,1,0,0,1,1,1,1,1
+Kost Kirana 14 Kelapa Gading Jakarta Utara,2150000,9.0,1.583245002182383,putri,1,1,1,1,1,1,1,1
+Kost Nora Gading Kirana Tipe Premium Kelapa Gading Jakarta Utara,4000000,12.0,1.497069692853387,putri,1,1,1,1,1,1,0,0
+Kost Nora Gading Kirana Tipe Premium A Kelapa Gading Jakarta Utara,3500000,12.0,1.497069692853387,putri,1,1,1,1,1,0,0,0
+Kost Nora Gading Kirana Tipe Executive Kelapa Gading Jakarta Utara,4000000,20.0,1.497069692853387,putri,1,1,1,0,1,0,0,0
+Kost Bidan Lince Lantai Dasar Kelapa Gading Jakarta Utara,700000,6.25,1.966436879804588,campur,1,0,0,1,1,1,0,0
+Kost Bidan Lince Lantai 3 Kelapa Gading Jakarta Utara,500000,9.0,1.966436879804588,campur,1,0,0,1,1,0,0,0
+Kost Bidan Lince Lantai 2 Kelapa Gading Jakarta Utara,700000,16.0,1.966436879804588,campur,1,0,0,1,1,0,0,0
+Kost Pak Haji Udin Pulo Gadung Jakarta Timur,700000,12.0,2.3361862542949847,campur,1,1,0,0,1,1,0,0
+Kost Asri Tipe D Cilincing Jakarta Utara,650000,9.0,1.886782018907689,putra,1,0,0,1,1,1,0,0
+Kost Asri Tipe E Cilincing Jakarta Utara,600000,7.5,1.8774992426537955,putra,1,0,0,1,1,1,0,0
+Kost Asri Tipe C Cilincing Jakarta Utara,750000,10.5,1.886782018907689,putra,1,0,0,1,1,1,0,0
+Kost Asri Tipe Atas Tanjung Priok Jakarta Utara,800000,12.0,4.505364023640683,putra,1,1,0,0,1,0,0,0
+Kost Asri Tipe A Cilincing Jakarta Utara,1200000,24.0,1.8361819307925007,campur,1,1,0,0,1,0,0,0
+Kost Kopyor Raya Fleksi Prime Kelapa Gading Jakarta Utara,1750000,7.5,1.2982070439239863,putri,1,0,1,1,1,1,0,1
+Kost Kopyor Raya Tipe D Kelapa Gading Jakarta Utara,1600000,6.0,1.2982070439239863,putri,1,0,0,1,1,1,0,1
+Kost Kopyor Raya Tipe Fleksi Cozy Kelapa Gading Jakarta Utara,1600000,6.9,1.2982070439239863,putri,1,0,0,1,1,0,0,1
+Kost Kopyor Raya Tipe B Kelapa Gading Jakarta Utara,1700000,9.0,1.2982070439239863,putri,1,0,1,1,1,1,0,1
+Kost De Alcatraz Tipe Bastoy Kelapa Gading Jakarta Utara,2200000,9.52,0.7912952022900684,campur,1,1,1,1,1,0,1,0
+Kost Gaudensia Tipe 1 Kelapa Gading Jakarta Utara,1300000,9.0,1.2439567050685167,putri,1,0,0,1,1,1,0,0
+Kost The Blessing Residence Tipe B Kelapa Gading Jakarta Utara,2000000,12.0,1.737578824641857,campur,1,1,1,1,1,0,1,1
+Kost Sophia Tipe 1 Kelapa Gading Jakarta Utara,2750000,15.0,1.865372437073887,campur,1,1,1,1,1,1,1,0
+Kost Sophia Tipe 4 Kelapa Gading Jakarta Utara,2000000,10.5,1.865372437073887,campur,1,1,1,1,1,0,1,0
+Kost Sophia Tipe 3 Kelapa Gading Jakarta Utara,2250000,13.5,1.865372437073887,campur,1,1,1,1,1,0,1,0
+Kost Sophia Tipe 2 Kelapa Gading Jakarta Utara,2500000,13.5,1.865372437073887,campur,1,1,1,1,1,0,1,0
+Kost Azkoss Tipe A Kelapa Gading Jakarta Utara,2700000,30.0,2.133733469480931,putri,1,1,0,1,1,1,0,0
+Kost Azkoss Tipe D Kelapa Gading Jakarta Utara,850000,7.5,2.1353578604919514,putri,1,0,0,1,1,1,0,0
+Kost Azkoss Tipe D1 Kelapa Gading Jakarta Utara,1000000,10.0,2.1353578604919514,putri,1,0,0,0,1,1,0,0
+Kost Azkoss Tipe C Kelapa Gading Jakarta Utara,1800000,12.0,2.133118574232608,putri,1,1,0,1,1,0,0,0
+Kost Azkoss Tipe B Kelapa Gading Jakarta Utara,2100000,9.0,2.1330677190521863,putri,1,1,0,1,1,0,0,0
+Kost Tari Indang Tipe D Kelapa Gading Jakarta Utara,2700000,40.0,1.1872061663801006,campur,1,1,1,1,1,1,1,0
+Kost Tari Indang Tipe A Kelapa Gading Jakarta Utara,1800000,12.0,1.1872061663801006,campur,1,0,1,1,1,1,1,0
+Kost Tari Indang Tipe B Kelapa Gading Jakarta Utara,2000000,24.0,1.1872061663801006,campur,1,1,0,1,1,1,1,0
+Kost Harapan Abu Tipe 1 Kelapa Gading Jakarta Utara,800000,20.0,1.968797184329706,putra,1,0,0,1,1,1,0,0
+Kost Janur Tipe A Kelapa Gading Jakarta Utara,950000,7.5,0.2659298030945459,putri,1,0,0,1,1,1,1,0
+Kost Janur Kuning VII Tipe A Kelapa Gading Jakarta Utara,1500000,9.0,0.4761798488239907,campur,1,0,0,1,1,1,0,1
+Kost Janur Kuning Tipe A Kelapa Gading Jakarta Utara,1500000,9.0,0.4871423721861008,campur,1,0,0,1,1,1,0,0
+Kost Permata Biru Type A Kelapa Gading Jakarta Utara,1300000,9.0,1.5373603341394555,putri,1,0,0,1,1,1,1,0
+Kost Ganio Kelapa Gading Jakarta Utara,600000,9.0,0.6641634550224942,campur,1,0,0,1,1,1,0,0
+Kost The Blessing Residence Tipe A Kelapa Gading Jakarta Utara,2800000,20.0,1.7224589568930868,campur,1,1,1,1,1,1,1,1
+Kost Eksklusif Rumah Lunar Kelapa Gading Jakarta Utara,3500000,21.0,0.3500406308309524,campur,1,1,1,1,1,1,1,0
+Kost Kelapa Gading Timur Tipe C Kelapa Gading Jakarta Utara,2800000,12.25,0.8196779623702894,campur,1,1,1,1,1,1,1,1
+Kost Cherry Home Kelapa Gading Jakarta Utara,2900000,16.0,0.6228379783751653,putri,1,1,0,1,1,1,1,1
+Kost Cahaya Tipe A Kelapa Gading Jakarta Utara,2600000,9.0,0.4953414808984568,campur,1,1,0,1,1,0,0,0
+Kost Cahaya Tipe B Kelapa Gading Jakarta Utara,2500000,9.0,0.4953414808984568,campur,1,1,0,1,1,0,0,0
+Kost Lady Kelapa Gading Jakarta Utara,500000,9.0,2.0235726390335103,campur,1,0,0,0,1,1,0,0
+Kost Ibu Reno Cilincing Jakarta Utara,600000,12.0,2.1344863833639134,putra,1,0,0,1,1,1,0,1
+Kost Gading Boulevard Tipe D Kelapa Gading Jakarta Utara,1675000,4.0,1.1261966863217872,campur,1,0,0,1,1,1,1,1
+Kost Joyful Mega Sunter Astra Moi Tipe C Tanjung Priok Jakarta Utara,1000000,4.0,2.6021742773084755,campur,1,0,0,1,1,1,1,0
+Kost Joyful Mega Sunter Astra Moi Tipe A Tanjung Priok Jakarta Utara,900000,4.0,2.6021742773084755,campur,1,0,0,1,1,1,1,0
+Kost Joyful Mega Sunter Astra Moi Tipe B Tanjung Priok Jakarta Utara,1000000,5.0,2.6021742773084755,campur,1,0,0,1,1,1,1,0
+Kost Kelapa Gading Timur Tipe B Kelapa Gading Jakarta Utara,2800000,9.0,0.8212423845008772,campur,1,1,0,1,1,1,1,1
+Kost Ibu Farhan Pulo Gadung Jakarta Timur,1100000,9.0,2.201492402305786,putri,1,1,0,1,1,1,0,0
+Kost Gading Surya Tipe Green Room Kelapa Gading Jakarta Utara,900000,5.0,0.9715020715256908,campur,1,0,0,1,1,1,0,0
+Kost Gading Surya Tipe Shiny Kelapa Gading Jakarta Utara,950000,7.5,0.9715020715256908,campur,1,0,0,1,1,1,0,0
+Kost Gading Surya Tipe J Kelapa Gading Jakarta Utara,950000,5.0,0.9715020715255296,campur,1,0,0,1,1,1,0,0
+Kost Gading Surya Tipe C Kelapa Gading Jakarta Utara,950000,6.0,0.9715020715255296,campur,1,0,0,1,1,1,0,0
+Kost MX Home Tipe C Kelapa Gading Jakarta Utara,1500000,12.0,1.2366495135711142,campur,1,1,0,1,1,1,1,1
+Kost Mx Home Tipe A Kelapa Gading Jakarta Utara,1200000,9.0,1.2366495135711142,campur,1,1,0,1,1,0,1,1
+Kost MX Home Tipe B Kelapa Gading Jakarta Utara,1300000,9.0,1.2366495135711142,campur,1,0,0,1,1,0,1,1
+Kost Gading Surya President Suite Kelapa Gading Jakarta Utara,1700000,12.0,0.9849113253933292,campur,1,0,0,1,1,1,0,1
+Kost Kantin Me Tipe Family Kelapa Gading Jakarta Utara,3000000,36.0,1.2180761402825035,campur,1,1,0,1,1,1,1,0
+Kost Kantin Me Tipe C Kemayoran Jakarta Pusat,750000,9.0,6.103861398120024,campur,1,0,0,1,1,1,0,0
+Kost Kantin Me Tipe A Kelapa Gading Jakarta Utara,1000000,6.6000000000000005,1.2180761402825035,campur,1,0,0,1,1,1,1,0
+Kost Kantin Me Tipe B Kelapa Gading Jakarta Utara,1400000,6.6000000000000005,1.2180761402825035,campur,1,0,0,1,1,1,1,0
+Kost Kantin Me Tipe Exclusive Kemayoran Jakarta Pusat,1500000,18.0,6.104481253827058,campur,1,1,0,1,1,1,0,0
+Kost Surya Elok Kelapa Gading Jakarta Utara,1600000,12.0,0.946323620521518,campur,1,1,1,0,1,1,0,1
+Kost Gading Surya Tipe Smart Room Kelapa Gading Jakarta Utara,775000,5.0,0.9715020715256908,campur,1,0,0,1,1,1,0,0
+Kost Gracia Tipe C Kelapa Gading Jakarta Utara,3600000,12.6,1.6572451559785168,putri,1,1,1,1,1,1,1,0
+Kost Gracia Tipe B Kelapa Gading Jakarta Utara,3200000,15.04,1.6572451559785168,putri,1,1,1,1,1,0,1,0
+Kost Gracia Tipe A Kelapa Gading Jakarta Utara,3600000,22.5,1.6572451559785168,putri,1,1,1,1,1,0,1,0
+Kost Gracia House Tipe C Kelapa Gading Jakarta Utara,2400000,12.0,1.032707609012528,campur,1,0,0,1,1,1,1,1
+Kost Gracia House Tipe A Kelapa Gading Jakarta Utara,1500000,9.0,1.032707609012528,campur,1,0,0,1,1,1,1,1
+Kost Gracia House Tipe B Kelapa Gading Jakarta Utara,2000000,12.0,1.0130583194680367,campur,1,0,0,1,1,0,1,1
+Kost Gading Elok Residence II Queensize Bedroom Kelapa Gading Jakarta Utara,2900000,10.240000000000002,1.5115958944356092,campur,1,1,1,1,1,1,1,1
+Kost Gading Surya Tipe E Kelapa Gading Jakarta Utara,850000,4.0,0.9715020715255296,campur,1,0,0,1,1,1,0,0
+Kost Gading Surya Tipe Eksklusif Kelapa Gading Jakarta Utara,850000,5.0,0.9849113253933292,campur,1,0,0,1,1,1,0,1
+Kost Kelapa Puan Timur Tipe Superior Kelapa Gading Jakarta Utara,800000,4.0,1.0646564331835884,putri,1,0,0,1,1,1,0,1
+Kost Home Living Tipe 3C Kelapa Gading Jakarta Utara,2000000,9.0,1.667609435930836,putri,1,1,1,1,1,0,1,1
+Kost Atiga A3 Suite Kelapa Gading Jakarta Utara,3500000,24.0,1.3103112094734484,campur,1,1,1,1,1,1,1,0
+Kost Boutique Kelapa Sawit 5 VVIP Kelapa Gading Jakarta Utara,3200000,12.0,1.802134288151501,campur,1,1,1,1,1,1,1,0
+Kost Kelapa Puan Timur Tipe Fresh Room Kelapa Gading Jakarta Utara,695000,5.0,1.0646564331835884,putri,1,0,0,1,1,1,0,1
+Kost Kelapa Puan Timur Tipe Double Bed Kelapa Gading Jakarta Utara,900000,7.5,1.0646564331835884,putri,1,0,0,1,1,1,0,1
+Kost Kelapa Puan Timur Tipe I Kelapa Gading Jakarta Utara,800000,7.5,1.0500760177467048,putri,1,0,0,1,1,1,0,1
+Kost Kelapa Puan Timur Vvip Kelapa Gading Jakarta Utara,800000,6.0,1.0646564331835884,putri,1,0,0,1,1,1,0,0
+Kost Kelapa Puan Timur Tipe Twin Bed Kelapa Gading Jakarta Utara,1100000,7.5,1.0646564331835884,putri,1,0,0,1,1,1,0,1
+Kost Kelapa Puan Timur Tipe D Kelapa Gading Jakarta Utara,1100000,12.0,1.0646564331835884,putri,1,0,0,1,1,1,0,1
+Kost Kelapa Puan Timur Tipe G Kelapa Gading Jakarta Utara,1100000,12.0,1.0646564329865371,putri,1,0,0,1,1,1,1,0
+Kost Mimi Tipe E Kelapa Gading Jakarta Utara,2300000,16.0,1.6996831466953453,putri,1,1,1,1,1,1,1,0
+Kost Mimi Tipe I Kelapa Gading Jakarta Utara,1900000,9.0,1.6893542313607188,putri,1,1,1,1,1,0,1,1
+Kost Mimi Tipe A Kelapa Gading Jakarta Utara,2000000,9.45,1.6893542313607188,putri,1,0,0,1,1,0,0,0
+Kost Mimi Tipe B Kelapa Gading Jakarta Utara,2000000,12.0,1.6893542313606449,putri,1,0,0,1,1,0,0,0
+Kost Mimi Tipe F Kelapa Gading Jakarta Utara,2000000,12.0,1.6996831466953453,putri,1,0,1,1,1,0,1,0
+Kost WGP Kelapa Gading Jakarta Utara,3000000,35.0,1.0491727871920846,campur,1,1,1,1,1,1,1,1
+Kost The Good Living VVIP Kelapa Gading Jakarta Utara,2400000,12.0,1.875865122244679,campur,1,1,1,1,1,1,1,0
+Kost Gading Surya Tipe H Kelapa Gading Jakarta Utara,1100000,9.0,0.9715020715255296,campur,1,0,0,1,1,1,0,0
+Kost Boulevard Tipe Standar Kelapa Gading Jakarta Utara,900000,5.0,0.6094118782899618,campur,1,0,0,1,1,1,0,1
+Kost Boulevard Tipe Bisnis Kelapa Gading Jakarta Utara,775000,5.0,0.6094118782899618,campur,1,0,0,1,1,1,0,1
+Kost Boulevard Timur Mall Tipe VIP Kelapa Gading Jakarta Utara,850000,5.0,0.6094118782899618,campur,1,0,0,1,1,1,0,1
+Kost Boulevard Tipe Comfort Room Kelapa Gading Jakarta Utara,850000,5.0,0.6094118782899618,campur,1,0,0,1,1,1,0,1
+Kost Raya Kelapa Gading North Jakarta,1850000,12.0,1.3552407574153598,campur,1,1,0,1,1,1,0,1
+Kost Arteri 31 Tipe Medium Room Kelapa Gading Jakarta Utara,1500000,12.0,1.9306591104799216,campur,1,0,0,1,1,1,0,0
+Kost Musik Raya Tipe C Kelapa Gading Jakarta Utara,1200000,9.0,1.5678290688357015,campur,1,0,0,1,1,1,0,1
+Kost Musik Raya Tipe D Kelapa Gading Jakarta Utara,875000,6.0,1.5642585239721936,campur,1,0,0,1,1,1,0,0
+Kost Musik Raya Tipe A Kelapa Gading Jakarta Utara,1200000,12.0,1.5678290688357015,campur,1,0,0,1,1,1,0,1
+Kost Ultra Residence Tipe A Kelapa Gading Jakarta Utara,2500000,9.0,0.7992886161629813,putra,1,1,0,1,1,1,0,1
+Kost Ultra Residence Executive Kelapa Gading Jakarta Utara,2500000,9.0,0.7992886161629813,putra,1,1,0,1,1,0,0,1
+Kost Eksekutif Nyaman Tipe A Kelapa Gading Jakarta Utara,1800000,9.0,1.0126127991383052,campur,1,1,0,1,1,1,0,1
+Kost Eksekutif Nyaman Tipe C Kelapa Gading Jakarta Utara,1800000,9.0,1.0036704950663948,campur,1,1,0,1,1,0,0,1
+Kost Lenny Tipe A Kelapa Gading Jakarta Utara,3125000,15.0,0.6641634550224942,putra,1,1,1,1,1,1,1,1
+Kost Green Gading Tipe B Kelapa Gading Jakarta Utara,1800000,12.0,1.5071149824425236,campur,1,1,0,1,1,1,0,1
+Kost Green Gading Tipe KML Kelapa Gading Jakarta Utara,1500000,9.0,1.5071149824425236,campur,1,0,0,1,1,0,0,1
+Kost Green Pandawa Tipe B Kelapa Gading Jakarta Utara,2000000,12.0,1.601998788064266,campur,1,1,0,1,1,1,0,1
+Kost Green Pandawa Tipe A Kelapa Gading Jakarta Utara,1050000,12.0,1.6036121627637725,campur,1,0,0,1,1,0,0,1
+Kost Green Pandawa Tipe D Kelapa Gading Jakarta Utara,2000000,20.0,1.601998788064266,campur,1,1,1,1,1,1,0,1
+Kost Gading Putih Timur Kelapa Gading Jakarta Utara,1200000,9.0,1.5785802911963602,campur,1,0,0,1,1,1,0,1
+Kost Aras Lodge Deluxe Kelapa Gading Jakarta Utara,2100000,12.0,1.251808233598313,campur,1,1,0,1,1,1,1,1
+Kost Pulomas IC 3 Tipe C Pulo Gadung Jakarta Timur,1800000,12.0,2.622912805173516,putri,1,1,0,1,1,1,0,0
+Kost Giro I Standard Kelapa Gading Jakarta Utara,1100000,9.0,1.4046816870440697,putri,1,0,0,1,1,1,0,0
+Kost Kelapa Nias Kelapa Gading Jakarta Utara,1750000,9.0,1.0537593739526154,campur,1,1,0,1,1,1,0,0
+Kost Kelapa Nias Tipe B Kelapa Gading Jakarta Utara,1350000,5.4,0.9402666249382606,campur,1,0,0,1,1,1,1,1
+Kost Kelapa Nias Tipe A Kelapa Gading Jakarta Utara,1350000,5.4,0.9402666249382606,campur,1,0,0,1,1,1,1,1
+Kost Kelapa Nias VIII Kelapa Gading Jakarta Utara,1700000,9.0,1.129822054070828,campur,1,1,0,1,1,1,1,0
+Kost Dewi Shinta Tipe C Kelapa Gading Jakarta Utara,2050000,9.0,1.048773571729303,putra,1,1,0,1,1,1,0,0
+Kost Dewi Shinta Tipe A Kelapa Gading Jakarta Utara,950000,9.0,1.0447988301995774,putra,1,0,0,1,1,1,0,0
+Kost Kelapa Puan Timur Tipe O Kelapa Gading Jakarta Utara,695000,5.0,1.0646564329865371,putri,1,0,0,1,1,1,0,1
+Kost Dewi Shinta Tipe B Kelapa Gading Jakarta Utara,2050000,9.0,1.0495202009302556,putra,1,1,0,1,1,1,0,0
+Kost Nino Tipe B Kelapa Gading Jakarta Utara,1400000,9.0,1.7886746224982026,putra,1,1,1,0,1,1,0,0
+Kost Nino Tipe A Kelapa Gading Jakarta Utara,1400000,6.0,1.801529665571481,putra,1,1,1,0,1,0,0,0
+Kost Zamzami Cilincing Jakarta Utara,1050000,5.0,1.9542809321991248,putra,1,0,0,1,1,1,0,0
+Kost Gading Mall Kelapa Gading Jakarta Utara,1300000,6.0,0.8434415964348866,putra,1,0,0,0,1,1,0,0
+Kost Mall Kelapa Gading Tipe A Jakarta Utara,1300000,6.0,0.7737654652221295,putri,1,0,0,1,1,1,1,0
+Kost Boulevard Timur Mall Tipe VIP Kelapa Gading Jakarta Utara,900000,5.0,0.6094118782899618,campur,1,0,0,1,1,1,0,1
+Kost The Kubik Dom Superior single Kelapa Gading Jakarta Utara,4500000,12.0,1.686726496435751,campur,1,1,1,1,1,1,1,1
+Kost Kelapa Puan Timur Tipe H Kelapa Gading Jakarta Utara,695000,5.0,1.0646564329865371,putri,1,0,0,1,1,1,0,1
+Kost De Paviliun Premium Kelapa Gading Jakarta Utara,4250000,27.0,1.9504719747593453,campur,1,1,1,1,1,1,1,0
+Kost De Paviliun TIpe 3 Kelapa Gading Jakarta Utara,3975000,28.0,1.9504719747593453,campur,1,1,0,1,1,0,1,0
+Kost De Paviliun Type 2 Kelapa Gading Jakarta Utara,4000000,35.0,1.9504719747593453,campur,1,1,0,1,1,0,1,0
+Kost De Paviliun Tipe A Kelapa Gading Jakarta Utara,4200000,40.0,1.9504719747593453,campur,1,1,0,1,1,0,1,0
+Kost Jl Harpa 3 Kelapa Gading Jakarta Utara,1200000,9.0,1.5600617597395323,putra,1,0,0,1,1,1,0,0
+Kost Home Living Tipe 1D Kelapa Gading Jakarta Utara,3500000,9.0,1.667609435930836,putri,1,1,1,1,1,1,1,1
+Kost Home Living Tipe 2B Kelapa Gading Jakarta Utara,2000000,9.0,1.667609435930836,putri,1,1,1,1,1,0,1,1
+Kost Home Living Tipe 2E Kelapa Gading Jakarta Utara,2000000,9.0,1.667609435930836,putri,1,1,1,1,1,0,1,1
+Kost Home Living Tipe 3B Kelapa Gading Jakarta Utara,2000000,9.0,1.667609435930836,putri,1,1,1,1,1,0,1,1
+Kost White House Tipe C Kelapa Gading Jakarta Utara,2200000,12.0,2.0721246741142187,putri,1,0,1,1,1,1,1,0
+Kost Kelapa Gading Tipe C Kelapa Gading Jakarta Utara,2500000,16.0,0.7526273220581172,campur,1,1,0,1,1,1,0,0
+Kost Kelapa Gading Tipe E Kelapa Gading Jakarta Utara,1200000,9.0,0.6473455807084822,campur,1,0,0,0,1,1,1,0
+Kost Kelapa Gading Tipe B Kelapa Gading Jakarta Utara,1500000,9.0,0.6473455807084822,campur,1,0,0,1,1,1,0,0
+Kost Putri Kelapa Gading Tipe C Kelapa Gading Jakarta Utara,1200000,4.59,1.205873346563994,putri,1,0,0,1,1,1,0,0
+Kost Putri Kelapa Gading Tipe A Kelapa Gading Jakarta Utara,1000000,3.1500000000000004,1.2058733466089548,putri,1,0,0,1,1,1,0,0
+Kost Syantiek Tipe C2 Kelapa Gading Jakarta Utara,1850000,9.0,1.1653803670330305,putri,1,0,0,1,1,1,1,1
+Kost White House Tipe C Kelapa Gading Jakarta Utara,1450000,12.0,0.1953381737049659,campur,1,0,0,1,1,1,0,1
+Kost Tarian Kelapa Gading Jakarta Utara,1300000,7.5,1.120382673087995,putra,1,1,0,0,1,1,0,1
+Kost The Gading Residence Kelapa Gading Jakarta Utara,1850000,5.5,2.030827349832097,putra,1,0,0,0,1,1,1,0
+Kost Pelangi TIpe B Kelapa Gading Jakarta Utara,1050000,6.6000000000000005,0.8434415964348866,putra,1,0,0,0,1,1,0,0
+Kost Kubik Dom Penhouse Kelapa Gading Jakarta Utara,3800000,24.0,1.686726496435751,campur,1,1,1,1,1,1,1,1
+Kost Cherry Kelapa Gading Jakarta Utara,3200000,16.0,0.6228484829440492,putri,1,1,0,1,1,1,0,1
+Kost White House Tipe B Kelapa Gading Jakarta Utara,1300000,9.0,0.1946728954540482,campur,1,0,0,1,1,1,0,1
+Kost Boulevard Timur Mall Tipe VVIP Kelapa Gading Jakarta Utara,3500000,9.0,0.6094118782899618,campur,1,1,0,1,1,1,1,1
+Kost Renata Tipe B Kelapa Gading Jakarta Utara,3100000,11.2,0.9530000884371616,campur,1,1,1,1,1,1,1,1
+Kost Tifolia Tipe Studio Pulo Gadung East Jakarta,3000000,21.0,2.246507913064532,campur,1,1,0,1,1,1,1,0
+Kost Joyo Premium Tipe A Kelapa Gading Jakarta Utara,3000000,18.0,1.5997526186979891,campur,1,1,1,1,1,1,1,1
+Kost Joyo Premium Tipe C Kelapa Gading Jakarta Utara,2500000,12.5,1.6052598489926857,campur,1,1,1,1,1,0,1,1
+Kost Acordion 1 Tipe A Jakarta Utara,3000000,20.0,1.670594989762002,campur,1,1,0,1,1,1,0,0
+Kost Acordion 1 Tipe D Jakarta Utara,2500000,20.0,1.670594989762002,campur,1,1,0,1,1,0,0,0
+Kost Surya Kopyor Kelapa Gading Jakarta Utara,1600000,12.0,1.060280154555478,putri,1,1,1,1,1,1,1,0
+Kost Home Living Tipe 2F Kelapa Gading Jakarta Utara,3000000,9.0,1.667609435930836,putri,1,1,1,1,1,1,1,1
+Kost Pelangi Indah Tipe Prime Kelapa Gading Jakarta Utara,3000000,9.0,2.2155292477793225,campur,1,1,1,1,1,1,1,1
+Kost Artha Gading Tipe A Kelapa Gading Jakarta Utara,2800000,12.0,1.7599360579053622,campur,1,0,1,1,1,1,1,0
+Kost Boulevard Tipe C Kelapa Gading Jakarta Utara,950000,9.0,0.6094118782899618,campur,1,0,0,1,1,1,0,1
+Kost Gading Boulevard Tipe C Kelapa Gading Jakarta Utara,1675000,5.0,0.6939055524596456,campur,1,0,0,1,1,1,1,1
+Kost Gading Boulevard Tipe D Kelapa Gading Jakarta Utara,1020000,4.0,1.1261966863217872,campur,1,0,0,1,1,0,1,1
+Kost Kopyor Barat Kelapa Gading Jakarta Utara,1400000,9.0,1.0898264686337733,putra,1,0,0,1,1,0,0,1
+Kost Ibu Ita Tipe B Kelapa Gading Jakarta Utara,1500000,12.0,1.8754275920350425,putri,1,1,0,0,1,1,0,0
+Kost Ibu Ita Tipe A Kelapa Gading Jakarta Utara,800000,7.5,1.8754275920350425,putri,1,1,0,1,1,1,0,0
+Kost Ibu Ita Tipe D Kelapa Gading Jakarta Utara,800000,6.6000000000000005,1.8754275920350425,putri,1,1,0,1,1,0,0,0
+Kost Ibu Ita Tipe C Kelapa Gading Jakarta Utara,900000,7.5,1.8754275920350425,putri,1,1,0,1,1,0,0,0
+Kost Pulomas Utara 3E Tipe C Pulo Gadung Jakarta Timur,2000000,12.0,2.7174944387013653,campur,1,0,0,1,1,1,0,1
+Kost Kopyor Barat Strategis Kelapa Gading Jakarta Utara,1650000,9.0,0.9961458794643296,campur,1,0,0,1,1,1,0,0
+Kost Pulomas Utara 3E Tipe B Pulo Gadung Jakarta Timur,1500000,12.0,2.7174944387013653,campur,1,0,0,0,1,0,0,1
+Kost Gading Surya Tipe Big Room AC Kelapa Gading Jakarta Utara,1400000,12.0,0.9715020715256908,campur,1,0,0,1,1,0,0,0
+Kost Steven Kelapa Gading Jakarta Utara,1050000,6.0,1.5991409923905728,putri,1,0,0,1,1,1,1,1
+Kost Tiara House Deluxe Room Kelapa Gading Jakarta Utara,1600000,9.0,1.5742538333096658,campur,1,0,1,1,1,0,0,1
+Kost Eksklusif Tipe Ekonomis Kelapa Gading Jakarta Utara,1900000,12.0,1.508990915656771,campur,1,1,0,1,1,0,1,1
+Kost Premium Gading Putih Tipe 2 Kelapa Gading Jakarta Utara,2400000,11.61,1.5731559686524317,campur,1,1,1,1,1,1,0,1
+Kost Kelapa Kopyor Barat Kelapa Gading Jakarta Utara,1800000,9.0,1.0340710230634105,putri,1,1,0,1,1,1,1,0
+Kost Taman Pegangsaan Indah Tipe B Kelapa Gading Jakarta Utara,1600000,9.0,1.8452423859193896,putri,1,1,1,1,1,0,0,1
+Kost Chrysant Home BQ Tipe B1 Kelapa Gading Jakarta Utara,1649000,6.25,1.2028551050547125,campur,1,0,0,1,1,1,0,1
+Kost Griya Harpa 3 Tipe A Kelapa Gading Jakarta Utara,1400000,12.0,1.6364045883384382,putra,1,0,0,0,1,0,0,0
+Kost Syariah Kelapa Gading Jakarta Utara,2000000,9.0,0.6113099490630998,putra,1,0,0,1,1,1,0,0
+Kost Dewi Shinta Tipe C Kelapa Gading Jakarta Utara,1600000,9.0,1.048773571729303,putra,1,0,0,1,1,1,0,0
+Kost Kelapa Lilinku Tipe A Kelapa Gading Jakarta Utara,1600000,9.0,0.642575305345316,putra,1,0,0,1,1,0,0,0
+Kost Torpedo Tipe B Kelapa Gading Jakarta Utara,1600000,9.0,0.7325010594308026,putra,1,1,0,1,1,0,1,0
+Kost Rika Tipe A Kelapa Gading Jakarta Utara,1500000,18.0,0.3754704914157513,putra,1,0,0,1,1,1,0,1
+Kost Hijau Daun Tipe B Kelapa Gading Jakarta Utara,1500000,17.5,0.685857601617723,putra,1,0,0,1,1,0,0,0
+Kost Torpedo Tipe A Kelapa Gading Jakarta Utara,1400000,9.0,0.7325010594308026,putra,1,0,0,1,1,1,1,0
+Kost Exsklusif C5 Kelapa Gading Jakarta Utara,1300000,7.5,0.5652503067069743,putra,1,0,0,1,1,1,0,0
+Kost Hijau Daun Tipe A1 Kelapa Gading Jakarta Utara,1300000,8.91,0.685857601617723,putra,1,0,0,1,1,0,0,0
+Kost Weta Tipe A Kelapa Gading Jakarta Utara,1300000,5.0,0.7507118484006078,putra,1,1,0,1,1,1,0,1
+Kost Kamboja1 Pulo Gadung Jakarta Timur,1200000,12.0,2.186326081101041,putra,1,0,0,1,1,0,0,0
+Kost Jim Kelapa Gading Jakarta Utara,1200000,7.5,1.54572443484938,putra,1,0,0,1,1,1,0,1
+Kost Mama Raihan Kelapa Gading Jakarta Utara,1100000,12.0,2.0872737746626533,putra,1,1,0,1,1,1,0,0
+Kost Pratama Tipe A Cilincing Jakarta Utara,1000000,12.0,1.7501809294006716,putra,1,1,0,0,1,1,0,0
+Kost Mah Upi Kelapa Gading Jakarta Utara,1000000,9.0,1.4667558244038437,putra,1,0,0,1,1,1,1,0
+Kost Permata Biru 1 Kelapa Gading,1000000,12.0,1.5061496963341643,putra,1,0,1,1,1,0,0,1
+Kost Pondok Sultan Kelapa Gading Jakarta Utara,950000,6.0,0.5887222589749868,putra,1,0,0,1,1,1,0,0
+Kost Yasmin Kelapa Gading Jakarta Utara,950000,12.0,1.6716753178998536,putra,1,0,0,0,1,1,0,0
+Kost Hijau Daun Tipe A Kelapa Gading Jakarta Utara,900000,9.0,0.7195399016603071,putra,1,1,0,1,1,1,1,0
+Kost Ultra Violet 34 Kelapa Gading Jakarta Utara,850000,9.0,0.8370648171637632,putra,1,0,0,1,1,1,0,0
+Kost John Kelapa Gading Jakarta Utara,800000,6.0,2.0086050015116177,putra,1,0,0,1,1,1,0,1
+Kost Weta Kelapa Gading Jakarta Utara,800000,12.0,0.6799193219641014,putra,1,0,0,0,1,1,0,0
+Kost Pondok Afsyifa Tipe B Kelapa Gading Jakarta Utara,800000,12.0,0.6851670242471436,putra,1,0,0,1,1,1,0,0
+Kost Syahrazka Tipe B Kelapa Gading Jakarta Utara,800000,9.0,1.8521161487105529,putra,1,0,0,1,1,0,0,0
+Kost Ibu Wita Kelapa Gading Jakarta Utara,750000,9.0,2.073933200988668,putra,1,0,0,1,1,1,0,0
+Kost Pondok Afsyifa Tipe A Kelapa Gading Jakarta Utara,700000,6.0,0.6851670242510904,putra,1,0,0,1,1,1,0,0
+Kost Private Room Molek Tipe A Kelapa Gading Jakarta Utara,2375000,12.0,1.3832918670434704,campur,1,1,0,1,1,1,1,1
+Kost Pelangi Jingga Kelapa Gading Jakarta Utara,2500000,9.0,2.102394470503231,campur,1,0,1,0,1,1,1,1
+Kost BCS Tipe Eksklusif Kelapa Gading Jakarta Utara,2500000,9.0,1.1872180244769936,campur,1,1,0,1,1,1,1,1
+Kost Gading Kusuma Tipe B Kelapa Gading Jakarta Utara,2500000,15.0,1.450887184918827,campur,1,1,1,1,1,1,1,0
+Kost Gading Kusuma Tipe A Kelapa Gading Jakarta Utara,2500000,12.0,1.450887184918827,campur,1,1,1,1,1,1,1,0

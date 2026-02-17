@@ -1,0 +1,22 @@
+{
+  "region": "jakarta_pusat",
+  "version": "v1",
+  "model_type": "RandomForestRegressor",
+  "r2_test": 0.7118680829733509,
+  "mae_test": 537550,
+  "mape_test": 27.45,
+  "features": [
+    "luas_kamar",
+    "jarak_ke_bca",
+    "tipe_kos",
+    "is_km_dalam",
+    "is_water_heater",
+    "is_furnished",
+    "is_listrik_free",
+    "is_parkir_mobil",
+    "is_mesin_cuci",
+    "amenities_count"
+  ],
+  "data_size": 495,
+  "trained_at": "2026-02-15"
+}

@@ -1,0 +1,20 @@
+{
+  "region": "jakarta_utara",
+  "version": "v1",
+  "model_type": "LinearRegression",
+  "r2_test": 0.6627410991954539,
+  "mae_test": 348762,
+  "mape_test": 24.67,
+  "features": [
+    "luas_kamar",
+    "tipe_kos",
+    "is_km_dalam",
+    "is_water_heater",
+    "is_furnished",
+    "is_listrik_free",
+    "is_parkir_mobil",
+    "is_mesin_cuci"
+  ],
+  "data_size": 495,
+  "trained_at": "2026-02-15"
+}

@@ -1,0 +1,501 @@
+nama_kos,harga,luas_kamar,jarak_ke_bca,tipe_kos,is_ac,is_km_dalam,is_water_heater,is_furnished,is_internet,is_listrik_free,is_parkir_mobil,is_mesin_cuci
+Kost Apik Epimonos Baciro Tipe C Yogyakarta,875000,10.8,1.7234731033431858,putra,1,0,0,1,1,1,0,0
+Kost Singgahsini Omah Aqila UNY Tipe A Yogyakarta,2525000,20.0,1.647418351410148,campur,1,1,1,1,1,0,1,1
+Kost De Terban Tipe B Gondokusuman Yogyakarta,1950000,16.0,0.7225405966755379,putri,1,1,1,1,1,0,0,1
+Kost Bety Depok Sleman,2500000,20.0,2.329096745916716,putri,1,1,1,1,1,1,0,0
+Kost Singgahsini Van CS House Tipe A Yogyakarta,1525000,12.0,2.6670420040840246,putri,1,1,0,1,1,0,0,0
+Kost Apik Asix Klebengan Tipe B Yogyakarta,650000,9.0,2.0862730007506856,putri,1,0,0,1,1,1,0,0
+Kost Nabiila Rizky Tipe A Jetis Yogyakarta,1350000,12.0,1.0454224747148142,putri,1,1,0,1,1,1,1,0
+Kost Singgahsini Griya Amira Tipe B Klebengan Yogyakarta,1775000,9.0,2.2520679411410045,putri,1,1,1,1,1,1,1,0
+Kost Rukoen Tipe Vip Tegalrejo Yogyakarta,1350000,12.0,2.54229265880158,putri,1,1,0,1,1,0,0,0
+Kost Singgahsini Putri Maoni Tipe B Gejayan Yogyakarta,1635000,9.0,2.446203937417583,putri,1,1,1,1,1,0,1,0
+Kost Singgahsini Isma Tipe A Tegalrejo Yogyakarta,1635000,15.0,1.916103384695749,putri,1,1,1,1,1,1,0,1
+Kost Singgahsini Tapak Dara Tipe B Deresan Yogyakarta,1925000,16.0,2.425276931474611,putra,1,1,1,1,1,0,1,0
+Kost Singgahsini Omah Khiar Tipe A Karang Gayam Yogyakarta,1175000,12.0,2.2651771436623465,putri,1,1,0,1,1,1,1,0
+Kost Apik Asix Klebengan Tipe A Yogyakarta,900000,10.5,2.0862730007506856,putri,1,1,0,1,1,1,0,0
+Kost Exclusive Jeconia Tipe Eksklusif Depok Sleman,1850000,14.0,2.141948190435784,putri,1,1,1,1,1,0,1,0
+Kost Ndalem Ijo Executive Jetis Yogyakarta,1650000,12.0,1.2226488128142374,putri,1,1,0,1,1,0,1,1
+Kost Hustle House Tipe A Depok Sleman,1600000,16.0,2.4794089088989844,putra,1,1,1,1,1,1,1,0
+Kost La Gondokusuman Yogyakarta,1700000,12.0,1.0168754396604185,putri,1,1,0,1,1,0,0,0
+Kost My Mojo Exclusive Gondokusuman Yogyakarta,1800000,12.0,1.506451748200936,campur,1,1,1,1,1,0,1,0
+Kost Ibu Ermis Danurejan Yogyakarta,800000,9.0,1.2937713463921618,putri,1,0,0,1,1,1,0,1
+Kost Singgahsini Griya Amira Tipe A Klebengan Yogyakarta,1695000,9.0,2.2520679411410045,putri,1,1,1,1,1,1,1,0
+Kost Naloda Depok Sleman,1400000,9.0,0.9469926748544402,putri,1,1,0,1,1,0,0,0
+Kost Widyakusuma 1 Tipe A Jetis Yogyakarta,800000,12.0,1.5440038664279747,putri,1,0,0,1,1,1,0,0
+Kost Mbah Harjo Depok Sleman,650000,9.0,1.6744768971247757,putra,1,0,0,1,1,1,0,0
+Kost Esa Gejayan Depok Sleman Yogyakarta,1100000,12.0,2.8166807571743764,putra,1,0,0,1,1,1,0,1
+Kost Apik Epimonos Baciro Tipe A Yogyakarta,775000,6.9,1.7234731033431858,putra,1,0,0,1,1,1,0,0
+Kost Singgahsini Dclerr Exclusive UGM Tipe A Yogyakarta,2250000,18.0,0.6310412605433758,putri,1,1,1,1,1,0,0,0
+Kost Grand Aster Executive Tegalrejo Yogyakarta,2300000,25.0,1.9384160969951745,campur,1,1,1,1,1,0,1,0
+Kost Pandawa Tipe D Depok Sleman,1700000,20.0,2.483273067650155,putra,1,1,0,1,1,0,0,0
+Kost Oranges Tipe C Pakualaman Yogyakarta,600000,9.0,2.116944238538748,putra,1,0,0,1,1,1,0,0
+Kost Apik Amara Pakualaman Tipe B Yogyakarta,850000,8.100000000000001,1.9549889450893665,putri,1,0,0,1,1,0,0,0
+Kost Singgahsini Omah Khiar Tipe E Karang Gayam Yogyakarta,1575000,12.0,2.2651771436623465,putri,1,1,0,1,1,1,1,0
+Kost Hustle House Tipe B Depok Sleman,2300000,22.0,2.4794089088989844,putra,1,1,1,1,1,1,1,0
+Kost Apik Amara Pakualaman Tipe A Yogyakarta,1100000,8.100000000000001,1.9549889450893665,putri,1,0,0,1,1,0,0,0
+Kost Singgahsini Tapak Dara Tipe C Deresan Yogyakarta,2225000,24.0,2.425276931474611,campur,1,1,1,1,1,0,1,0
+Kost Kuning Exlusive Depok Sleman,1250000,15.75,2.116052684020292,putra,1,1,0,1,1,1,1,0
+Kost Singgahsini Dclerr Exclusive UGM Tipe C Yogyakarta,1600000,9.6,0.6310412605433758,putri,1,1,1,1,1,0,0,0
+Kost Omah Biru Tipe A Mlati Sleman,1500000,12.0,2.173373928442355,putri,1,1,0,1,1,0,1,1
+Kost Assrinda Depok Sleman,1400000,9.0,1.872741363026117,putri,1,0,0,1,1,1,0,1
+Kost Singgahsini Griya Anggrek Tipe D Yogyakarta,1825000,18.0,1.8624265904470048,putra,1,0,1,1,1,0,0,1
+Kost Apik Epimonos Baciro Tipe B Yogyakarta,825000,8.100000000000001,1.7234731033431858,putra,1,0,0,1,1,1,0,0
+Kost Annida Tipe C Kotabaru Yogyakarta,1900000,28.0,0.6294685738910984,putra,1,1,1,1,1,0,1,1
+Kost Jembatan Sardjito Jetis Yogyakarta,1800000,14.0,0.7636584916888093,putra,1,1,0,1,1,1,0,0
+Kost Nabiila Rizky Tipe B Jetis Yogyakarta,1800000,12.0,1.3048743735119084,putri,1,1,0,1,1,1,1,0
+Kost MS48 Syariah Tipe Eksklusif Depok Sleman,2300000,12.0,2.2138069100009656,putri,1,1,1,1,1,0,1,1
+Kost Jembatan Sarjito Jetis Yogyakarta,1800000,12.0,0.9156848618342388,putra,1,0,0,1,1,1,0,0
+Kost Singgahsini Dclerr Exclusive UGM Tipe B Yogyakarta,1750000,11.2,0.6310412605433758,putri,1,1,1,1,1,0,0,0
+Kost Singgahsini Griya Anggrek Tipe B Yogyakarta,1675000,14.0,1.8624265904470048,putra,1,0,1,1,1,0,0,1
+Kost Apik Epimonos Baciro Tipe D Yogyakarta,900555,12.6,1.7234731033431858,putra,1,0,0,1,1,1,0,0
+Kost Alda Depok Sleman,1200000,9.0,2.4076270134522844,putri,1,0,0,1,1,1,0,0
+Kost Singgahsini Omah Khiar Tipe D Karang Gayam Yogyakarta,1505000,12.0,2.2651771436623465,putri,1,1,0,1,1,1,1,0
+Kost Singgahsini Griya Anggrek Tipe A Yogyakarta,1975000,24.0,1.8624265904470048,putra,1,1,1,1,1,0,0,1
+Kost Gnd Tipe 2 Depok Sleman,615000,12.0,2.113827791818571,putri,1,0,0,1,1,0,0,0
+Kost The Social Hub Tipe A Depok Sleman,2500000,18.0,2.4856157679792967,campur,1,1,1,1,1,0,1,1
+Kost Bagus UKDW Umbulharjo Yogyakarta,1400000,12.0,2.11898615567731,putra,1,1,0,1,1,0,1,0
+Kost Tyo Tipe A Gondokusuman Yogyakarta,800000,16.0,0.5538200803423244,putra,1,1,0,0,1,1,0,1
+Kost Singgahsini Griya Anggrek Tipe C Yogyakarta,1725000,12.0,1.8624265904470048,putra,1,0,1,1,1,0,0,1
+Kost Singgahsini Omah Khiar Tipe B Karang Gayam Yogyakarta,1225000,12.0,2.2651771436623465,putri,1,1,0,1,1,1,1,0
+Kost Singgahsini Putri Maoni Tipe C Gejayan Yogyakarta,1845000,9.0,2.446203937417583,putri,1,1,1,1,1,0,1,0
+Kost Karangmalang E Tipe A Depok Sleman,1000000,9.0,1.694248494798384,putri,1,1,0,1,1,1,0,0
+Kost Suryo 9B Tipe Standard Depok Sleman,600000,7.0,2.1054080038664664,putri,1,0,0,1,1,1,0,0
+Kost Kemuning II Mlati Sleman,1000000,9.0,1.306912821193279,putri,1,1,0,1,1,0,0,0
+Kost Fadil Tipe C Jetis Yogyakarta,1000000,9.0,1.3156162836722392,putri,1,0,0,1,1,1,0,1
+Kost Simple Corner Gedong Tengen Yogyakarta,700000,9.0,2.076051904612773,putra,1,0,0,0,1,1,0,0
+Kost Oemah Eyang Tipe Excecutive Gondokusuman Yogyakarta,1200000,12.0,1.4735337017342989,putri,1,1,0,1,1,0,1,1
+Kost Bu Atik Tipe A Tegalrejo Yogyakarta,550000,9.0,1.5499603000611288,putri,1,0,0,0,1,1,0,0
+Kost Timoho Umbulharjo Yogyakarta,1400000,16.0,2.117003337237932,putra,1,1,0,1,1,0,1,0
+Kost Saqueena Blunyahrejo 2 Tipe Executive Tegalrejo Yogyakarta,1700000,14.0,1.4312630271586857,putri,1,0,0,1,1,0,1,0
+Kost Pak Yuwono Depok Sleman,450000,9.0,2.2531470796242363,putri,1,0,0,0,1,1,0,1
+Kost Pamardi Gondokusuman Yogyakarta,450000,9.0,1.7231856157743155,putri,1,0,0,0,1,1,1,0
+Kost Tigadara Gondokusuman Yogyakarta,800000,9.0,2.011868010988574,putri,1,0,0,0,1,1,0,0
+Kost Ibu Aty Tipe C Mlati Sleman,1500000,12.25,1.1479560386419765,putri,1,0,1,1,1,1,1,0
+Kost Madani 2 Eksklusif Umbulharjo Yogyakarta,1850000,16.0,1.9933427983588563,putri,1,1,1,1,1,1,1,0
+Kost Dinie 2 Depok Sleman,800000,9.0,1.9863650237992805,putra,1,0,0,1,1,0,0,1
+Kost MamaO 1 Umbulharjo Yogyakarta,900000,10.5,1.999622857735592,putri,1,1,0,1,1,1,1,1
+Kost Alvilya Depok Sleman,1000000,12.0,1.9082842889506528,putri,1,0,1,1,1,1,0,1
+Kost Dinie Tipe A Depok Sleman,900000,9.0,1.9737407905884727,putri,1,0,0,1,1,1,0,0
+Kost Eksklusif Ulani Gondokusuman Yogyakarta,1500000,12.0,1.5717871745619276,putri,1,1,1,1,1,0,0,0
+Kost Ibu Giyanto Depok Sleman,700000,9.0,1.05607831847519,putri,1,0,0,0,1,0,0,0
+Kost EKost Danurejan Danurejan Yogyakarta,1900000,12.0,1.2984666337699462,campur,1,1,1,1,1,0,1,1
+Kost Al Muhibbin Depok Sleman,800000,9.0,2.132571349708033,putra,1,0,0,1,1,1,0,1
+Kost JJ House 1 Depok Sleman Yogyakarta,1750000,10.5,1.9195061692106097,campur,1,1,1,1,1,1,1,1
+Kost Wisma Bakung Depok Sleman,1300000,20.0,2.7461899746911067,putri,1,1,0,1,1,1,1,1
+Kost Exclusive JJ House 1 Tipe B Depok Sleman Yogyakarta,2000000,10.5,1.919506169214901,campur,1,1,1,1,1,1,1,1
+Kost The Social Hub Tipe B1 Depok Sleman,2000000,12.0,2.485602609128025,campur,1,1,1,1,1,0,1,1
+Kost Singgahsini Putri Maoni Tipe A Gejayan Yogyakarta,1415000,9.45,2.446203937417583,putri,1,1,1,1,1,0,1,0
+Kost Manggis Depok Sleman,850000,12.0,2.288825323820434,putri,1,1,0,1,1,1,0,0
+Kost Ekost Cokrodipuran 2 Tipe C Gondomanan Yogyakarta,3100000,9.0,2.091217475174157,campur,1,1,1,1,1,0,0,1
+Kost De Terban Tipe C Gondokusuman Yogyakarta,1450000,9.0,0.7225405965159275,putri,1,0,1,1,1,0,0,1
+Kost Monica 2 Eksklusif Depok Sleman,1650000,13.5,2.2266086375518817,putra,1,1,1,1,1,1,1,0
+Kost Rumah Sahabat Jetis Yogyakarta,1650000,20.0,1.5747917195511647,putri,1,1,1,1,1,0,1,1
+Kost Apricot Your Flexible Home Gondokusuman Yogyakarta,2100000,12.0,0.5249846507819368,campur,1,1,1,1,1,1,0,0
+Kost Matoor Stay Tipe A Mlati Sleman,1500000,14.0,2.47850451994352,putri,1,1,0,1,1,0,0,0
+Kost Ndalem Satoto Gondokusuman Yogyakarta,1600000,12.0,0.7475533710090428,putra,1,1,0,1,1,1,0,1
+Kost Nusa Indah Mlati Sleman,2100000,12.0,2.4905063699227443,putra,1,1,1,1,1,0,1,0
+Kost Ekslusif Nirwana Residence VIP Depok Sleman,2100000,15.0,1.6473054983973274,campur,1,1,1,1,1,0,1,1
+Kost Griya Ruella Mlati Sleman,1500000,12.0,2.8074546127690176,putra,1,1,0,1,1,0,1,0
+Kost Sofie Gondokusuman Yogyakarta,705000,9.0,1.5156633562034774,putri,1,0,0,1,1,1,0,0
+Kost Monica Eksklusif Depok Sleman,1650000,19.200000000000003,2.0335661665099427,putra,1,1,1,1,1,1,1,0
+Kost Rosa Garden 2 Depok Sleman,950000,15.0,2.1720512935812666,putri,1,1,0,1,1,1,1,1
+Kost DB 35 Depok Sleman,1000000,12.0,1.98589657948724,putri,1,1,0,1,1,1,0,0
+Kost Queen Rafanda 1 Umbulharjo Yogyakarta,1400000,9.0,2.3617921102734054,putri,1,1,0,1,1,0,0,0
+Kost Arif Depok Sleman,700000,9.0,2.3297706396267857,putri,1,0,0,1,1,1,1,0
+Kost UGM UNY Dahlia Depok Sleman,2000000,12.0,2.203188368892575,putri,1,1,1,1,1,1,1,1
+Kost Paviliun Karang Jati Tipe A Mlati Sleman,5000000,20.0,2.191155872189359,campur,1,1,1,1,1,0,1,0
+Kost Ceria Gondokusuman Yogyakarta,550000,9.0,0.5733543368139167,putri,1,0,0,1,1,0,0,0
+Kost R2 Home Samirono Yogyakarta,1850000,14.0,1.036877619356518,putri,1,1,1,1,1,1,1,1
+Kost Hayulaksmi Tipe Deluxe A Gondokusuman Yogyakarta,2200000,12.0,0.9966516301754222,putri,1,1,1,1,1,0,0,0
+Kost Sambu 1C Depok Sleman,550000,9.0,1.6111587653683963,putra,1,0,0,0,1,0,1,0
+Kost Ibu Samsudin Gondokusuman Yogyakarta,1000000,30.0,2.200525139290631,putri,1,0,0,1,1,1,1,0
+Kost Ibu Aty Tipe A Mlati Sleman,1275000,10.5,1.1479560386419765,putri,1,0,0,1,1,1,1,0
+Kost Odette 3 Tipe C Depok Sleman,1300000,12.0,2.6375571635873176,putri,1,1,0,1,1,0,0,0
+Kost Joglo Tugu Jetis Yogyakarta,1600000,9.0,1.3024337631666356,putra,1,1,1,1,1,0,0,0
+Kost Mama Aulia Tipe B Umbulharjo Yogyakarta,750000,9.0,2.441715310179452,putra,1,1,0,1,1,0,0,0
+Kost Kolobendono Depok Sleman,500000,9.0,2.324099245263441,putra,1,0,0,1,1,1,0,0
+Kost Asrama Chana Gondokusuman Yogyakarta,400000,9.0,0.9044897243871184,putri,1,0,0,1,1,1,0,1
+Kost Pintu Merah Bu Candra Tipe B Gondokusuman Yogyakarta,750000,16.0,0.4127647015615078,putri,1,0,0,1,1,1,0,1
+Kost Griya Milenia Monjali Single Mlati Sleman,1950000,12.0,1.7226135090637396,putri,1,1,1,1,1,1,1,0
+Kost Ekost Karangjati Tipe Executive Single Mlati Sleman,1500000,12.0,2.034883161070268,campur,1,0,1,1,1,0,1,1
+Kost White Lion Lady AC Gondokusuman Yogyakarta,1100000,12.0,1.7545476983995736,putri,1,1,0,0,1,0,1,0
+Kost Ardafa Inn Tipe Double Non Smoking Umbulharjo Yogyakarta,2200000,7.0,2.367224629237148,putra,1,1,1,1,1,1,0,0
+Kost Alaz Executive Mlati Sleman,1800000,12.0,2.3199588039706227,putra,1,1,1,1,1,0,1,0
+Kost Simak Mlati Sleman,500000,12.0,1.4876838276496382,putri,1,0,0,1,1,0,0,1
+Kost Nigel Tipe B Gondokusuman Yogyakarta,1800000,12.0,1.5064179675747036,campur,1,1,1,1,1,0,1,0
+Kost Ardafa Inn Fan Non Smoking Umbulharjo Yogyakarta,900000,4.0,2.367224629237148,putra,1,0,0,0,1,1,0,0
+Kost Demangan Park Tipe Window Depok Sleman,950000,12.0,1.9700960606010287,putri,1,0,0,1,1,1,0,1
+Kost Ertiga Tipe B Umbulharjo Yogyakarta,600000,9.0,2.353283453368566,putri,1,0,0,1,1,1,1,0
+Kost Nadia Belinda Tipe Single Mlati Sleman,1500000,9.0,2.508765356151732,putri,1,1,1,1,1,0,1,1
+Kost Yully Umbulharjo Yogyakarta,475000,9.0,2.6482297834743034,putra,1,0,0,0,1,0,0,0
+Kost Harmony Co Living Tipe A Mlati Sleman,1400000,16.0,2.2191540747717164,campur,1,1,1,0,1,0,1,0
+Kost Cendana 9 Executive Depok Sleman,1800000,12.5,2.305281741437717,putri,1,1,0,1,1,0,0,0
+Kost UGM Ct 4 Tipe B Mlati Sleman,650000,6.0,1.12982878154378,putri,1,1,0,1,1,1,0,1
+Kost Pondok Asri Tipe A Tegalrejo Yogyakarta,650000,9.0,1.9767781577107064,putra,1,0,0,1,1,1,0,0
+Kost Asri 1 Rungkut Surabaya,800000,9.0,0.9928111152648158,campur,1,1,0,0,1,0,0,0
+Kost Griya Milenia Monjali VVIP Mlati Sleman,2650000,24.0,1.7226135090637396,putri,1,1,0,1,1,1,1,0
+Kost Budi Tipe C Jetis Yogyakarta,1010000,12.0,1.2408494282954223,putra,1,1,0,1,1,1,0,0
+Kost Aristhy Tipe A Depok Sleman,1000000,12.0,2.351434144216437,putri,1,1,0,1,1,0,0,0
+Kost Rd Home Mlati Sleman,1500000,9.0,2.5401178774869413,campur,1,1,0,1,1,0,1,0
+Kost Ekost Karangjati Dua Executive Single Mlati Sleman,1300000,12.0,1.8482394509606257,putra,1,1,1,1,1,0,0,1
+Kost Gardenia Iromejan VIP Gondokusuman Yogyakarta,1700000,12.0,0.8798544872049782,putra,1,1,1,1,1,0,0,0
+Kost Fortuna Tipe B Mlati Sleman,1500000,12.0,2.221311237697542,putri,1,1,0,1,1,1,0,0
+Kost Timoho 1 Umbulharjo Yogyakarta,800000,12.0,2.091587191526964,putra,1,1,0,0,1,1,0,0
+Kost Ekost Danurejan Family Danurejan Yogyakarta,3200000,24.0,1.2972111256363366,campur,1,1,1,1,1,0,1,1
+Kost Odette 3 Tipe B Depok Sleman,1400000,12.0,2.6375571635873176,putri,1,1,1,0,1,0,0,0
+Kost Rv By Azarine Depok Sleman,1050000,16.0,2.219670936913091,putri,1,0,0,1,1,1,1,0
+Kost Ekost 2 Danurejan Yogyakarta,1800000,20.0,1.2972111256363366,campur,1,1,1,1,1,0,1,1
+Kost Ndalem Cokro Diningratan Tipe B Jetis Yogyakarta,1300000,12.0,1.0972857740972932,putri,1,0,1,0,1,0,0,1
+Kost Kuning Khoir Gondokusuman Yogyakarta,700000,9.0,1.7501868461809515,putra,1,0,0,0,1,1,0,1
+Kost Harsa Vip Gedong Tengen Yogyakarta,1100000,12.0,2.004973447460374,campur,1,0,0,0,1,1,1,1
+Kost Apple Tipe A Gondokusuman Yogyakarta,750000,9.0,0.4960096551794731,putri,1,0,0,1,1,1,0,0
+Kost Ayu Mlati Sleman,550000,9.0,2.6599820884855254,putri,1,0,0,1,1,1,0,1
+Kost Nigel Tipe A Gondokusuman Yogyakarta,1800000,13.5,1.5495298760801093,campur,1,1,1,1,1,1,1,0
+Kost De Monginsidi Tipe A1 Tegalrejo Yogyakarta,3000000,12.0,1.5290202170848843,campur,1,1,1,1,1,0,1,0
+Kost Kyrani Mentaya Gondokusuman Yogyakarta,1600000,9.0,2.1258595293503504,putri,1,1,1,0,1,0,0,0
+Kost De Terban Indraloka Gondokusuman Yogyakarta,5250000,12.0,0.3460861233211788,campur,1,1,1,1,1,1,1,0
+Kost Griya Grachika VVIP Gondokusuman Yogyakarta,2250000,16.8,1.9514668744047063,campur,1,0,0,1,1,0,1,1
+Kost Azzahra Exclusive Umbulharjo Yogyakarta,1700000,12.0,2.3608384754618803,putri,1,1,0,1,1,0,1,0
+Kost Nirwana Depok Sleman,800000,12.0,1.6101471028972671,putri,1,1,0,1,1,1,0,0
+Kost Griya 3 Tegalrejo Yogyakarta,1700100,9.0,1.746681210051518,putra,1,1,1,0,1,1,1,0
+Kost Aldebaran Tipe Premium Tegalrejo Yogyakarta,1850000,20.0,1.880143023028661,campur,1,1,1,1,1,1,1,1
+Kost Oasis Deluxe Depok Sleman,2700000,12.0,2.351591841590103,campur,1,1,1,1,1,1,1,1
+Kost Fam Sam Depok Sleman,2000000,21.0,2.015198247821834,putri,1,1,0,1,1,0,0,0
+Kost Pramana Mulia Pm Tipe A Danurejan Yogyakarta,1800000,12.0,1.5817169089779763,putri,1,1,1,1,1,0,0,0
+Kost My Home Tipe A Depok Sleman,2000000,9.0,2.024668535902695,campur,1,1,1,1,1,1,1,1
+Kost Rumah Gambuh I Mlati Sleman,1500000,12.0,1.9794353158493736,putri,1,1,0,1,1,1,0,0
+Kost De Monginsidi Tipe A3 Tegalrejo Yogyakarta,2750000,10.0,1.5290202170848843,campur,1,1,1,1,1,0,1,0
+Kost Mrican 27 Depok Sleman,900000,15.0,2.005591267476757,putri,1,1,0,0,1,1,0,0
+Kost Wahyu Tipe A Umbulharjo Yogyakarta,600000,12.0,1.7927411951828127,putri,1,1,0,0,1,1,0,0
+Kost Budi Tipe A Jetis Yogyakarta,710000,9.0,1.240849536716352,putra,1,0,0,1,1,1,0,0
+Kost Asoka Homestay 1 Tipe B Umbulharjo Yogyakarta,1400000,12.0,2.069929438529744,putri,1,0,0,1,1,1,0,0
+Kost Nadia Belinda Executive Mlati Sleman,1500000,9.0,2.5087653559196936,putri,1,1,1,1,1,0,1,0
+Kost Fortuna Jetis Yogyakarta,800000,12.0,1.2268830378497213,campur,1,1,0,1,1,0,0,0
+Kost Wisma Al Barokah 2 Depok Sleman,800000,9.0,2.370251382045426,putra,1,1,0,1,1,1,0,0
+Kost Bougenville Stay Deluxe Room Depok Sleman,2375000,16.0,2.0213328915089703,campur,1,1,1,1,1,0,1,1
+Kost Andeko 2 Tipe B Depok Sleman,875000,9.0,1.8039906285313367,putra,1,1,0,0,1,0,1,0
+Kost Harmony Co Living Mlati Sleman,2000000,16.0,2.220399445804273,campur,1,1,1,1,1,1,1,1
+Kost Griya Milenia Monjali VIP Mlati Sleman,2500000,12.0,1.7226135090637396,putri,1,1,1,1,1,1,1,0
+Kost Hijau Iromejan Tipe A Gondokusuman Yogyakarta,600000,9.0,0.5963655283118979,putra,1,0,0,1,1,1,0,0
+Kost Samirono CT VI 260 Standart Depok Sleman,450000,9.0,0.8395051132528436,putri,1,0,0,1,1,0,0,0
+Kost Rumah Daun Stay Umbulharjo Yogyakarta,2090000,16.0,2.617561652363785,campur,1,1,1,0,1,0,1,0
+Kost My Home Tipe B Depok Sleman,1800000,9.0,2.0238071482113704,campur,1,1,1,1,1,1,1,1
+Kost Mbun Depok Sleman,650000,9.0,0.944786364306417,putri,1,0,0,1,1,1,0,0
+Kost Buk Ica Tegalrejo Yogyakarta,670000,9.0,1.4489806403034071,putri,1,1,0,1,1,0,0,0
+Kost Savanto Tipe A Gondokusuman Yogyakarta,1800000,12.0,1.4743113657849716,putra,1,1,0,1,1,0,0,0
+Kost Paviliun Karang Jati Tipe B Mlati Sleman,3000000,18.0,2.191155872189359,campur,1,1,1,1,1,0,1,0
+Kost Orchard Guesthouse Gedong Tengen Yogyakarta,1700000,12.0,1.900936529799893,putra,1,1,0,0,1,1,1,0
+Kost Rukoen Tipe Kamar Mandi Luar Tegalrejo Yogyakarta,1100000,12.0,2.5422926584079657,putri,1,0,1,1,1,0,0,0
+Kost Liandra Semaki 88 Tipe A Umbulharjo Yogyakarta,900000,7.5,2.352607525503633,putri,1,0,0,1,1,1,1,0
+Kost Alaya Exclusive Gondokusuman Yogyakarta,1555000,12.0,0.5937552642194699,putri,1,1,1,1,1,0,0,0
+Kost Liandra Sendowo Tipe Standart Mlati Sleman,900000,8.75,1.3014178513594594,putri,1,1,0,1,1,1,1,0
+Kost K Homestay Pringwulung Depok Sleman,2000000,15.75,2.444808523116348,campur,1,1,1,1,1,0,1,0
+Kost Timohoexe Superior Umbulharjo Yogyakarta,2000000,12.0,2.6105882466037387,campur,1,1,0,0,1,1,1,1
+Kost Pondok Wijaya Kusuma Tipe Ac Mlati Sleman,1250000,12.0,2.549848992493935,putri,1,1,0,1,1,0,1,0
+Kost Anugrah Tipe A Depok Sleman,1700000,14.0,2.405458338301192,campur,1,1,1,0,1,1,1,0
+Kost Pak Akun 2 Tipe B Umbulharjo Yogyakarta,400000,9.0,1.6650656259555574,putra,1,0,0,0,1,0,0,0
+Kost Ibu Slamet Tipe A Depok Sleman,700000,9.0,2.2121206850239328,putra,1,0,0,1,1,0,0,0
+Kost Villali Eksklusif Umbulharjo Yogyakarta,1800000,12.0,1.981412440099716,campur,1,1,0,1,1,1,1,1
+Kost Samironobaru 260 Depok Sleman,425000,9.0,0.8124472693584944,putri,1,0,0,0,1,1,0,0
+Kost Kopimi Tipe A Kamar Mandi Luar Mlati Sleman,1250000,12.0,1.905526482021046,putri,1,0,0,1,1,1,1,0
+Kost Eksklusif Solaris Tipe A Depok Sleman,2200000,16.0,1.6063264592708122,putri,1,1,1,1,1,0,1,0
+Kost Griya Milenia Monjali Reguler Mlati Sleman,1550000,9.0,1.7127134180384986,putri,1,0,1,1,1,1,1,0
+Kost Pondok Pringgo Tipe A Gedong Tengen Yogyakarta,800000,9.0,2.0754148357014865,putri,1,0,0,1,1,1,0,0
+Kost Bu Rini Type B Gondokusuman Yogyakarta,850000,9.0,1.3247435726000236,putra,1,0,0,0,1,1,1,0
+Kost Rafanda Living Tipe B Umbulharjo Yogyakarta,1600000,9.0,2.4305343471066463,putri,1,1,1,1,1,0,0,1
+Kost Azzahra Tipe A Umbulharjo Yogyakarta,1300000,9.0,2.3608384754618803,putri,1,0,0,1,1,0,0,0
+Kost Alamanda Tipe B Depok Sleman,875000,9.0,0.8665532282951904,putri,1,1,0,1,1,1,0,0
+Kost Gayam 10 TIpe A Umbulharjo Yogyakarta,500000,6.25,1.765840457399286,putra,1,0,0,0,1,0,0,0
+Kost Griya Milenia Monjali Eco Mlati Sleman,1450000,9.0,1.7127134180384986,putri,1,0,1,1,1,1,1,0
+Kost Zahra Shari Queen Room Mlati Sleman,1500000,7.83,2.326728798759306,putri,1,0,0,0,1,1,0,0
+Kost Fortuna Tipe A Jetis Yogyakarta,1300000,12.0,1.2268830378497213,campur,1,1,0,1,1,1,0,0
+Kost Rahayu Sutono Tipe A1 Depok Sleman,1200000,18.0,2.2583654193417426,putri,1,1,1,1,1,0,1,0
+Kost Wisma Al Barokah Depok Sleman,800000,9.0,2.421337782257999,putra,1,1,0,1,1,1,0,0
+Kost Bougenville Tipe A Gondokusuman Yogyakarta,1000000,12.0,1.194797803866867,putri,1,1,0,1,1,0,0,0
+Kost Ratisa Tipe B Depok Sleman,1000000,12.0,2.033043701809848,campur,1,1,0,0,1,0,1,0
+Kost Indis Mlati Sleman,1750000,12.0,2.003534817858342,putri,1,1,1,1,1,0,1,0
+Kost Briasa Exlusive Depok Sleman,2000000,13.5,2.1067912792361736,putri,1,1,1,1,1,0,1,1
+Kost Evi Depok Sleman,750000,10.5,2.202941785768526,putri,1,0,0,1,1,1,0,0
+Kost Griya Kelana Pakualaman Yogyakarta,700000,9.0,1.6892398691031545,putri,1,0,0,1,1,1,1,0
+Kost Ekost Cokrodipuran 2 Tipe A Gondomanan Yogyakarta,3675000,12.0,2.0914538768302378,campur,1,1,1,1,1,0,1,1
+Kost My Home Tipe C Depok Sleman,2250000,12.0,2.033559369556469,campur,1,1,1,1,1,1,1,1
+Kost Ruvi Mlati Sleman,1750000,12.0,2.2266681166438453,putri,1,1,1,1,1,0,1,0
+Kost Villali Exclusive Umbulharjo Yogyakarta,2000000,12.0,1.9814124400850488,campur,1,1,0,1,1,1,1,1
+Kost Kuning Khoir 3 Tipe A Gondokusuman Yogyakarta,900000,9.0,1.7733361260116207,putra,1,1,0,1,1,1,0,0
+Kost Felycia 2 Tegalrejo Yogyakarta,1700000,21.0,2.1855178681552263,putra,1,1,0,1,1,0,1,0
+Kost Anisa Depok Sleman,625000,12.0,1.5479653877339197,putri,1,0,0,1,1,0,0,0
+Kost Bu Dina Agro Depok Sleman,550000,12.0,1.8949292898958023,putri,1,0,0,0,1,1,0,1
+Kost Noona Depok Sleman,1750000,15.75,1.4206267120825586,putri,1,0,1,1,1,0,1,0
+Kost Nursyafitri 2 Depok Sleman,750000,9.0,0.9748035531967754,putri,1,0,0,1,1,1,0,0
+Kost EKost Danujeran Paviliun Danurejan Yogyakarta,4500000,12.0,1.2972111256363366,campur,1,0,0,1,1,0,1,1
+Kost Ayu Setyowati Sriyanto Tipe B Danurejan Yogyakarta,600000,9.0,1.125100160529165,putri,1,0,0,1,1,1,0,0
+Kost UGM CT 4 Tipe C Mlati Sleman,750000,6.0,1.1839520404289718,putri,1,1,0,1,1,1,0,1
+Kost Omah Kuning Petinggen Tipe A Tegalrejo Yogyakarta,1450000,7.5,1.4904635703214255,putri,1,0,1,1,1,1,0,1
+Kost My Home Tipe D Depok Sleman,1700000,9.0,1.9924513938779265,campur,1,0,1,1,1,1,1,1
+Kost Asoka Homestay 1 Tipe A Umbulharjo Yogyakarta,800000,12.0,2.069929438529744,putri,1,0,0,0,1,1,0,0
+Kost Griya Iromejan Tipe B2 Depok Sleman,700000,3.3800000000000003,0.906458348586426,putri,1,0,0,0,1,1,0,1
+Kost Griya Khasanah Depok Sleman,950000,9.0,2.2607837382234472,putri,1,1,0,1,1,1,0,0
+Kost Cemara UGM Tipe AC Depok Sleman,2000000,12.0,0.9192091254845748,putri,1,0,0,1,1,0,0,0
+Kost Amanah II Tipe 3 Danurejan Yogyakarta,2300000,20.16,1.0691883297253049,putri,1,1,0,1,1,1,1,1
+Kost Paviliun Karang Jati Tipe Reguler Mlati Sleman,2000000,16.0,2.191155872189359,campur,1,1,1,1,1,0,1,0
+Kost Sapen UIN Tipe Kecil Gondokusuman Sleman,1800000,9.52,2.0871401634400613,putri,1,1,0,1,1,0,0,0
+Kost Bethari Tipe A Gondokusuman Yogyakarta,650000,9.0,1.9578997901910944,putri,1,0,0,1,1,1,0,0
+Kost Blangkonet Tipe A Gondokusuman Yogyakarta,1300000,12.0,0.7196659426630906,putri,1,1,0,1,1,0,0,1
+Kost Kinasih Tipe B Depok Sleman,1000000,9.0,1.140806929794991,putri,1,1,0,1,1,1,0,1
+Kost Gayam 10 TIpe B Umbulharjo Yogyakarta,630000,9.0,1.765840457399286,putra,1,0,0,0,1,0,0,0
+Kost Sairah Tipe Standard Gondokusuman Yogyakarta,850000,12.0,0.7314357669052158,putri,1,1,0,0,1,1,0,0
+Kost Kepuh Standar Gondokusuman Yogyakarta,550000,9.0,1.032977695650941,putra,1,0,0,0,1,1,0,0
+Kost Aulia Tipe A Umbulharjo Yogyakarta,1000000,12.0,1.8826362212239864,putri,1,1,0,1,1,0,1,1
+Kost Gnd Tipe 2 Depok Sleman,610000,12.0,2.113827791818571,putri,1,0,0,1,1,0,0,0
+Kost Private Harvest Poin Umbulharjo Yogyakarta,2500000,24.0,2.310811736599656,campur,1,1,1,1,1,1,1,0
+Kost Wisma Hijau Tipe A Depok Sleman,435000,7.5,0.8093334985105792,putri,1,0,0,0,1,1,1,0
+Kost Wisma Hijau Tipe A1 Depok Sleman,550000,9.0,0.910431322416006,putri,1,1,0,0,1,1,0,0
+Kost Om Bob Jetis Yogyakarta,400000,12.0,1.921170236025224,putra,1,0,0,0,1,0,0,1
+Kost Plengkung Tipe A Jetis Yogyakarta,1450000,12.0,1.2910620216496853,putra,1,1,0,0,1,0,0,1
+Kost Private Harvest Point Umbulharjo Yogyakarta,2500000,32.0,2.2899720017179126,campur,1,1,1,1,1,1,1,0
+Kost Bapak Yudi Tipe A Tegalrejo Yogyakarta,1200000,12.0,1.8362091278268933,putra,1,1,0,1,1,1,0,1
+Kost Rere New Eksklusif Depok Sleman,1800000,9.0,2.1286119364357923,putra,1,1,1,1,1,0,0,0
+Kost Redja Tipe A Depok Sleman,1100000,9.0,2.04612458826542,putri,1,1,0,1,1,1,0,0
+Kost Ibu Anik Tipe B Ngampilan Yogyakarta,425000,6.0,2.73113247729024,putra,1,0,0,1,1,1,0,0
+Kost Griya Tipe B Gedong Tengen Yogyakarta,375000,6.0,1.856186290055164,putri,1,0,0,0,1,1,0,0
+Kost Hijau H Syahrawi Sumenep,430000,12.0,1.3581522272547528,putri,1,1,0,1,1,1,0,0
+Kost Wisma Hijau Tipe C Depok Sleman,550000,12.25,0.8093334985168518,putri,1,0,0,0,1,1,1,0
+Kost Bu Opah Depok Sleman,400000,7.5,2.3438223490972323,putri,1,0,0,0,1,1,0,0
+Kost Bu Opahh Depok Sleman,400000,6.25,2.3426962441203143,putri,1,0,0,0,1,1,0,0
+Kost 621 Extra Tipe B Gondokusuman Yogyakarta,700000,9.0,0.7712168812327649,putri,1,0,0,0,1,1,0,1
+Kost 621 Extra Tipe A Gondokusuman Yogyakarta,700000,12.0,0.6830483254834397,putra,1,0,0,1,1,0,0,0
+Kost Bu Atiek Gofut Gondokusuman Yogyakarta,450000,9.0,1.0411933559801927,putra,1,0,0,1,1,1,0,0
+Kost Rumah Ibu Depok Sleman,1300000,12.0,1.9956528095985149,putri,1,1,0,1,1,0,0,0
+Kost Kasih Bee Tipe C Mlati Sleman,1175000,9.0,2.475471514601929,putri,1,1,0,1,1,1,0,0
+Kost Kasih Bee Tipe A Mlati Sleman,1175000,9.0,2.475471514439002,putri,1,1,0,1,1,1,0,0
+Kost Kasih Bee Tipe B Mlati Sleman,1175000,9.0,2.475471514601929,putri,1,1,0,1,1,0,0,0
+Kost Ibu Diana Mlati Sleman,500000,12.0,1.2660438572002843,putri,1,0,0,1,1,0,0,0
+Kost Amalia Gondokusuman Yogyakarta,625000,6.0,0.7734836492551929,putri,1,0,0,1,1,1,0,0
+Kost Sinar Kartika 1 Sleman Yogyakarta,400000,6.25,2.276734443985017,putri,1,0,0,1,1,1,0,0
+Kost Wisma Hijau Tipe B Depok Sleman,450000,10.0,0.8093334985168518,putri,1,0,0,0,1,1,1,0
+Kost Arthawidyan Gondokusuman Yogyakarta,1600000,12.0,1.1743386638825664,campur,1,1,1,1,1,0,1,0
+Kost Velriyo Tipe B Danurejan Yogyakarta,350000,8.0,1.3554481446121658,putra,1,0,0,0,1,1,0,0
+Kost Eyang Marno Depok Sleman,420000,9.0,2.2499013663048912,putra,1,0,0,0,1,1,1,0
+Kost Bobby Tipe A Jetis Yogyakarta,450000,6.0,1.4094892411217292,putra,1,0,0,1,1,1,0,0
+Kost Bobbysutanto Tipe A Jetis Yogyakarta,400000,6.0,1.3801294368222268,putra,1,0,0,1,1,1,0,0
+Kost Griya Bocah Rolas Depok Sleman,450000,9.0,2.1428045898715773,putra,1,0,0,0,1,1,0,0
+Kost Callista Tipe B Gondokusuman Yogyakarta,850000,9.0,1.472768055797327,putri,1,1,0,1,1,1,0,0
+Kost Baitussalam Tipe A Jetis Yogyakarta,550000,12.0,0.7419202139865392,putra,1,0,0,1,1,1,0,0
+Kost Blue House Tipe B Danurejan Yogyakarta,1500000,5.5,1.2885691754249078,putra,1,0,0,0,1,0,0,0
+Kost Omah Bumidjo Tipe A2 Jetis Yogyakarta,900000,9.0,1.3790655717708111,putri,1,0,0,1,1,1,0,0
+Kost Omah Bumidjo Tipe D Jetis Yogyakarta,650000,9.0,1.3790655717708111,putri,1,0,0,1,1,1,0,0
+Kost Omah Bumidjo Tipe E Jetis Yogyakarta,650000,9.0,1.3790655717708111,putri,1,0,0,1,1,1,0,0
+Kost Omah Bumidjo Tipe B Jetis Yogyakarta,750000,9.0,1.5485187858495912,putri,1,0,0,1,1,1,0,0
+Kost Apakibuk Umbulharjo Yogyakarta,350000,12.0,2.1823478837599586,putri,1,0,0,0,1,0,0,0
+Kost Sagan 806 Gondokusuman Yogyakarta,1300000,15.0,0.4873368765479494,putra,1,1,0,1,1,1,0,0
+Kost Papi Gondokusuman Yogyakarta,350000,9.0,1.5303763459429238,campur,1,0,0,0,1,1,0,0
+Kost Pak Gideon Gondokusuman Yogyakarta,350000,9.0,0.4738441060454763,putri,1,0,0,0,1,1,0,0
+Kost Wisma Edelwis Sleman Yogyakarta,350000,12.0,2.0196732230356726,putri,1,0,0,0,1,0,0,0
+Kost 190 Danurejan Yogyakarta,2000000,16.0,1.0855759359878194,campur,1,0,0,0,1,1,0,0
+Kost Syariah Arrijalu Tipe A Gondokusuman Yogyakarta,1400000,9.0,1.7354408783305686,putra,1,1,1,1,1,1,0,0
+Kost Ibu Ria Depok Sleman,1500000,13.5,2.0946295659392686,putri,1,1,0,1,1,0,0,0
+Kost Ibu Riana Depok Sleman,800000,9.0,2.10065731549023,putri,1,1,0,1,1,0,0,0
+Kost Samirono Tipe E Depok Sleman,410000,12.25,0.9468223965459148,putri,1,0,0,1,1,1,0,0
+Kost Samirono Tipe A Depok Sleman,450000,6.0,0.9468223965459148,putri,1,0,0,1,1,1,0,0
+Kost Samirono Tipe C Depok Sleman,485000,9.0,0.9468223965459148,putri,1,0,0,1,1,1,0,0
+Kost Samirono Tipe B Depok Sleman,500000,7.5,0.9468223965459148,putri,1,0,0,1,1,1,0,0
+Kost Miyuki House Tegalrejo Yogyakarta,2100000,12.0,1.469512783852147,putri,1,1,1,1,1,0,1,0
+Kost Bu Wati Tipe A Gondokusuman Yogyakarta,400000,12.0,0.1819774184434762,putri,1,0,0,0,1,1,0,0
+Kost Perkutut Gondokusuman Yogyakarta,400000,6.0,1.616794552765233,putri,1,0,0,1,1,1,0,0
+Kost Mutmainah Tipe B Depok Sleman,420000,9.0,2.3725791179312363,putri,1,0,0,0,1,1,0,0
+Kost Odette 1 Tipe B Depok Sleman,1300000,9.0,2.45512820139828,putri,1,1,0,1,1,1,0,0
+Kost Odette 1 Tipe A Depok Sleman,1300000,9.0,2.4571321414367966,putri,1,1,0,0,1,0,0,0
+Kost Griya Lavira 1 Mlati Sleman,1600000,9.0,2.010903331658723,putri,1,1,1,1,1,1,1,0
+Kost Riska Mulya Annisa Depok Sleman,1000000,10.5,2.2696033680722705,putri,1,1,0,1,1,1,0,0
+Kost Sidharta Depok Sleman,400000,9.0,2.3758478821457616,putra,1,0,0,0,1,1,0,0
+Kost Sidharta 2 Tipe A Depok Sleman,500000,9.0,2.3875369107017903,putra,1,0,0,0,1,1,0,0
+Kost Sidharta Gg Mawar Depok Sleman,500000,9.0,2.3875369107017903,putra,1,0,0,0,1,1,0,0
+Kost 728 Klitren Gondokusuman Yogyakarta,400000,9.0,0.6740996050234694,putra,1,0,0,1,1,1,0,0
+Kost Urip Sumoharjo Tipe B Gondokusuman Yogyakarta,650000,12.0,0.8568619490543048,putri,1,1,0,0,1,0,0,0
+Kost Bu Darsih Tipe C Depok Sleman,1000000,16.0,1.157764910199793,putra,1,1,0,0,1,1,0,0
+Kost Bu Darsih Tipe D Depok Sleman,1200000,24.0,1.157764910199793,putra,1,1,0,0,1,1,0,0
+Kost Bu Mar Mlati Sleman,400000,9.0,2.1442991801111013,putra,1,0,0,0,1,1,0,0
+Kost Griya Intan Permai Tegalrejo Yogyakarta,400000,9.0,1.89179208097654,putri,1,0,0,0,1,1,0,0
+Kost Ndalem Cokrowijayan Tegalrejo Yogyakarta,650000,9.0,2.0134065558947936,putra,1,0,0,1,1,1,0,0
+Kost Omah Yogya Exclusive Tipe VIP Depok Sleman,2800000,9.0,1.7482346340322947,campur,1,1,1,0,1,1,1,0
+Kost Omah Yogya Exclusive Tipe A Depok Sleman,1800000,9.0,1.7482346340322947,putra,1,1,1,1,1,0,1,0
+Kost Titisari Tipe A Mlati Sleman,550000,9.0,2.2204160912514803,putri,1,0,0,1,1,1,0,0
+Kost Putri Annisa Tipe B Tegalrejo Yogyakarta,400000,16.0,1.5706650051258553,putri,1,0,0,1,1,1,0,1
+Kost Murtini Gondokusuman Yogyakarta,350000,9.0,0.5242448162447104,putri,1,0,0,1,1,0,0,0
+Kost Bu Darsih Tipe A Depok Sleman,400000,12.0,1.157764910199793,putra,1,0,0,0,1,1,0,0
+Kost Bu Darsih Tipe B Depok Sleman,480000,8.100000000000001,1.157764910199793,putra,1,0,0,0,1,1,0,0
+Kost Al Kafi Depok Sleman,700000,9.0,2.3151534615739457,putra,1,0,0,0,1,1,0,1
+Kost Malika Tipe B Jetis Yogyakarta,650000,9.0,1.0409830385772012,putra,1,1,0,0,1,1,0,1
+Kost Malika Tipe C Jetis Yogyakarta,500000,9.0,1.0409830385772012,putri,1,0,0,0,1,1,0,1
+Kost Malika Tipe A Jetis Yogyakarta,650000,9.45,1.009818069887899,campur,1,1,0,0,1,0,0,1
+Kost Aris Iromejan Gondokusuman Yogyakarta,400000,9.0,0.6750656048863996,putra,1,0,0,1,1,1,0,0
+Kost 728 Gondokusuman Yogyakarta,400000,9.0,0.6505323831853647,putra,1,0,0,0,1,1,0,0
+Kost A1 Depok Sleman,400000,9.0,2.138183395959268,putri,1,0,0,1,1,1,0,0
+Kost Mayku A10 Depok Sleman,1600000,16.0,2.7495806202547244,putri,1,1,0,1,1,1,1,0
+Kost A17E Depok Sleman,700000,9.0,1.5398116501175851,putri,1,0,0,1,1,0,0,0
+Kost Indah Tipe A1 Depok Sleman,650000,9.0,4.545412418007976,putri,1,0,0,0,1,1,0,0
+Kost Pak Thomas Tipe A Danurejan Yogyakarta,700000,12.0,1.3211635276074454,putri,1,0,0,1,1,1,0,0
+Kost A17 E Depok Sleman,650000,9.0,1.5275451484743208,putri,1,0,0,1,1,0,0,0
+Kost Pak Thomas Tipe B Danurejan Yogyakarta,600000,9.0,1.3211635276074454,putri,1,0,0,1,1,1,0,0
+Kost Rumah Fadya Tipe A Gondokusuman Yogyakarta,1200000,9.0,1.0067290736892094,putri,1,1,0,1,1,0,0,1
+Kost Rumah Fadya Tipe C Gondokusuman Yogyakarta,900000,9.0,1.0067290736892094,putri,1,0,0,1,1,0,0,1
+Kost Rumah Fadya Tipe B Gondokusuman Yogyakarta,1000000,9.0,1.0067290736892094,putri,1,1,0,1,1,0,0,1
+Kost Tallula Eklusif Depok Sleman,2000000,12.0,1.9608485465447631,putri,1,1,0,1,1,1,0,0
+Kost Tallula Tipe A Depok Sleman,2000000,12.0,1.9608485465447631,putri,1,1,0,1,1,1,0,0
+Kost Bude Seno Blimbingsari Depok Sleman,400000,9.0,1.059572936411039,putra,1,0,0,1,1,1,0,0
+Kost Rizki Tipe C Gedong Tengen Yogyakarta,1000000,12.0,2.1830844488647485,putra,1,0,0,1,1,1,0,0
+Kost Hawa Residence Tipe B Depok Sleman,1500000,9.0,2.1540913462965525,putri,1,1,0,1,1,1,0,0
+Kost Pranasmara 34C Tipe Double Depok Sleman,1600000,14.0,1.9707181012557649,putri,1,1,0,1,1,1,0,0
+Kost Pranasmara 34C Tipe A Depok Sleman,1100000,7.5,1.9707181011920456,putri,1,1,0,1,1,0,0,0
+Kost Pranasmara 34C Tipe B Depok Sleman,1200000,9.0,1.9707181012557649,putri,1,1,0,1,1,0,0,0
+Kost Pranasmara 34C Tipe C Depok Sleman,1300000,12.0,1.9682825585789727,putri,1,1,0,1,1,0,0,0
+Kost Hawa Residence Tipe A Depok Sleman,1500000,9.0,2.1540913462965525,putri,1,1,0,1,1,0,0,0
+Kost Anti Mati Lampu Tipe 1 Depok Sleman,750000,7.5,1.073372898293904,putri,1,0,0,1,1,1,0,1
+Kost Odette 2 Tipe 1 Depok Sleman,1500000,16.0,2.485179302719508,putri,1,1,0,1,1,1,0,0
+Kost Odette 2 Tipe B Depok Sleman,1250000,9.0,2.485935835545957,putri,1,1,0,1,1,0,0,0
+Kost Odette 2 Tipe A Depok Sleman,1400000,12.0,2.4843036569694026,putri,1,1,0,1,1,0,0,0
+Kost Ummi Gondokusuman Yogyakarta,700000,12.0,1.3688818183400069,putri,1,0,0,1,1,0,0,1
+Kost Eldokas Tipe C Pakualaman Yogyakarta,1100000,12.0,2.029262373353938,putri,1,1,0,1,1,1,0,0
+Kost Eldokas Tipe B Pakualaman Yogyakarta,1000000,12.0,2.029262373353938,putri,1,1,0,1,1,1,0,0
+Kost Titan Depok Sleman,380000,12.0,1.0379331010498416,putra,1,0,0,0,1,0,0,0
+Kost Timoho Tipe Standard Umbulharjo Yogyakarta,1500000,9.0,1.97149187281152,putri,1,1,0,1,1,1,1,0
+Kost Timagoya Tipe C Tegalrejo Yogyakarta,1800000,9.0,1.2311852195170374,putra,1,1,0,1,1,1,0,0
+Kost Timagoya Tipe B Tegalrejo Yogyakarta,1700000,12.0,1.2311852195170374,putra,1,1,0,0,1,1,0,0
+Kost Timagoya Tipe A Tegalrejo Yogyakarta,1800000,12.0,1.2311852195170374,putra,1,1,0,1,1,1,0,0
+Kost Aldebaran Tipe Paviliun Tegalrejo Yogyakarta,2500000,128.0,1.863285206379693,campur,1,1,1,1,1,0,1,1
+Kost Aldebaran Tipe Single Tegalrejo Yogyakarta,1450000,6.25,7.974281744106347,campur,1,1,1,1,1,0,1,1
+Kost Wisma Wb Tipe B Gondokusuman Yogyakarta,1100000,11.2,1.5215318414985437,putri,1,1,0,1,1,0,0,0
+Kost Beka Tipe B Mlati Sleman,1250000,9.0,2.2500331996171927,putri,1,1,0,1,1,1,0,0
+Kost Griyastimewan VVIP Gondokusuman Yogyakarta,1750000,17.5,0.3640341236417219,putri,1,1,1,1,1,1,1,1
+Kost Griyastimewan Standard Gondokusuman Yogyakarta,1300000,9.0,0.3640341236417219,putri,1,1,0,1,1,0,1,0
+Kost Ibu Jumiati Tipe A Depok Sleman,700000,9.0,2.207726665316838,putri,1,0,0,1,1,1,0,0
+Kost Brotherhouse Kefas Double Bed Depok Sleman,400000,9.0,2.2364159968557176,putra,1,0,0,1,1,1,0,0
+Kost Adela Tipe A Mlati Sleman,800000,9.0,1.2824872742387716,putri,1,1,0,1,1,1,0,0
+Kost Tepat Tipe A Gondokusuman Yogyakarta,1200000,9.0,0.3998448908799967,putra,1,1,0,1,1,1,0,0
+Kost Tepat Eksklusif Ngemplak Sleman,1200000,15.04,11.548144805284547,putri,1,1,1,1,1,0,1,1
+Kost Kostayl Griya Terban Standar Gondokusuman Yogyakarta,1800000,5.1,0.5415586720816854,putri,1,1,0,1,1,1,1,1
+Kost Ekost Karangjati Tipe Executive Double Yogyakarta Sleman,1700000,12.0,2.041501340436739,campur,1,1,1,1,1,1,1,1
+Kost Kostayl Griya Terban Standar 2 Gondokusuman Yogyakarta,700000,4.5,0.5415586720816854,putri,1,0,0,0,1,1,1,0
+Kost Kostayl Griya Terban Eksklusif Gondokusuman Yogyakarta,1800000,12.0,0.5415586720816854,putri,1,1,0,1,1,1,1,1
+Kost Nanda I Mlati Sleman,300000,9.0,1.4859570655401748,putra,1,0,0,0,1,1,0,0
+Kost Bu Hanif Mlati Sleman,300000,12.0,2.0683370731053707,putri,1,0,0,1,1,1,0,0
+Kost Bu Hanif Tipe 1 Mlati Sleman,300000,12.0,2.068479875884619,putri,1,0,0,1,1,1,0,0
+Kost Bu Hanif Tipe A Mlati Sleman,400000,12.0,2.0615855560886005,putri,1,0,0,1,1,0,1,0
+Kost Mak Sonem Tegalrejo Yogyakarta,300000,4.0,1.951733487740948,putri,1,0,0,0,1,1,0,0
+Kost Kenandega Tipe A Depok Sleman,300000,12.0,2.716224442748032,putra,1,0,0,0,1,1,0,0
+Kost Velriyo Tipe A Danurejan Yogyakarta,300000,6.0,1.3518339683453835,putra,1,0,0,0,1,1,1,0
+Kost Mutmainah Tipe A Depok Sleman,320000,6.75,2.3725791179313487,putri,1,0,0,0,1,1,0,0
+Kost Terminal Boys Tipe A Gondokusuman Yogyakarta,333000,12.0,0.7326212798885744,putra,1,0,0,0,1,1,0,1
+Kost Prima Pringgo Gedong Tengen Yogyakarta,349999,9.0,2.1624352819857093,putri,1,0,0,0,1,1,0,0
+Kost Andeko 2 Tipe A Depok Sleman,350000,4.8,1.8040063355357308,putra,1,1,0,0,1,1,0,0
+Kost Andeko 2 Tipe C Depok Sleman,700000,9.0,1.8039906285313367,putra,1,0,0,0,1,0,0,0
+Kost Andeko 2 Tipe D Depok Sleman,975000,18.0,1.8039906285313367,putra,1,1,0,0,1,0,0,0
+Kost Andeko 2 Tipe E Depok Sleman,1700000,20.0,1.8039906285313367,putra,1,1,1,1,1,0,0,0
+Kost Ekost Karangjati Tipe Single Mlati Sleman,1400000,9.0,2.041284182485532,campur,1,1,1,1,1,0,0,1
+Kost Matahari Depok Sleman,300000,9.0,2.636993070535364,putra,1,0,0,0,1,1,0,0
+Kost Matahari 2 Tipe A Depok Sleman,800000,9.0,2.864526282251385,putra,1,1,0,0,1,1,0,0
+Kost Wisma Wb Tipe C Gondokusuman Yogyakarta,1000000,9.0,1.5195944126562468,putri,1,1,0,1,1,0,0,0
+Kost Wisma Wb Tipe A Gondokusuman Yogyakarta,1250000,15.0,1.5215318414985437,putri,1,1,0,1,1,0,0,0
+Kost Pondok Bugenvile 1 Tipe Pavilium Depok Sleman,3000000,35.0,2.453660825374119,putra,1,1,1,1,1,1,1,0
+Kost Tribrata Tegalrejo Yogyakarta,400000,16.0,2.0192389438044813,putra,1,0,0,0,1,1,1,0
+Kost Bu Biyadi Depok Sleman,400000,9.0,1.0960856162736303,putri,1,0,0,0,1,0,0,0
+Kost Wisma Orange Tegalrejo Yogyakarta,400000,16.0,1.7460677744699908,putra,1,1,0,0,1,1,0,0
+Kost Bu Sumarsih Tipe Biasa Depok Sleman,400000,6.25,1.0369742805821978,putri,1,0,0,1,1,1,0,0
+Kost Bu Sumarsih Tipe C Depok Sleman,400000,6.0,1.0369742805821978,putra,1,0,0,1,1,1,0,0
+Kost Bu Sumarsih Tipe B Depok Sleman,450000,9.0,1.0369742805821978,putra,1,0,0,1,1,1,0,0
+Kost Bu Sumarsih Tipe A Depok Sleman,500000,9.0,1.0369742805821978,putra,1,0,0,1,1,1,0,0
+Kost Pak Sugeng Tipe A Gondokusuman Yogyakarta,400000,6.0,2.118791739262046,putra,1,0,0,0,1,1,0,0
+Kost Kuningan Pak Makmur Depok Sleman,400000,9.0,1.1828741213397886,putri,1,0,0,0,1,1,0,0
+Kost Remasjoe Pakualaman Yogyakarta,400000,10.0,1.6194511513081835,putri,1,1,0,0,1,1,1,0
+Kost Pondok Bugenvile 1 Standar Room Depok Sleman,1850000,20.0,2.453660825374119,putra,1,1,1,1,1,0,1,0
+Kost Bu Etik Handra Danurejan Yogyakarta,350000,9.0,1.1641202853672783,putra,1,0,0,1,1,1,0,0
+Kost Solimah Ngampilan Yogyakarta,400000,12.0,2.770124930802648,putri,1,0,0,1,1,1,0,0
+Kost Putri Annisa Tipe A Tegalrejo Yogyakarta,400000,9.0,1.570665005055322,putri,1,0,0,1,1,1,0,1
+Kost Velriyo Tipe C Danurejan Yogyakarta,400000,9.0,1.3570119193271548,putra,1,0,0,0,1,1,0,0
+Kost The Martos Tipe B Depok Sleman,350000,9.0,2.2419503746193734,putri,1,0,0,1,1,1,0,0
+Kost Bahagia Tipe A Danurejan Yogyakarta,375000,8.0,1.264757047587953,putri,1,0,0,0,1,1,0,0
+Kost Sisterhouse Filadelfia Depok Sleman,400000,9.0,2.1419076412045936,putri,1,0,0,0,1,1,0,0
+Kost Nayla Mlati Sleman,400000,12.0,1.714698107225081,putra,1,0,0,0,1,1,0,0
+Kost Mbak Sri Tipe A Danurejan Yogyakarta,400000,9.0,1.3902985505396628,putri,1,0,0,0,1,1,0,0
+Kost Mbah Sugiyaj Mlati Sleman,400000,9.0,1.5146496815614203,putra,1,0,0,0,1,1,0,0
+Kost Mbah Yani Gondokusuman Yogyakarta,350000,9.0,0.6446157794870783,putra,1,0,0,0,1,1,0,0
+Kost Pak Tugimin Klebengan Yogyakarta,400000,9.0,2.234061340735213,putra,1,0,0,0,1,1,0,1
+Kost Bu Ucik Gondokusuman Yogyakarta,700000,9.0,1.3674433048862669,putra,1,0,0,1,1,1,0,0
+Kost Griya 21 Umbulharjo Yogyakarta,875000,9.0,1.9470794709248176,putra,1,1,0,1,1,0,0,0
+Kost Annida Tipe B Kotabaru Yogyakarta,1300000,18.0,0.6252177221235817,putra,1,0,1,1,1,1,1,1
+Kost Barjasaja Tegalrejo Sleman,725000,16.0,2.429090324127457,putra,1,1,0,1,1,1,1,0
+Kost Singgahsini Tapak Dara Tipe A Deresan Yogyakarta,1025000,12.0,2.425276931474611,putra,1,1,0,1,1,1,1,0
+Kost Wisma Baliton Tipe A Depok Sleman,750000,9.0,2.135664027912063,putra,1,0,0,1,1,1,0,0
+Kost Annida Gondokusuman Yogyakarta,1700000,16.0,0.6194988779193651,putra,1,1,1,1,1,0,1,1
+Kost Mawar 12 Tipe B Depok Sleman,700000,9.0,2.277994840323091,putra,1,1,0,1,1,1,0,0
+Kost Bu Lasiyem Mlati Sleman,500000,5.0,1.1192178122055572,putra,1,0,0,1,1,1,0,0
+Kost Smile Gondokusuman Sleman,600000,12.0,0.7781080693762651,putri,1,0,0,1,1,1,0,1
+Kost Plengkung Tipe B Jetis Yogyakarta,950000,9.0,1.2910620216496853,putra,1,1,0,0,1,0,0,1
+Kost Ardafa Inn Tipe Single Non Smoking Umbulharjo Yogyakarta,1600000,7.0,2.367224629237148,putra,1,1,1,1,1,1,0,0
+Kost Tepat Tipe A Gondokusuman Yogyakarta,650000,9.0,0.3998448908799967,putra,1,0,0,1,1,1,0,0
+Kost Sejahtera Depok Sleman,600000,12.0,2.236989143535152,putra,1,0,0,0,1,1,0,0
+Kost Bu Sum Blimbingsari Depok Sleman,700000,9.0,1.0755638563108856,putra,1,0,0,1,1,0,0,0
+Kost Adi Tipe A Gondokusuman Yogyakarta,675000,9.0,0.3975996856814867,putra,1,0,0,0,1,1,0,0
+Kost Pondok Bugenvil 3 Caturtunggal Depok Sleman,1800000,25.0,2.445899827390173,putra,1,1,1,1,1,1,1,1
+Kost Rejeki Jetis Yogyakarta,700000,7.5,0.6144270749237035,putra,1,0,0,1,1,1,0,0
+Kost Griya Bnr Tipe A Mlati Sleman,1350000,12.0,2.33320319079418,putra,1,1,0,1,1,1,1,0
+Kost Elkaavie I Mlati Sleman,1500000,9.0,2.177832815728685,putra,1,1,0,1,1,0,1,1
+Kost Alfan Ac Mlati Sleman,600000,9.0,2.2106384610566323,putra,1,0,0,1,1,0,0,0
+Kost Budi Tipe D Jetis Yogyakarta,1000000,9.0,1.240849536716352,putra,1,1,0,1,1,1,0,0
+Kost Bapak Muryono Mlati Sleman,800000,9.0,2.1855641199674154,putra,1,1,0,1,1,1,0,0
+Kost Lempuyangan Tipe Rooftop Danurejan Yogyakarta,1100000,6.0,0.9868257556167443,putra,1,0,0,1,1,0,0,1
+Kost My Mojo Tipe Standard Gondokusuman Yogyakarta,850000,12.0,1.506451748200936,putra,1,0,0,1,1,0,1,0
+Kost Lempuyangan Tipe A2 Danurejan Yogyakarta,1200000,9.0,0.9868257556167443,putra,1,0,0,1,1,0,0,1
+Kost Pandawa Tipe A Depok Sleman,800000,9.0,2.4832730676853867,putra,1,1,0,1,1,0,0,0
+Kost Annida Tipe A Kotabaru Yogyakarta,950000,16.0,0.6384606843583865,putra,1,0,1,1,1,1,1,1
+Kost Lempuyangan Tipe Panoramic Danurejan Yogyakarta,1100000,6.0,0.9868257556167443,putra,1,0,0,1,1,0,0,1
+Kost Anggrek 2B Depok Sleman,700000,10.5,2.2670610014769346,putra,1,0,0,1,1,1,0,0
+Kost Lempuyangan Tipe Private Garden Danurejan Yogyakarta,1150000,6.0,0.9868257556167443,putra,1,0,0,1,1,0,0,1
+Kost Lempuyangan Tipe A4 Danurejan Yogyakarta,1100000,6.0,0.9868257556167443,putra,1,0,0,1,1,0,0,1
+Kost Gree House Vip Gondokusuman Yogyakarta,1500000,9.0,0.2382982002439894,putra,1,1,0,1,1,0,0,1
+Kost Lempuyangan Tipe A3 Danurejan Yogyakarta,1150000,9.0,0.9868257556167443,putra,1,0,0,1,1,0,0,1
+Kost Bumi Aksata Tipe A Depok Sleman,1550000,12.0,0.810416901384782,putra,1,1,0,1,1,0,1,0
+Kost Muza Tipe A Gondokusuman Yogyakarta,600000,12.0,1.4229356992369355,putra,1,0,0,0,1,1,0,0
+Kost Fadil Tipe B Jetis Yogyakarta,1000000,24.0,1.315579262828493,putra,1,1,0,1,1,1,0,0
+Kost Zahra Shari Single Room Mlati Sleman,750000,6.760000000000001,2.326728798759306,putra,1,0,0,1,1,1,0,0
+Kost Pudak Gromo Depok Sleman,650000,9.0,2.296910344058747,putra,1,0,0,0,1,1,1,0
+Kost Lempuyangan Tipe A Danurejan Yogyakarta,1350000,16.0,0.9868257556167443,putra,1,1,0,1,1,0,0,1
+Kost Muza Tipe B Gondokusuman Yogyakarta,800000,12.0,1.4397280401299808,putra,1,0,0,0,1,0,0,0
+Kost Pandawa Tipe C Depok Sleman,500000,9.0,2.483436215412442,putra,1,0,0,1,1,0,0,0
+Kost Mb Lin Tipe A Danurejan Yogyakarta,535000,6.25,0.9880733905908312,putra,1,1,0,0,1,1,0,0
+Kost Gree House Mezanine Gondokusuman Yogyakarta,1350000,9.0,0.2382982002439894,putra,1,1,0,1,1,0,0,0
+Kost Oranges Tipe B Pakualaman Yogyakarta,725000,16.0,2.116944238538748,putra,1,0,0,1,1,1,0,0
+Kost Mekar Asri Tipe B Mlati Sleman,600000,9.0,1.1532297358727714,putra,1,0,0,1,1,1,0,0
+Kost Pak Purwaji Depok Sleman,800000,9.0,1.8592082608671825,putra,1,1,0,0,1,0,0,0
+Kost Oranges Tipe A Pakualaman Yogyakarta,850000,16.0,2.116944238538748,putra,1,1,0,1,1,1,0,0
+Kost Esquire Tipe Executive A Depok Sleman,2400000,30.0,2.157933975092915,putra,1,1,1,1,1,0,1,1
+Kost Ndalem Semedi 1 Tipe B Depok Sleman,800000,9.0,1.1261972448696134,putra,1,0,0,1,1,1,0,1
+Kost Fadil Tipe A Jetis Yogyakarta,800000,9.0,1.315579262533072,putra,1,0,0,1,1,1,0,0
+Kost Pak Pur Gondokusuman Yogyakarta,600000,6.25,1.9616103516990904,putra,1,0,0,1,1,1,0,0
+Kost Mawar 12 Tipe A Depok Sleman,600000,9.0,2.277994840323091,putra,1,1,0,1,1,1,0,0
+Kost Alfita Tipe 1 Gondokusuman Yogyakarta,950000,9.0,0.8586527530439658,putra,1,0,0,1,1,1,0,0
+Kost Pandawa Tipe B Depok Sleman,1000000,9.0,2.483436215412442,putra,1,1,0,1,1,0,0,0
+Kost Kc42 Depok Sleman,1200000,9.0,1.6596940165303296,putra,1,0,1,1,1,0,0,1
+Kost Mekar Biru Tipe A Gondokusuman Yogyakarta,1000000,16.0,1.004328401412085,putra,1,1,0,1,1,1,0,0
+Kost Malioboro Kemuning Gedong Tengen Yogyakarta,580000,9.0,2.1250712559549365,putra,1,0,0,0,1,1,0,0
+Kost Bapak Ponijo Tipe A Depok Sleman,800000,10.5,2.2918670734036084,putra,1,1,0,0,1,1,0,0
+Kost Sadono Tipe A Gondokusuman Yogyakarta,750000,12.0,1.385344484227624,putra,1,0,0,0,1,1,0,0
+Kost Asrama Putra Senatama Mlati Sleman,1100000,13.5,1.1898940091802357,putra,1,1,0,1,1,1,1,1
+Kost Aksara Depok Sleman,520000,9.0,2.2223373335254744,putra,1,1,0,0,1,0,0,0
+Kost Oasis Depok Sleman,2500000,12.0,2.234430404403162,putra,1,1,1,1,1,1,1,1
+Kost Wisma Formasi Gondokusuman Yogyakarta,570000,9.0,1.9625042984871075,putra,1,0,0,0,1,0,0,0
+Kost Karunia Agung Depok Sleman,500000,9.0,1.0683110246856582,putra,1,0,0,1,1,0,0,0
+Kost M G Residence Tipe A Depok Sleman,1800000,12.0,2.2440016277500616,putra,1,1,1,1,1,0,1,0
+Kost Nusantara Tipe C1 Depok Sleman,600000,12.0,2.378547297908629,putra,1,0,0,0,1,0,1,1
+Kost Nuri 4 Demangan Depok Sleman,500000,12.0,1.7234481282927985,putra,1,0,0,0,1,1,0,0
+Kost Alamanda Depok Sleman,700000,9.0,2.1649579649831923,putra,1,0,0,0,1,0,0,0
+Kost Destiny Exclusive Tipe 1 Tegalrejo Yogyakarta,2000000,12.0,1.812787220923372,putra,1,1,1,1,1,1,0,0
+Kost Vani Gondokusuman Yogyakarta,950000,6.0,1.4519541248534884,putra,1,1,0,0,1,1,1,0
+Kost Amantu I Gondokusuman Yogyakarta,650000,9.0,0.5039611689511891,putra,1,0,0,0,1,0,0,0
+Kost Mabay Tipe A Depok Sleman,1300001,12.0,2.155789201815673,putra,1,1,1,1,1,0,0,0
+Kost Ayana Sendowo Tipe A Mlati Sleman,750000,9.0,1.3597880379216067,putra,1,0,0,1,1,1,0,0
+Kost Joglo Karaharjan PP Depok Sleman,550000,9.0,2.1874203919704085,putra,1,0,0,0,1,1,0,0
+Kost Pondok Suryo Depok Sleman,950000,9.0,2.2798172053219696,putra,1,1,0,1,1,0,1,0
+Kost Tuti Musi Tipe A Umbulharjo Yogyakarta,800000,9.0,2.742413126985666,putra,1,1,0,0,1,1,1,0
+Kost Rumah Miracle Depok Sleman,580000,12.0,1.882561466382891,putra,1,0,0,0,1,1,1,0
+Kost Gang Guru 8B Depok Sleman,600000,9.0,1.7788006462315211,putra,1,0,0,0,1,1,0,0
