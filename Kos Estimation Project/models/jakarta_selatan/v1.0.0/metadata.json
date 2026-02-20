@@ -1,0 +1,39 @@
+{
+  "model_version": "v1.0.0",
+  "region": "jakarta_selatan",
+  "mlflow": {
+    "run_id": "31a47bc01b6348838b5be3f02c23af84",
+    "experiment": "jakarta_selatan_model"
+  },
+  "model": {
+    "type": "RandomForestRegressor",
+    "params": {
+      "model_type": "RandomForestRegressor",
+      "n_estimators": 250,
+      "min_samples_leaf": 4,
+      "max_features": "sqrt",
+      "max_depth": 5
+    }
+  },
+  "performance": {
+    "MAE": 528010,
+    "R2": 0.6501530775822777,
+    "RMSE": 727279.2331442233,
+    "MAPE": 0.3144584843289665
+  },
+  "training_info": {
+    "trained_at": "2026-02-13",
+    "dataset_size": 497,
+    "features": [
+      "luas_kamar",
+      "tipe_kos",
+      "is_km_dalam",
+      "is_water_heater",
+      "is_furnished",
+      "is_listrik_free",
+      "is_parkir_mobil",
+      "is_mesin_cuci",
+      "amenities_count"
+    ]
+  }
+}

@@ -1,29 +1,32 @@
-# 🏠 Kos Price Prediction API
+# Kos Price Prediction API
 
-# 📌 Overview
+---
 
-Kos Price Prediction API adalah sistem Machine Learning yang digunakan untuk memprediksi harga kos berdasarkan fitur properti dan fasilitas, dengan dukungan multi-region:
-1. Jakarta Pusat
-2. Jakarta Selatan
-3. Jakarta Utara
-4. Yogyakarta
+## Overview
 
-API ini dirancang dengan pendekatan Enterprise ML Engineering, mencakup:
-1. Model Versioning
-2. Structured Logging (JSON-based)
-3. Latency Monitoring (P50, P90, P95)
-4. Prediction Monitoring
-5. Anomaly Detection
-6. Prometheus Metrics Integration
-7. Request ID Tracking
-8. Global Exception Handling
-9. Rolling Memory Control
-10. Production-Ready Architecture
+Kos Price Prediction API is a production-oriented machine learning inference service built using FastAPI.
+
+The system implements:
+
+* Semantic model versioning
+* Metadata integrity validation
+* Structured JSON logging
+* Request ID traceability
+* Prometheus monitoring
+* Latency histogram tracking
+* Prediction distribution monitoring
+* Anomaly detection
+* Manual model promotion governance
+* Rollback strategy
+
+This project follows controlled MLOps practices suitable for production-level deployment in small-to-mid scale environments.
+
+---
 
 # 🧠 Machine Learning Methodology
-1️⃣ Data Processing
+1️. Data Processing
 
-* Outlier handling menggunakan 99th percentile capping
+* Outlier handling using 99th percentile capping
 * Multicollinearity mitigation
 
 Feature engineering:
@@ -33,7 +36,7 @@ Feature separation:
 Linear models: interpretable design
 Tree models: enhanced non-linear capability
 
-2️⃣ Model Selection Strategy
+2️. Model Selection Strategy
 
 Evaluated models:
 1. Linear Regression
@@ -52,194 +55,23 @@ Selection criteria:
 
 Final models selected per region based on stability + generalization performance.
 
-# 🏗️ System Architecture
-Frontend (Laravel)
+# Architecture Overview
+
+```
+Client (Laravel)
         ↓
-FastAPI Inference Service
+FastAPI Inference Layer
         ↓
-Region-based Model Loader
+Model Loader (Versioned)
         ↓
-Scikit-learn Pipeline
+ML Model (scikit-learn Pipeline)
         ↓
-Prediction Output
+Monitoring (Prometheus)
         ↓
-Logging + Metrics + Monitoring
-        ↓
-Prometheus
-        ↓
-Grafana Dashboard
+Logs (JSON Structured)
+```
 
-# 📂 Project Structure
-app/
-│
-├── main.py
-├── router.py
-├── model_loader.py
-├── schema.py
-├── middleware.py
-├── metrics.py
-├── prometheus_metrics.py
-├── logging_config.py
-│
-models/
-│   ├── jakarta_pusat/
-│   │   └── v1/
-│   │       ├── model.pkl
-│   │       └── metadata.json
-│   ├── jakarta_selatan/
-│   ├── jakarta_utara/
-│   └── yogyakarta/
-│
-logs/
-│   ├── inference.log
-│   └── error.log
-
-# 🔐 Model Versioning
-
-Each region follows:
-models/{region}/v{n}/
-
-Example:
-models/jakarta_utara/v1/model.pkl
-
-At startup:
-1. Latest version automatically loaded
-2. Metadata automatically attached
-3. Version exposed via /model-info/{region}
-
-# 📊 Observability & Monitoring
-1️⃣ Structured Logging
-
-All inference logs are JSON formatted:
-
-{
-  "event": "inference_event",
-  "region": "jakarta_utara",
-  "model_version": "v1",
-  "latency_ms": 14.68,
-  "predicted_price": 2362990,
-  "request_id": "uuid"
-}
-
-Stored in:
-* logs/inference.log
-* logs/error.log
-
-2️⃣ Request ID Tracking
-
-Each request:
-* Auto-generate UUID if not provided
-* Accept custom X-Request-ID
-* Propagated to response header
-* Logged in structured format
-
-Enables:
-* Distributed tracing
-* Production debugging
-* Correlation across services
-
-3️⃣ Latency Monitoring
-
-Tracked:
-* Mean
-* P50
-* P90
-* P95
-* Max
-
-Exposed via:
-GET /metrics
-
-4️⃣ Prediction Monitoring
-
-Rolling window (max 1000 samples per region):
-1. Mean prediction
-2. Percentiles
-
-Endpoint:
-GET /prediction-monitor/{region}
-
-5️⃣ Anomaly Detection
-
-Two layers:
-1. Hard Threshold
-Prediction outside defined price range.
-2. Statistical (IQR-based)
-Dynamic outlier detection after minimum 20 samples.
-
-Endpoint:
-GET /anomaly-monitor/{region}
-
-6️⃣ Prometheus Metrics
-
-Integrated metrics:
-* prediction_requests_total
-* prediction_errors_total
-* prediction_request_latency_seconds
-* prediction_latest_prediction
-
-Exposed at:
-GET /prometheus-metrics
-
-7️⃣ Grafana Dashboard Ready
-
-Recommended panels:
-* Total Requests
-* Request Rate
-* Error Rate
-* P95 Latency
-* Latest Prediction
-* Per-region traffic
-
-# 🚦 Available Endpoints
-1. Prediction
-POST /predict/{region}
-
-2. Health Check
-GET /health
-
-3. Model Info
-GET /model-info/{region}
-
-4. Metrics Summary
-GET /internal-metrics
-
-5. Prediction Monitoring
-GET /prediction-monitor/{region}
-
-6. Anomaly Monitoring
-GET /anomaly-monitor/{region}
-
-7. Prometheus Metrics
-GET /metrics
-
-# 🛡️ Production Safeguards
-
-* Global exception handler
-* No raw stack trace exposure
-* Request ID tracking
-* Rolling memory limit (1000 records)
-* Structured JSON logs
-* Version-aware model loading
-* Metadata-based configuration
-
-# 📦 Deployment Notes
-Local Development
-
-Run API:
-uvicorn app.main:app --port 8001 --reload
-
-Laravel backend may run on:
-localhost:8000
-
-Inference service recommended on:
-localhost:8001
-
-Prometheus:
-localhost:9090
-
-Grafana Monitoring:
-localhost:3000
+---
 
 # 📈 Performance Benchmarks
 
@@ -253,34 +85,349 @@ Yogyakarta	~31 ms	~32 ms
 
 System latency stable within acceptable production range.
 
-# 🧪 Model Governance
+# Key Features
 
-Each model version includes:
-metadata.json
+## 1. Semantic Model Versioning
+
+Models are stored in:
+
+```
+models/{region}/vMAJOR.MINOR.PATCH/
+```
 
 Example:
 
+```
+models/jakarta_pusat/v1.0.0/
+models/jakarta_pusat/v1.1.0/
+```
+
+Only the highest semantic version is loaded during startup.
+
+Version format:
+
+```
+vMAJOR.MINOR.PATCH
+```
+
+---
+
+## 2. Metadata Governance
+
+Each model folder must contain:
+
+```
+model.pkl
+metadata.json
+```
+
+Metadata includes:
+
+* region
+* model_version
+* model_type
+* params
+* metrics (MAE, R2, RMSE, MAPE)
+* features
+* optional mlflow_run_id
+
+Startup validation ensures:
+
+* Folder version matches metadata
+* Region consistency
+* Model type consistency
+* Feature schema consistency
+* Valid semantic version format
+
+The API will fail to start if validation fails.
+
+---
+
+## 3. Monitoring & Observability
+
+Prometheus endpoint:
+
+```
+GET /metrics
+```
+
+Exposed metrics:
+
+* prediction_requests_total
+* prediction_errors_total
+* prediction_latency_seconds (histogram)
+* latest_prediction_value
+
+Latency is stored in seconds.
+
+Example average latency query (ms):
+
+```
+(
+  rate(prediction_latency_seconds_sum[5m])
+/
+  rate(prediction_latency_seconds_count[5m])
+) * 1000
+```
+
+P95 latency:
+
+```
+histogram_quantile(
+  0.95,
+  rate(prediction_latency_seconds_bucket[5m])
+) * 1000
+```
+
+---
+
+## 4. Prediction Monitoring
+
+Internal endpoint:
+
+```
+GET /prediction-monitor/{region}
+```
+
+Provides:
+
+* mean prediction
+* p50, p90, p95
+* min/max prediction
+* count
+
+Used for drift awareness.
+
+---
+
+## 5. Anomaly Detection
+
+Endpoint:
+
+```
+GET /anomaly-monitor/{region}
+```
+
+Detects:
+
+* Hard threshold violations
+* IQR-based statistical outliers
+
+Helps detect abnormal prediction behavior.
+
+---
+
+## 6. Structured Logging
+
+Logging format: JSON
+
+Includes:
+
+* region
+* model_version
+* latency
+* request_id
+* prediction value
+
+Two log files:
+
+```
+logs/inference.log
+logs/error.log
+```
+
+Global exception handler prevents raw stack trace exposure.
+
+---
+
+## 7. Request ID Tracking
+
+Each request receives:
+
+```
+X-Request-ID
+```
+
+Used for:
+
+* Traceability
+* Log correlation
+* Debugging
+
+Middleware injects and propagates request IDs.
+
+---
+
+## 8. Model Rollback Strategy
+
+If a production issue occurs:
+
+1. Identify faulty version
+2. Remove or downgrade folder
+3. Restart API
+4. System automatically loads highest valid version
+
+Rollback is deterministic due to semantic version sorting.
+
+---
+
+## 9. MLflow Compatibility (Optional)
+
+The architecture supports MLflow integration.
+
+Metadata may include:
+
+```
+mlflow_run_id
+```
+
+Model registry upgrade path is available without refactoring inference layer.
+
+Current implementation uses filesystem versioning for stability and simplicity.
+
+---
+
+# API Endpoints
+
+## Prediction
+
+```
+POST /predict/{region}
+```
+
+Example:
+
+```
+POST /predict/jakarta_pusat
+```
+
+Request body:
+
+```json
 {
-  "model_name": "Linear Regression",
-  "version": "v1",
-  "region": "jakarta_utara",
-  "training_date": "2026-02-15",
-  "r2_test": 0.6627,
-  "mae_test": 348762,
-  "notes": "Selected for stability and interpretability"
+  "luas_kamar": 20,
+  "jarak_ke_bca": 2.5,
+  "tipe_kos": "putra",
+  "is_km_dalam": 1,
+  "is_water_heater": 0,
+  "is_furnished": 1,
+  "is_listrik_free": 0,
+  "is_parkir_mobil": 0,
+  "is_mesin_cuci": 1
 }
+```
 
-# 🏁 Enterprise Maturity Level
+Response:
 
-This system implements:
-1. MLOps Monitoring
-2. Observability
-3. Version Control
-4. Drift Detection
-5. Structured Logging
-6. Performance Benchmarking
-7. Deployment Separation
-8. Production Safety Guards
+```json
+{
+  "region": "jakarta_pusat",
+  "predicted_price": 3026679.96,
+  "model_version": "v1.0.0"
+}
+```
+
+---
+
+## Health Check
+
+```
+GET /health
+```
+
+---
+
+## Model Info
+
+```
+GET /model-info/{region}
+```
+
+---
+
+## Internal Metrics (Non-Prometheus)
+
+```
+GET /internal-metrics
+```
+
+---
+
+## Prometheus Metrics
+
+```
+GET /metrics
+```
+
+---
+
+# Installation
+
+## 1. Clone Repository
+
+```
+git clone <repo_url>
+cd project_directory
+```
+
+## 2. Install Dependencies
+
+```
+pip install -r requirements.txt
+```
+
+## 3. Run Server
+
+```
+uvicorn app.main:app --reload --port 8001
+```
+
+---
+
+# Prometheus Setup (Local)
+
+1. Install Prometheus
+2. Configure `prometheus.yml`
+
+Example:
+
+```
+scrape_configs:
+  - job_name: "kos_api"
+    static_configs:
+      - targets: ["localhost:8001"]
+```
+
+3. Start Prometheus:
+
+```
+.\prometheus.exe --config.file=prometheus.yml
+```
+
+Access:
+
+```
+http://localhost:9090
+```
+
+---
+
+# Governance Summary
+
+The system implements:
+
+* Controlled semantic versioning
+* Metadata integrity validation
+* Manual promotion policy
+* Rollback capability
+* Observability
+* Structured logging
+* Monitoring via Prometheus
+* Schema validation via Pydantic
+
+This aligns with small-team production-grade MLOps standards.
+
+---
 
 # 👥 Backend Integration Notes
 
@@ -291,27 +438,27 @@ Laravel Backend Responsibilities:
 
 Optional: pass custom X-Request-ID
 
-1. ML Service Responsibilities:
-2. Validate input
-3. Load correct model
-4. Predict
-5. Monitor
-6. Log
-7. Expose metrics
+---
 
-# 📌 Final Notes
+# Future Improvements
 
-This project demonstrates:
-1. Applied Machine Learning
-2. Production Engineering
-3. Monitoring and Observability
-4. Enterprise Software Practices
-5. Clean API Architecture
+* MLflow full model registry integration
+* CI/CD retraining workflow
+* Alert-based automatic rollback
+* Cloud observability integration
 
-If needed, next improvements can include:
-* Docker containerization
-* CI/CD pipeline
-* Model A/B testing
-* Drift detection dashboard
-* Alerting system
-* Centralized log aggregation
+---
+
+# Production Notes
+
+* Latency metrics are stored in seconds.
+* At least two samples are required for `rate()` queries.
+* Model promotion is manual by design.
+* Startup validation prevents corrupted deployments.
+* No raw exception exposure in production.
+
+---
+
+# License
+
+Internal academic project – Production governance implemented for learning and portfolio purposes.

@@ -1,0 +1,39 @@
+{
+  "version": "v1.0.0",
+  "region": "jakarta_utara",
+  "mlflow": {
+    "run_id": "a92f998d65fd4453b7c7221ade19b0d8",
+    "experiment": "jakarta_utara_model"
+  },
+  "model": {
+    "type": "LinearRegression",
+    "params": {
+        "model_type": "LinearRegression",
+        "preprocessing_type": "column_transformer",
+        "fit_intercept": true,
+        "positive": false,
+        "train_samples": 396,
+        "test_samples": 99
+    }
+  },
+  "metrics": {
+    "MAE": 348762,
+    "R2": 0.6627410991954539,
+    "RMSE": 447816.9381955551,
+    "MAPE": 0.24673642268887175
+  },
+  "training_info": {
+    "trained_at": "2026-02-18",
+    "dataset_size": 495,
+    "features": [
+      "luas_kamar",
+      "tipe_kos",
+      "is_km_dalam",
+      "is_water_heater",
+      "is_furnished",
+      "is_listrik_free",
+      "is_parkir_mobil",
+      "is_mesin_cuci"
+    ]
+  }
+}

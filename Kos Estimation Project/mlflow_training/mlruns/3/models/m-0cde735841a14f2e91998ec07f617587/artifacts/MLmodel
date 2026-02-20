@@ -1,0 +1,24 @@
+artifact_path: file:///c:/Users/jsnjw/OneDrive - Bina Nusantara/Documents/CAWU 4/DUMMY/Kos
+  Estimation Project/mlflow_training/mlruns/3/models/m-0cde735841a14f2e91998ec07f617587/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-0cde735841a14f2e91998ec07f617587
+model_size_bytes: 675875
+model_uuid: m-0cde735841a14f2e91998ec07f617587
+prompts: null
+run_id: 31a47bc01b6348838b5be3f02c23af84
+utc_time_created: '2026-02-19 00:39:00.856735'

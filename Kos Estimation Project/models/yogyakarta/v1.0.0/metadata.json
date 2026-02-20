@@ -1,0 +1,40 @@
+{
+  "model_version": "v1.0.0",
+  "region": "yogyakarta",
+  "mlflow": {
+    "run_id": "b90d02537b7247eca196487bc09e5de6",
+    "experiment": "yogyakarta_model"
+  },
+  "model": {
+    "type": "RandomForestRegressor",
+    "params": {
+      "model_type": "RandomForestRegressor",
+      "n_estimators": 200,
+      "min_samples_leaf": 4,
+      "max_features": "sqrt",
+      "max_depth": 5
+    }
+  },
+  "performance": {
+    "MAE": 235182,
+    "R2": 0.770350230525501,
+    "RMSE": 292127.52754074923,
+    "MAPE": 0.27028060064584558
+  },
+  "training_info": {
+    "trained_at": "2026-02-16",
+    "dataset_size": 495,
+    "features": [
+      "luas_kamar",
+      "jarak_ke_bca",
+      "tipe_kos",
+      "is_km_dalam",
+      "is_water_heater",
+      "is_furnished",
+      "is_listrik_free",
+      "is_parkir_mobil",
+      "is_mesin_cuci",
+      "amenities_count"
+    ]
+  }
+}
