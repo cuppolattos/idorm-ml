@@ -9,13 +9,12 @@ import json
 from collections import defaultdict, deque
 import statistics
 
-from app.metrics import metrics_tracker
-
-from app.prometheus_metrics import (
+from app.metrics import (
     REQUEST_COUNT,
     ERROR_COUNT,
     REQUEST_LATENCY,
-    LATEST_PREDICTION
+    LATEST_PREDICTION,
+    PREDICTION_VALUE_SUMMARY
 )
 
 prediction_store = defaultdict(lambda: deque(maxlen=1000))
@@ -45,8 +44,10 @@ def predict(region: str, request: KosRequest, http_request: Request):
     REQUEST_COUNT.labels(region=region).inc()
 
     try:
+        import time
+        start_time = time.time()
+        
         with REQUEST_LATENCY.labels(region=region).time():
-
             data = request.dict()
 
             data["amenities_count"] = (
@@ -59,12 +60,42 @@ def predict(region: str, request: KosRequest, http_request: Request):
             )
 
             df = pd.DataFrame([data])
+            
+            # Smart Feature Alignment
+            # Check if model has a signature (MLflow PyFunc) or feature_names_in_ (Scikit-Learn)
+            required_features = None
+            if hasattr(model, "metadata") and model.metadata and getattr(model.metadata, "signature", None):
+                inputs = model.metadata.signature.inputs
+                required_features = [inp.name for inp in inputs]
+            elif hasattr(model, "feature_names_in_"):
+                required_features = list(model.feature_names_in_)
+                
+            if required_features:
+                # Filter df to exactly match required_features
+                available_features = [f for f in required_features if f in df.columns]
+                df = df[available_features]
+                
+                # If some features are missing in the request but required by the model, we could pad them
+                for f in required_features:
+                    if f not in df.columns:
+                        df[f] = 0.0 # Default fallback
+                        
+                # Reorder to match exactly
+                df = df[required_features]
+
+            if "amenities_count" in df.columns:
+                df["amenities_count"] = df["amenities_count"].astype("int32")
+
             prediction = model.predict(df)[0]
+            pred_val = float(prediction)
 
             # store rolling prediction
-            prediction_store[region].append(float(prediction))
+            prediction_store[region].append(pred_val)
 
-            LATEST_PREDICTION.labels(region=region).set(float(prediction))
+            LATEST_PREDICTION.labels(region=region).set(pred_val)
+            PREDICTION_VALUE_SUMMARY.labels(region=region).observe(pred_val)
+
+        latency = time.time() - start_time
 
         # logging
         logger.info(
@@ -73,13 +104,15 @@ def predict(region: str, request: KosRequest, http_request: Request):
                 "region": region,
                 "model_version": version,
                 "request_id": request_id,
-                "predicted_price": round(float(prediction), 2)
+                "input": request.dict(),
+                "output": pred_val,
+                "latency_sec": latency
             }
         )
 
         return PredictionResponse(
             region=region,
-            predicted_price=round(float(prediction), 2),
+            predicted_price=pred_val,
             model_version=version
         )
 

@@ -11,9 +11,13 @@ import json
 from app.logging_config import setup_logging
 from prometheus_client import generate_latest, CONTENT_TYPE_LATEST
 
+from prometheus_fastapi_instrumentator import Instrumentator
+
 setup_logging()
 
 app = FastAPI(title="Kos Price Prediction API")
+
+Instrumentator().instrument(app).expose(app)
 
 app.include_router(router)
 app.add_middleware(RequestIDMiddleware)
@@ -67,11 +71,4 @@ async def http_exception_handler(request: Request, exc: HTTPException):
             "status": "fail",
             "message": exc.detail
         },
-    )
-
-@app.get("/metrics")
-def prometheus_metrics():
-    return Response(
-        content=generate_latest(),
-        media_type=CONTENT_TYPE_LATEST
     )

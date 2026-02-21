@@ -1,125 +1,97 @@
-import joblib
-import json
+import mlflow.pyfunc
+import threading
+import logging
+import os
 from pathlib import Path
-from typing import List
-import re
+from mlflow.tracking import MlflowClient
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-MODEL_DIR = BASE_DIR / "models"
+logger = logging.getLogger("inference")
+
+_PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+_MLFLOW_DB = os.path.join(_PROJECT_ROOT, "notebooks", "mlflow.db")
+_MLFLOW_URI = "sqlite:///" + _MLFLOW_DB.replace("\\", "/")
+mlflow.set_tracking_uri(_MLFLOW_URI)
+
+# Auto-upgrade MLflow DB schema on import to prevent version mismatch errors.
+# Uses a short timeout so concurrent processes don't block each other.
+try:
+    from mlflow.store.db.utils import _upgrade_db
+    from sqlalchemy import create_engine
+    engine = create_engine(_MLFLOW_URI, connect_args={"timeout": 5})
+    _upgrade_db(engine)
+    engine.dispose()
+except Exception as _e:
+    print(f"[model_loader] MLflow DB auto-upgrade skipped: {_e}")
 
 
-class ModelLoader:
+class ModelProvider:
+    _instance = None
+    _lock = threading.Lock()
+
+    def __new__(cls, *args, **kwargs):
+        with cls._lock:
+            if cls._instance is None:
+                cls._instance = super(ModelProvider, cls).__new__(cls)
+                cls._instance._initialized = False
+        return cls._instance
+
     def __init__(self):
+        if self._initialized:
+            return
         self.models = {}
-        self.metadata = {}
+        self.models_lock = threading.Lock()
+        self._initialized = True
 
     def load_models(self):
+        regions = ["jakarta_pusat", "jakarta_selatan", "jakarta_utara", "yogyakarta"]
 
-        def parse_semantic_version(version_str: str):
-            """
-            Convert v1.2.3 → (1,2,3)
-            """
-            match = re.match(r"v(\d+)\.(\d+)\.(\d+)", version_str)
-            if not match:
-                raise ValueError(f"Invalid semantic version format: {version_str}")
+        with self.models_lock:
+            for region in regions:
+                model_uri = f"models:/{region}_model@production"
+                try:
+                    logger.info("loading_model", extra={"region": region, "model_uri": model_uri})
+                    model = mlflow.pyfunc.load_model(model_uri=model_uri)
 
-            return tuple(map(int, match.groups()))
+                    # Fetch version info via MLflow client
+                    client = MlflowClient()
 
-        for region_path in MODEL_DIR.iterdir():
-            if not region_path.is_dir():
-                continue
+                    try:
+                        mv = client.get_model_version_by_alias(f"{region}_model", "production")
+                        # Read semantic version from tags, fallback to MLflow integer version
+                        sem_ver = mv.tags.get("semantic_version", None)
+                        version_str = sem_ver if sem_ver else f"v{mv.version}"
+                    except Exception:
+                        version_str = "production"
 
-            region_name = region_path.name
+                    self.models[region] = {
+                        "model": model,
+                        "version": version_str,
+                        "metadata": getattr(model, "metadata", None)
+                    }
 
-            versions = sorted(
-                [v for v in region_path.iterdir() if v.is_dir()],
-                key=lambda x: parse_semantic_version(x.name)
-            )
+                    from app.metrics import MODEL_LOAD_STATUS
+                    MODEL_LOAD_STATUS.labels(region=region).set(1)
 
-            if not versions:
-                continue
-
-            latest_version = versions[-1]
-
-            model_path = latest_version / "model.pkl"
-            metadata_path = latest_version / "metadata.json"
-
-            if not model_path.exists():
-                raise Exception(f"[{region_name}] model.pkl not found")
-
-            if not metadata_path.exists():
-                raise Exception(f"[{region_name}] metadata.json not found")
-
-            model = joblib.load(model_path)
-
-            with open(metadata_path, "r") as f:
-                metadata = json.load(f)
-
-            # REGION CONSISTENCY CHECK
-            metadata_region = metadata.get("region")
-
-            if metadata_region and metadata_region != region_name:
-                raise Exception(
-                    f"[{region_name}] Region mismatch: "
-                    f"folder={region_name}, metadata={metadata_region}"
-                )
-
-            # VERSION CONSISTENCY CHECK
-            folder_version = latest_version.name
-            metadata_version = metadata.get("model_version")
-
-            if folder_version != metadata_version:
-                raise Exception(
-                    f"[{region_name}] Version mismatch: "
-                    f"folder={folder_version}, metadata={metadata_version}"
-                )
-
-            # MODEL TYPE CHECK
-            if "params" in metadata and "model_type" in metadata["params"]:
-                expected_type = metadata["params"]["model_type"]
-
-                if hasattr(model, "named_steps"):
-                    actual_type = type(model.named_steps["regressor"]).__name__
-                else:
-                    actual_type = type(model).__name__
-
-                if actual_type != expected_type:
-                    raise Exception(
-                        f"[{region_name}] Model type mismatch: "
-                        f"expected={expected_type}, actual={actual_type}"
-                    )
-
-            # FEATURE CONSISTENCY CHECK
-            expected_features = metadata.get("features")
-
-            if expected_features:
-                if hasattr(model, "feature_names_in_"):
-                    actual_features = list(model.feature_names_in_)
-
-                    if set(actual_features) != set(expected_features):
-                        raise Exception(
-                            f"[{region_name}] Feature mismatch detected"
-                        )
-
-            self.models[region_name] = {
-                "model": model,
-                "version": folder_version,
-                "metadata": metadata
-            }
-
-        print(f"Loaded models: {list(self.models.keys())}")
-
+                    print(f"[{region}] Successfully loaded model version {version_str}")
+                except Exception as e:
+                    logger.error("model_load_error", extra={"region": region, "error": str(e)})
+                    print(f"[{region}] FAILED to load: {e}")
+                    from app.metrics import MODEL_LOAD_STATUS
+                    MODEL_LOAD_STATUS.labels(region=region).set(0)
 
     def get_model(self, region: str):
-        return self.models.get(region)
+        with self.models_lock:
+            return self.models.get(region)
 
     def get_model_info(self, region: str):
-        return self.models.get(region)
+        with self.models_lock:
+            info = self.models.get(region)
+            if info:
+                return {
+                    "version": info["version"],
+                    "metadata": info["metadata"].to_dict() if info["metadata"] else {}
+                }
+            return None
 
-    def get_metadata(self, region: str):
-        region_data = self.models.get(region)
-        if region_data:
-            return region_data["metadata"]
-        return None
 
-model_loader = ModelLoader()
+model_loader = ModelProvider()

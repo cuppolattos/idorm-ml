@@ -9,9 +9,11 @@ class TipeKos(str, Enum):
     campur = "campur"
 
 
+from typing import Literal, Optional
+
 class KosRequest(BaseModel):
     luas_kamar: float = Field(..., gt=0, lt=100)
-    jarak_ke_bca: float = Field(..., ge=0, lt=50)
+    jarak_ke_bca: Optional[float] = Field(0.0, ge=0, lt=50)
 
     tipe_kos: TipeKos
 

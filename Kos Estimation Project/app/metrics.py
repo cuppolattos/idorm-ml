@@ -1,37 +1,46 @@
-import numpy as np
-import threading
+from prometheus_client import Counter, Histogram, Gauge, Summary
 
-class MetricsTracker:
-    def __init__(self):
-        self.lock = threading.Lock()
-        self.total_requests = 0
-        self.latencies = []
+# Prometheus Integrations
 
-    def record(self, latency_ms: float):
-        with self.lock:
-            self.total_requests += 1
-            self.latencies.append(latency_ms)
+# Total request per region
+REQUEST_COUNT = Counter(
+    "prediction_requests_total",
+    "Total prediction requests",
+    ["region"]
+)
 
-    def summary(self):
-        with self.lock:
-            if not self.latencies:
-                return {
-                    "total_requests": 0,
-                    "mean_latency_ms": 0,
-                    "p50_latency_ms": 0,
-                    "p90_latency_ms": 0,
-                    "p95_latency_ms": 0,
-                }
+# Error counter
+ERROR_COUNT = Counter(
+    "prediction_errors_total",
+    "Total prediction errors",
+    ["region"]
+)
 
-            arr = np.array(self.latencies)
+# Latency histogram
+REQUEST_LATENCY = Histogram(
+    "prediction_latency_seconds",
+    "Prediction latency",
+    ["region"]
+)
 
-            return {
-                "total_requests": self.total_requests,
-                "mean_latency_ms": round(float(arr.mean()), 3),
-                "p50_latency_ms": round(float(np.percentile(arr, 50)), 3),
-                "p90_latency_ms": round(float(np.percentile(arr, 90)), 3),
-                "p95_latency_ms": round(float(np.percentile(arr, 95)), 3),
-            }
+# Latest prediction gauge
+LATEST_PREDICTION = Gauge(
+    "latest_prediction_value",
+    "Latest prediction value",
+    ["region"]
+)
 
+# Model load status
+MODEL_LOAD_STATUS = Gauge(
+    "model_load_status",
+    "Status of model loading per region (1=loaded, 0=not loaded)",
+    ["region"]
+)
 
-metrics_tracker = MetricsTracker()
+# Prediction value summary for drift detection
+PREDICTION_VALUE_SUMMARY = Summary(
+    "prediction_value_summary",
+    "Summary of predicted values (for drift detection)",
+    ["region"]
+)
+

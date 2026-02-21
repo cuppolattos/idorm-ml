@@ -1,0 +1,37 @@
+artifact_path: file:///c:/Users/jsnjw/OneDrive - Bina Nusantara/Documents/CAWU 4/DUMMY/Kos
+  Estimation Project/notebooks/mlruns/0/models/m-1e874a83c4f54e2bb58f60f019e8ba76/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.10.0
+model_id: m-1e874a83c4f54e2bb58f60f019e8ba76
+model_size_bytes: 937467
+model_uuid: m-1e874a83c4f54e2bb58f60f019e8ba76
+prompts: null
+run_id: ce33b206ad7242e8812b10764632f7f4
+signature:
+  inputs: '[{"type": "double", "name": "luas_kamar", "required": true}, {"type": "double",
+    "name": "jarak_ke_bca", "required": true}, {"type": "string", "name": "tipe_kos",
+    "required": true}, {"type": "long", "name": "is_km_dalam", "required": true},
+    {"type": "long", "name": "is_water_heater", "required": true}, {"type": "long",
+    "name": "is_furnished", "required": true}, {"type": "long", "name": "is_listrik_free",
+    "required": true}, {"type": "long", "name": "is_parkir_mobil", "required": true},
+    {"type": "long", "name": "is_mesin_cuci", "required": true}, {"type": "integer",
+    "name": "amenities_count", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-02-21 16:29:23.661504'
