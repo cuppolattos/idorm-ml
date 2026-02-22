@@ -1,6 +1,6 @@
 # 🏠 Kos Price Prediction API
 
-> **MLOps-powered REST API** for predicting boarding house (kos) rental prices across Indonesian regions, with full model lifecycle management, observability, and production governance.
+> **MLOps-powered API** for predicting boarding house (kos) rental prices across Indonesian regions, with full model lifecycle management, observability, and production governance.
 
 ---
 
